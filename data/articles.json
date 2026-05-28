@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-28T10:53:42+00:00",
+  "updatedAt": "2026-05-28T23:39:13+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -222,6 +222,43 @@
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41288905/",
       "topics": [
         "Surgery",
+        "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "42046940",
+      "title": "Polydopamine-coated triamcinolone acetonide acetate nanocrystals: prevention of postoperative peritoneal adhesion by combining anti-inflammation, oxidative stress scavenging and cytokine adsorption.",
+      "abstract": "Prevention of postoperative peritoneal adhesion (PA) remains inadequately addressed by current clinical practice due to difficulties in precise regulation of inflammation and elimination of peroxidation products. This study proposed a polydopamine-coated triamcinolone acetonide acetate nanocrystal (TAA@PDA) to prevent peritoneal adhesions via the collective effects of TAA and PDA through multiple mechanisms, including the anti-inflammatory effect, oxidative stress scavenging, certain hemostatic ability and adsorption of pro-inflammatory cytokines by numerous amino/phenolic hydroxyl groups. TAA@PDA particles with a rod-like morphology and an average diameter of approximately 560 nm were successfully prepared via ball milling. TAA@PDA demonstrated excellent physical stability for up to 30 days, ensuring complete drug release within 7 days without sedimentation or aggregation. Anti-inflammatory and anti-oxidative capabilities of TAA@PDA were proven by their strong adsorption onto pro-inflammatory cytokines (e.g., IL-6 and TNF-α), low adsorption capacity of anti-inflammatory IL-10 and ∼80% efficiency in scavenging reactive oxygen/nitrogen species (ROS/RNS). TAA@PDA's adsorption of type I collagen and a strong tissue adhesion rate demonstrated its retention capacity on the abdominal wall or organ surfaces. At the cellular level, TAA@PDA inhibited the intracellular production of ROS and effectively suppressed the secretion of the inflammatory marker nitric oxide (NO). TAA@PDA exhibited certain hemostatic ability for small wound bleeding in abdominal injury. TAA@PDA significantly inhibited peritoneal adhesion formation in PA model animals with a low incidence of severe adhesion (9.1%) which was only 1/8 that of the commercial anti-PA hyaluronic acid gel and 1/5 that of uncoated TAA NCs, further supported by excellent anti-inflammatory performance and significantly reduced collagen deposition shown by pathological examination. In conclusion, this TAA@PDA might provide an efficient solution to prevent postoperative peritoneal adhesion by precise coordination between inflammatory microenvironment regulation and tissue protection.",
+      "journal": "Nanoscale",
+      "issn": "2040-3372",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Liu Y",
+        "Ji D",
+        "Liu S",
+        "Qi X",
+        "Lin C",
+        "Liu H",
+        "Ji Y",
+        "Liu Y",
+        "Lu W"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026 May 28",
+      "year": "2026",
+      "doi": "10.1039/d5nr04935k",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42046940/",
+      "topics": [
+        "Prevention",
+        "Mechanism",
         "Clinical Study"
       ]
     },
@@ -781,43 +818,6 @@
         "Prevention",
         "Surgery",
         "Animal Study"
-      ]
-    },
-    {
-      "pmid": "42046940",
-      "title": "Polydopamine-coated triamcinolone acetonide acetate nanocrystals: prevention of postoperative peritoneal adhesion by combining anti-inflammation, oxidative stress scavenging and cytokine adsorption.",
-      "abstract": "Prevention of postoperative peritoneal adhesion (PA) remains inadequately addressed by current clinical practice due to difficulties in precise regulation of inflammation and elimination of peroxidation products. This study proposed a polydopamine-coated triamcinolone acetonide acetate nanocrystal (TAA@PDA) to prevent peritoneal adhesions via the collective effects of TAA and PDA through multiple mechanisms, including the anti-inflammatory effect, oxidative stress scavenging, certain hemostatic ability and adsorption of pro-inflammatory cytokines by numerous amino/phenolic hydroxyl groups. TAA@PDA particles with a rod-like morphology and an average diameter of approximately 560 nm were successfully prepared via ball milling. TAA@PDA demonstrated excellent physical stability for up to 30 days, ensuring complete drug release within 7 days without sedimentation or aggregation. Anti-inflammatory and anti-oxidative capabilities of TAA@PDA were proven by their strong adsorption onto pro-inflammatory cytokines (e.g., IL-6 and TNF-α), low adsorption capacity of anti-inflammatory IL-10 and ∼80% efficiency in scavenging reactive oxygen/nitrogen species (ROS/RNS). TAA@PDA's adsorption of type I collagen and a strong tissue adhesion rate demonstrated its retention capacity on the abdominal wall or organ surfaces. At the cellular level, TAA@PDA inhibited the intracellular production of ROS and effectively suppressed the secretion of the inflammatory marker nitric oxide (NO). TAA@PDA exhibited certain hemostatic ability for small wound bleeding in abdominal injury. TAA@PDA significantly inhibited peritoneal adhesion formation in PA model animals with a low incidence of severe adhesion (9.1%) which was only 1/8 that of the commercial anti-PA hyaluronic acid gel and 1/5 that of uncoated TAA NCs, further supported by excellent anti-inflammatory performance and significantly reduced collagen deposition shown by pathological examination. In conclusion, this TAA@PDA might provide an efficient solution to prevent postoperative peritoneal adhesion by precise coordination between inflammatory microenvironment regulation and tissue protection.",
-      "journal": "Nanoscale",
-      "issn": "2040-3372",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Liu Y",
-        "Ji D",
-        "Liu S",
-        "Qi X",
-        "Lin C",
-        "Liu H",
-        "Ji Y",
-        "Liu Y",
-        "Lu W"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publicationDate": "2026 Apr 27",
-      "year": "2026",
-      "doi": "10.1039/d5nr04935k",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42046940/",
-      "topics": [
-        "Prevention",
-        "Mechanism",
-        "Clinical Study"
       ]
     },
     {
