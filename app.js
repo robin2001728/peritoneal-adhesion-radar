@@ -37,6 +37,22 @@ function compactAuthors(authors) {
   return authors.length > 3 ? `${authors.slice(0, 3).join(", ")} et al.` : authors.join(", ");
 }
 
+function renderJournalMetrics(metrics = {}) {
+  const items = [];
+  if (metrics.partition) items.push(`<span><b>期刊分区</b>${escapeHtml(metrics.partition)}</span>`);
+  if (metrics.score) {
+    const label = metrics.scoreLabel || "分数";
+    items.push(`<span><b>${escapeHtml(label)}</b>${escapeHtml(metrics.score)}</span>`);
+  }
+  if (metrics.source || metrics.year) {
+    items.push(`<span><b>来源</b>${escapeHtml([metrics.source, metrics.year].filter(Boolean).join(" · "))}</span>`);
+  }
+  if (!items.length) {
+    items.push("<span><b>期刊指标</b>待补充</span>");
+  }
+  return `<div class="journal-metrics">${items.join("")}</div>`;
+}
+
 function populateSelect(select, values) {
   values.forEach((value) => {
     const option = document.createElement("option");
@@ -77,6 +93,7 @@ function renderArticles() {
         <div class="badges">${badges}</div>
         <h3><a href="${escapeHtml(article.pubmedUrl)}" target="_blank" rel="noopener">${escapeHtml(article.title)}</a></h3>
         <p class="citation">${escapeHtml(compactAuthors(article.authors))} · <strong>${escapeHtml(article.journal)}</strong> · ${escapeHtml(article.publicationDate || article.year)} · PMID: ${escapeHtml(article.pmid)}</p>
+        ${renderJournalMetrics(article.journalMetrics)}
         ${article.abstract ? `<p class="abstract">${escapeHtml(article.abstract)}</p>` : ""}
         <div class="article-links">
           <a href="${escapeHtml(article.pubmedUrl)}" target="_blank" rel="noopener">查看 PubMed ↗</a>

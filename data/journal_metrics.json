@@ -1,0 +1,31 @@
+{
+  "description": "Manual lookup table for journal partition and score display. Values are not provided by PubMed. Update this file with the metric system you use, such as CAS partition + JCR Impact Factor or CiteScore.",
+  "journals": {
+    "Biomaterials": {
+      "partition": "JCR Q1 / CAS 1区",
+      "scoreLabel": "Impact Factor",
+      "score": "12.8",
+      "source": "JCR",
+      "year": "2024",
+      "aliases": []
+    },
+    "Carbohydrate Polymers": {
+      "partition": "JCR Q1 / CAS 1区",
+      "scoreLabel": "Impact Factor",
+      "score": "10.7",
+      "source": "JCR",
+      "year": "2024",
+      "aliases": []
+    },
+    "Journal of Controlled Release": {
+      "partition": "JCR Q1 / CAS 1区",
+      "scoreLabel": "Impact Factor",
+      "score": "10.5",
+      "source": "JCR",
+      "year": "2024",
+      "aliases": [
+        "Journal of controlled release : official journal of the Controlled Release Society"
+      ]
+    }
+  }
+}

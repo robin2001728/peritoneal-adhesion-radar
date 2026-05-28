@@ -16,6 +16,7 @@ import urllib.request
 import xml.etree.ElementTree as ET
 
 BASE_URL = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/"
+DEFAULT_METRICS_PATH = Path("data/journal_metrics.json")
 QUERY = """(
   "peritoneal adhesion"[Title/Abstract] OR "peritoneal adhesions"[Title/Abstract]
   OR "peritoneal adhesion formation"[Title/Abstract]
@@ -58,6 +59,23 @@ def text_content(element: ET.Element | None) -> str:
     return re.sub(r"\s+", " ", html.unescape(value)).strip()
 
 
+def normalize_journal(value: str) -> str:
+    return re.sub(r"[^a-z0-9]+", " ", value.lower()).strip()
+
+
+def load_journal_metrics(path: Path) -> dict[str, dict[str, str]]:
+    if not path.exists():
+        return {}
+    payload = json.loads(path.read_text(encoding="utf-8"))
+    metrics = payload.get("journals", payload)
+    indexed = {}
+    for name, item in metrics.items():
+        indexed[normalize_journal(name)] = item
+        for alias in item.get("aliases", []):
+            indexed[normalize_journal(alias)] = item
+    return indexed
+
+
 def pub_date(article: ET.Element) -> tuple[str, str]:
     date = article.find("./MedlineCitation/Article/Journal/JournalIssue/PubDate")
     if date is None:
@@ -83,7 +101,7 @@ def identify_topics(title: str, abstract: str, publication_types: list[str]) -> 
     return topics or ["General"]
 
 
-def parse_article(article: ET.Element) -> dict[str, object]:
+def parse_article(article: ET.Element, journal_metrics: dict[str, dict[str, str]]) -> dict[str, object]:
     citation = article.find("./MedlineCitation")
     pmid = text_content(citation.find("PMID") if citation is not None else None)
     title = text_content(article.find("./MedlineCitation/Article/ArticleTitle"))
@@ -93,6 +111,7 @@ def parse_article(article: ET.Element) -> dict[str, object]:
     ]
     abstract = " ".join(part for part in abstract_parts if part)
     journal = text_content(article.find("./MedlineCitation/Article/Journal/Title"))
+    issn = text_content(article.find("./MedlineCitation/Article/Journal/ISSN"))
     authors = []
     for author in article.findall("./MedlineCitation/Article/AuthorList/Author"):
         collective = text_content(author.find("CollectiveName"))
@@ -112,11 +131,20 @@ def parse_article(article: ET.Element) -> dict[str, object]:
             doi = text_content(identifier)
             break
     publication_date, year = pub_date(article)
+    metrics = journal_metrics.get(normalize_journal(journal), {})
     return {
         "pmid": pmid,
         "title": title,
         "abstract": abstract,
         "journal": journal,
+        "issn": issn,
+        "journalMetrics": {
+            "partition": metrics.get("partition", ""),
+            "scoreLabel": metrics.get("scoreLabel", ""),
+            "score": metrics.get("score", ""),
+            "source": metrics.get("source", ""),
+            "year": metrics.get("year", ""),
+        },
         "authors": authors,
         "publicationTypes": publication_types,
         "publicationDate": publication_date,
@@ -127,7 +155,8 @@ def parse_article(article: ET.Element) -> dict[str, object]:
     }
 
 
-def fetch_articles(limit: int) -> list[dict[str, object]]:
+def fetch_articles(limit: int, metrics_path: Path) -> list[dict[str, object]]:
+    journal_metrics = load_journal_metrics(metrics_path)
     search_data = request("esearch.fcgi", {
         "db": "pubmed",
         "term": QUERY,
@@ -145,15 +174,16 @@ def fetch_articles(limit: int) -> list[dict[str, object]]:
         "retmode": "xml",
     })
     root = ET.fromstring(fetched)
-    return [parse_article(article) for article in root.findall("./PubmedArticle")]
+    return [parse_article(article, journal_metrics) for article in root.findall("./PubmedArticle")]
 
 
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--limit", type=int, default=120, help="Number of recent records to retain")
     parser.add_argument("--output", type=Path, default=Path("data/articles.json"))
+    parser.add_argument("--metrics", type=Path, default=DEFAULT_METRICS_PATH, help="Journal metrics lookup JSON")
     args = parser.parse_args()
-    articles = fetch_articles(args.limit)
+    articles = fetch_articles(args.limit, args.metrics)
     payload = {
         "updatedAt": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"),
         "source": "PubMed",

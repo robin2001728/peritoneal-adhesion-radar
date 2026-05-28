@@ -6,6 +6,7 @@
 
 - 以英文 PubMed 记录为主，覆盖 `peritoneal adhesion`、`postoperative adhesion`、`intra-abdominal adhesion` 及相关 MeSH 检索组合。
 - 支持按题名/摘要/作者/期刊搜索，并按年份、文章类型与研究方向过滤。
+- 支持显示期刊分区和分数。PubMed 不提供 JCR/中科院分区，需在 `data/journal_metrics.json` 中维护常用期刊指标，抓取脚本会自动匹配。
 - 每天北京时间 `06:10` 由 GitHub Actions 自动更新最近 120 条记录并部署网站。
 - 网站为纯静态文件，可免费托管在 GitHub Pages。
 
@@ -15,6 +16,22 @@
 
 ```bash
 python3 scripts/fetch_pubmed.py --limit 120
+```
+
+更新期刊分区和分数：
+
+编辑 `data/journal_metrics.json`，为期刊填写 `partition`、`scoreLabel`、`score`、`source` 和 `year`。例如：
+
+```json
+{
+  "Biomaterials": {
+    "partition": "JCR Q1 / CAS 1区",
+    "scoreLabel": "Impact Factor",
+    "score": "12.8",
+    "source": "JCR",
+    "year": "2024"
+  }
+}
 ```
 
 启动本地静态服务器：
