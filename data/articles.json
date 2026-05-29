@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-28T23:39:13+00:00",
+  "updatedAt": "2026-05-29T23:38:26+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -221,6 +221,89 @@
       "doi": "10.1007/s11255-025-04927-y",
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41288905/",
       "topics": [
+        "Surgery",
+        "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "42213352",
+      "title": "Robotic versus laparoscopic Hartmann reversal: a multicentric analysis by ICoRS (Italian club of robotic Surgery).",
+      "abstract": "Hartmann's procedure is often performed in emergency settings for complicated diverticulitis, obstructive colorectal cancer, or colonic perforations when primary anastomosis is not feasible. Hartmann Reversal (HR) is technically demanding, primarily due to dense intra-abdominal adhesions, and is traditionally performed in open or laparoscopic surgery. However, laparoscopic reversal is associated with high conversion rates, often due to difficulties in adhesiolysis. Robotic surgery, offering enhanced visualization and instrument dexterity, has been proposed as a promising alternative. This retrospective multicenter study analyzed 89 patients who underwent minimally invasive Hartmann reversal across six Italian tertiary colorectal centers from 2013 to 2023. Of these, 45 patients underwent robotic reversal and 44 laparoscopic reversal. Only procedures that included standardized surgical steps-adhesiolysis, colostomy and rectal stump mobilization, and colorectal anastomosis-were included. The primary outcome was the conversion rate to open surgery. Secondary outcomes included intraoperative complications, postoperative morbidity, and recovery parameters. Baseline demographics and comorbidities were similar between groups. The conversion rate was significantly lower in the robotic group (0% vs. 20.5%, p = 0.001), though operative time was longer (p < 0.001). There were no statistically significant differences in overall postoperative complications (p = 0.052), anastomotic leaks (0 vs. 3, p = 0.285), or recovery outcomes. Multivariate analysis showed that no baseline variables significantly affected conversion risk. This is the first comparative study between robotic and laparoscopic Hartmann reversal. The findings suggest that robotic surgery may reduce conversion rates and improve procedural feasibility. Larger prospective studies are needed to confirm these results and assess long-term outcomes.",
+      "journal": "Updates in surgery",
+      "issn": "2038-3312",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Manigrasso M",
+        "Anoldo P",
+        "Andreuccetti J",
+        "Ceccarelli G",
+        "Cianchi F",
+        "Coratti A",
+        "D'Amore A",
+        "De Capua M",
+        "Filotico M",
+        "Formisano G",
+        "Fortuna L",
+        "Giuliani G",
+        "Giuratrabocchetta S",
+        "Guarriello S",
+        "Guerra F",
+        "Pignata G",
+        "Rondelli F",
+        "Staderini F",
+        "Bianchi PP",
+        "Milone M"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026 May 29",
+      "year": "2026",
+      "doi": "10.1007/s13304-026-02583-0",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42213352/",
+      "topics": [
+        "Surgery",
+        "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "42210275",
+      "title": "Association between abdominal surgical incision type and midline intraperitoneal adhesion occurrence, findings from laparoscopic evaluation in a low-resource setting; a retrospective cohort of laparoscopic evaluations.",
+      "abstract": "Abdominal incisions are mostly done in the umbilical or suprapubic regions, typically in the midline, to prevent visceral and vascular injury, by taking advantage of the greater distance between these incision sites and the intraabdominal structures. Unfortunately, adhesions often form at the peritoneal surfaces of these sites, making repeat surgical access, a daunting task. The study aimed to determine the relationship between surgical incision type and the occurrence, location, spread and severity of peritoneal adhesions. A Retrospective cohort study, involving laparoscopic evaluation of 296 patients. Laparoscopic entry was with the aid of a Veress needle in all cases, while insufflation was done with carbon dioxide using a pre-set pressure of 15mmHg for all diagnostic and 18-20mmHg, for all the operative procedures. The reported adhesions were scored using the Peritoneal Adhesion Index (PAI) score. The prevalence of adhesion was 96/296 (32.4%) of laparoscopies, with majority 80/96 (83.3%) in the midline region. Over half of the adhesions were attached to the anterior abdominal wall. Previous peritoneal surgery (p = 0.004, ARR = 40.27, 16.47-64.77), was the main association with adhesion formation. This factor was also the main predictor of adhesion location within the midline regions (p < 0.001, ARR = 10.28, 3.11-34.58) this finding, was irrespective of surgical involvement of uterus or adnexa (p = 0.997). No association was, however, found between the risk of adhesion attachment to the anterior abdominal wall and presence of adhesion in the midline (p = 0.999) or individual midline regions; epigastric (p = 0.778), umbilical (p = 0.345), suprapubic (p = 0.999). Exploratory laparotomy (PAI = 10.80 ± 2.86), myomectomy (PAI = 10.89 ± 3.71) and salpingectomy (PAI = 11.00 ± 5.66) had more severe adhesions, while appendicectomy (PAI = 6.17 ± 3.74) and caesarean section (PAI = 7.47 ± 3.34) the least. Adhesion occurrence (p = 0.883), midline adhesion (p = 0.997) or anterior abdominal wall attachment (p = 0.327) were, however, not significantly associated with incision type. Previous peritoneal surgery, irrespective of uterine or adnexal involvement, was associated with increased risk for adhesion formation. The incision type and the depth of surgery, were, however, not significantly associated with adhesion formation, adhesion location or attachment to the anterior abdominal wall, suggesting an interplay of other operative surgical considerations.",
+      "journal": "BMC women's health",
+      "issn": "1472-6874",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Imaralu JO",
+        "Olalere H",
+        "Nathaniel MB",
+        "Olatunji OF",
+        "Adewole A",
+        "Odugbemi OO",
+        "Okojie N",
+        "Imaralu EI"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026 May 28",
+      "year": "2026",
+      "doi": "10.1186/s12905-026-04579-9",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42210275/",
+      "topics": [
+        "Prevention",
         "Surgery",
         "Clinical Study"
       ]
@@ -4171,76 +4254,6 @@
       "year": "2025",
       "doi": "10.1016/j.ejso.2025.110259",
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/40651452/",
-      "topics": [
-        "Surgery",
-        "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "40633943",
-      "title": "Peritoneal Lavage With Low GDP Neutral pH PD Solution Reduces Mortality and Severity in a Lethal Peritonitis Model.",
-      "abstract": "The efficacy of peritoneal lavage monotherapy using PD solution for severe peritonitis remains unproven. We evaluated the effects of 3-times and 6-times lavage using low GDP neutral PD solution on a Methicillin-sensitive Staphylococcus aureus (MSSA) lethal peritonitis model rats without antibiotic use. Changes in effluent viable bacteria numbers dependent on lavage frequency were determined in a further 10 rats. Compared to the lethal peritonitis model without lavage, both 3-times and 6-times lavage significantly reduced 24-h mortality, effluent FDP and creatinine concentrations. Furthermore, 6-times lavage significantly prevented the rough fur development, intraabdominal adhesion, and pus formation which developed in both the 0-times and 3-times lavage groups. The effluent viable bacterial counts showed significant step-ladder decreases with an increasing number of the lavages. We demonstrated for the first time that lavage monotherapy using PD solution reduces mortality and severity in a lethal peritonitis model by rapidly eliminating bacteria without antibiotic use.",
-      "journal": "Therapeutic apheresis and dialysis : official peer-reviewed journal of the International Society for Apheresis, the Japanese Society for Apheresis, the Japanese Society for Dialysis Therapy",
-      "issn": "1744-9987",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Ikeda M",
-        "Haruhara K",
-        "Maruyama Y",
-        "Tanaka N",
-        "Kusanagi R",
-        "Sakamaki Y",
-        "Hagiwara H",
-        "Yokoo T"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publicationDate": "2025 Oct",
-      "year": "2025",
-      "doi": "10.1111/1744-9987.70061",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/40633943/",
-      "topics": [
-        "Prevention",
-        "Animal Study"
-      ]
-    },
-    {
-      "pmid": "40988227",
-      "title": "Cases analysis and management strategies for ventricular shunt failure in hydrocephalus.",
-      "abstract": "This report details 2 complex cases of recurrent ventriculoperitoneal (VP) shunt failure due to peritoneal pathology and infection, highlighting the clinical rationale for utilizing ventriculatrial (VA) shunting as a salvage procedure and the potential for subsequent VP shunt reimplantation after peritoneal recovery. Case 1: A 57-year-old male presented with recurrent episodes of progressive gait instability, somnolence, cognitive decline, and vomiting over 9 months following initial VP shunt placement, despite multiple surgical revisions. Case 2: A 46-year-old male with a long history of shunt complications presented with worsening gait instability, impaired concentration, episodic dizziness, and intermittent confusion approximately 16 months after a VA shunt was placed as a secondary measure. Both cases were diagnosed with recurrent hydrocephalus secondary to shunt failure. Case 1 was diagnosed with distal VP shunt obstruction caused by peritoneal adhesions, followed by a subsequent shunt infection confirmed by cerebrospinal fluid analysis. Case 2 was diagnosed with VA shunt valve failure despite correct catheter position, as indicated by shunt pressure monitoring and persistent symptoms. Case 1: After multiple unsuccessful peritoneal catheter revisions and externalization for infection control, the patient was converted to a VA shunt. Case 2: Following the failure of VA shunt valve adjustments, abdominal ultrasound confirmed peritoneal recovery. The VA shunt was subsequently replaced with a contralateral VP shunt featuring a more granular adjustable valve. Case 1: Conversion to a VA shunt resulted in full neurological recovery, resolution of hydrocephalus symptoms, and no further complications at follow-up. Case 2: Contralateral VP shunt reimplantation led to the resolution of all neurological symptoms, significant functional recovery, and a return to independent daily activities, with no recurrence at the 6-month follow-up. VA shunting is a safe and effective salvage procedure for patients with VP shunt failure attributable to peritoneal complications. Furthermore, these cases demonstrate that the peritoneal cavity can recover over time, allowing for successful VP shunt reimplantation if distal catheter failure recurs. A dynamic and individualized management strategy is essential for complex hydrocephalus cases.",
-      "journal": "Medicine",
-      "issn": "1536-5964",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Zhang J",
-        "Lin J",
-        "Quan Y",
-        "Zheng J",
-        "Zhang P",
-        "Jiang T",
-        "Wang X"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Case Reports"
-      ],
-      "publicationDate": "2025 Sep 19",
-      "year": "2025",
-      "doi": "10.1097/MD.0000000000044425",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/40988227/",
       "topics": [
         "Surgery",
         "Clinical Study"
