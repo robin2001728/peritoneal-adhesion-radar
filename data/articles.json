@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-01T23:42:48+00:00",
+  "updatedAt": "2026-06-02T23:58:35+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -42,6 +42,44 @@
         "Biomaterials",
         "Mechanism",
         "Surgery",
+        "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "42225809",
+      "title": "Comparison of seprafilm and pitavastatin treatments in an experimental model of peritoneal adhesion.",
+      "abstract": "Peritoneal adhesions are common following abdominal surgery and lead to significant morbidity. Both pharmacological agents and barrier methods have been investigated for prevention, but with limited success. In this study, the efficacy of intraperitoneal pitavastatin was evaluated and compared with Seprafilm. Thirty-two female Wistar albino rats were randomly divided into four groups (n = 8): control, saline, pitavastatin (30 mg/kg intraperitoneal), and Seprafilm (30 × 20 mm). Macroscopic adhesions were graded using the Majuzi classification, and microscopic adhesions were assessed using the Zühlke scoring system. Plasma SCUBE1, malondialdehyde, and tissue-type plasminogen activator levels were analyzed. Macroscopic evaluation showed that adhesions were predominantly grade 2 in the control group (62.5%) and the saline group (75%). In contrast, a partial reduction in adhesion severity was observed in both the pitavastatin and Seprafilm groups; 25% of patients in both groups showed no adhesions (grade 0). Lower-grade adhesions (grades 1-2) were observed more frequently in these treatment groups. Microscopically, all rats in the control and Seprafilm groups were classified as stage 2 according to the Zühlke grading system. While grade 1 adhesions were predominantly observed in the saline group (87.5%), a broader distribution was observed in the pitavastatin group, including grade 1 (25%), grade 2 (50%), and grade 3 (25%) adhesions. Biochemical analysis revealed no significant differences among groups in plasma SCUBE1 (p = 0.294) and malondialdehyde levels (p = 0.051). However, plasma tissue-type plasminogen activator levels were significantly higher in the control group compared with both the pitavastatin (p = 0.012) and Seprafilm groups (p = 0.027). Intraperitoneal pitavastatin has demonstrated efficacy comparable to that of Seprafilm; however, neither treatment provided a statistically significant protective effect against postoperative peritoneal adhesions.",
+      "journal": "Scientific reports",
+      "issn": "2045-2322",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Çınar H",
+        "Kesicioğlu T",
+        "Özgen U",
+        "Keskin A",
+        "Aydın İ",
+        "Akalın Ç",
+        "Şengül D",
+        "Işık S",
+        "Usta M"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Jun 01",
+      "year": "2026",
+      "doi": "10.1038/s41598-026-54196-7",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42225809/",
+      "topics": [
+        "Prevention",
+        "Surgery",
+        "Animal Study",
         "Clinical Study"
       ]
     },
@@ -4221,38 +4259,6 @@
       "year": "2025",
       "doi": "10.1016/j.acra.2025.06.049",
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/40670227/",
-      "topics": [
-        "Surgery",
-        "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "40651452",
-      "title": "Impact of previous abdominal surgery on minimally invasive radical resection of colorectal cancer: A meta-analysis.",
-      "abstract": "The suitability of minimally invasive surgery (MIS) for colorectal cancer (CRC) in patients who have undergone previous abdominal surgery (PAS) is controversial. This study aimed to analyse the effect of PAS on MIS in patients with CRC. We performed a meta-analysis by searching the Web of Science, MEDLINE, Embase, and Cochrane Library databases from their inception until March 2024. All published studies exploring the effects of PAS on laparoscopic or robot-assisted radical resection for CRC were included. In total, 1271 studies were retrieved, of which 12 were included in the meta-analysis, including 11,528 patients with CRC. The results showed that the conversion of minimally invasive procedures to open surgery was more common in patients with PAS (odds ratio [OR] = 1.57, p < 0.0001), and most of them were due to abdominal adhesions (OR = 5.01, p < 0.0001). The time to the first flatus was prolonged (weighted mean difference = 0.24, p = 0.008), and patients with PAS were more likely to develop ileus (OR = 1.40, p = 0.03) after surgery. The operative time, intraoperative blood loss, lymph node harvest, overall and major postoperative complications, reoperation, and mortality did not increase significantly. In addition, subgroup analysis revealed that major PAS increased the incidence of overall postoperative complications in patients with CRC (OR = 2.61, p = 0.003), whereas minor PAS was comparable to the postoperative clinical outcomes in patients without PAS. Generally, MIS is safe and effective for patients with CRC and PAS. Surgeons should not discourage patients with PAS from undergoing MIS while improving their experience with laparoscopic or robotic surgery.",
-      "journal": "European journal of surgical oncology : the journal of the European Society of Surgical Oncology and the British Association of Surgical Oncology",
-      "issn": "1532-2157",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Liu W",
-        "He F",
-        "Chen D",
-        "Zhang X"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Meta-Analysis"
-      ],
-      "publicationDate": "2025 Oct",
-      "year": "2025",
-      "doi": "10.1016/j.ejso.2025.110259",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/40651452/",
       "topics": [
         "Surgery",
         "Clinical Study"
