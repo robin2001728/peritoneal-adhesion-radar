@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T23:19:56+00:00",
+  "updatedAt": "2026-06-05T23:21:45+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -450,6 +450,71 @@
       "topics": [
         "Prevention",
         "Mechanism",
+        "Surgery",
+        "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "42245310",
+      "title": "Therapeutic strategy for incarcerated obturator hernia: laparoscopic surgery after ultrasound-guided noninvasive manual reduction.",
+      "abstract": "Obturator hernia is a rare but serious disease associated with high morbidity and mortality, as it usually develops in the elderly. Herein, we evaluated the results of a less-invasive strategy for incarcerated obturator hernia (IOH) treated by laparoscopic repair after ultrasound sonography reduction. Study design: We retrospectively reviewed the records of 15 consecutive patients with IOH treated between April 2019 and March 2025. Fifteen patients with IOH were treated at our hospital. Of these, 13 patients underwent ultrasound-guided, non-invasive manual reduction. One patient underwent emergency laparotomy due to suspected small bowel necrosis, and one patient underwent emergency laparoscopic surgery due to unsuccessful reduction. Elective laparoscopic surgery was attempted in 12 patients, of whom 10 patients underwent laparoscopic mesh-plug hernioplasty. One patient developed bowel necrosis and perforation after manual reduction and subsequently underwent laparoscopic surgery with simple ligation. One patient required conversion to open surgery due to intraperitoneal adhesions. One patient died of age-related causes without undergoing surgery after manual reduction. Laparoscopic repair after ultrasound-guided manual reduction for IOH is an effective and minimally invasive therapeutic strategy. However, patients with IOH are often elderly and frail, with multiple comorbidities; moreover, the small intestine may become incarcerated, leading to necrosis and perforation. Therefore, early diagnosis and intervention are essential. Additionally, continuous and careful evaluation of the patient's overall condition throughout treatment is necessary.",
+      "journal": "Frontiers in surgery",
+      "issn": "2296-875X",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Shioi Y",
+        "Kawashima T",
+        "Kumagai H",
+        "Ito K",
+        "Tsushima M",
+        "Fujii Y"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026",
+      "year": "2026",
+      "doi": "10.3389/fsurg.2026.1835718",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42245310/",
+      "topics": [
+        "Surgery",
+        "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "42245298",
+      "title": "Recurrent hepatocellular carcinoma treated by laparoscopic non-anatomical liver resection via the retroperitoneal approach: a case report.",
+      "abstract": "Repeat laparoscopic hepatic resection is an important treatment for recurrent hepatocellular carcinoma. However, intra-abdominal adhesions from prior open surgery and poor exposure of posterior segment lesions significantly increase surgical difficulty and risk. To address these challenges, we adopted an innovative retroperitoneal approach for recurrent segment VI hepatocellular carcinoma after previous open hepatectomy. We report a case of a patient who had previously undergone open non-anatomical resection of a liver tumor in segment VII, followed by multiple sessions of transarterial chemoembolization and microwave ablation after tumor recurrence. At the 6th year of follow-up after hepatic resection, contrast-enhanced magnetic resonance imaging revealed a recurrent lesion measuring 2.0 × 1.6 cm in segment VI of the liver, adjacent to the adrenal gland. Given the patient's history of prior open surgery and multiple minimally invasive treatments, the possibility of intra-abdominal adhesions was considered. Moreover, the retroperitoneal approach allows direct exposure of the tumor in segment VI of the liver. Therefore, we selected the retroperitoneal approach combined with intraoperative ultrasound and successfully performed a laparoscopic non-anatomical resection of the segment VI liver tumor. The patient recovered smoothly postoperatively and was discharged uneventfully. For highly selected patients with a small superficial segment VI tumor without major vascular invasion or severe cirrhosis, the retroperitoneal approach for repeat laparoscopic non-anatomical resection is feasible.",
+      "journal": "Frontiers in surgery",
+      "issn": "2296-875X",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Zhang K",
+        "Liu Y",
+        "Liu B",
+        "Ge R"
+      ],
+      "publicationTypes": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "publicationDate": "2026",
+      "year": "2026",
+      "doi": "10.3389/fsurg.2026.1826219",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42245298/",
+      "topics": [
         "Surgery",
         "Clinical Study"
       ]
@@ -4181,85 +4246,6 @@
       "topics": [
         "Prevention",
         "Mechanism",
-        "Surgery",
-        "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "40810380",
-      "title": "STING inhibition alleviates experimental peritoneal damage: potential therapeutic relevance for peritoneal dialysis.",
-      "abstract": "Peritoneal dialysis (PD) is a widely used kidney replacement therapy for patients with end-stage kidney disease. Nevertheless, long-term exposure to PD fluid can damage the peritoneal membrane, leading to ultrafiltration failure and, ultimately, discontinuation of PD. Investigation of the molecular mechanisms underlying this damage is essential for identifying new therapeutic targets to mitigate peritoneal deterioration in PD patients. To this end, we employed RNA sequencing in a preclinical model of peritoneal injury, induced by prolonged chlorhexidine (CHX) exposure, which revealed cytosolic DNA-sensing signaling as a novel pathway. Next, we demonstrated that key players in this pathway, such as the stimulator of interferon genes (STING) and its downstream signaling effectors (interferon regulatory factor 3, interferon-stimulated genes, and nuclear factor-κB signaling), were upregulated in experimental peritoneal damage. Moreover, increased STING expression was observed in human peritoneal biopsies from patients with PD. Subsequent studies in STING-deficient mice showed reduced proinflammatory gene expression and immune cell infiltration, together with inhibited nuclear factor-κB pathway activation at both early (10 days) and late (30 days) stages of CHX-induced peritoneal injury. STING deficiency also reduced peritoneal membrane thickening, fibrosis, and mesothelial-to-mesenchymal transition (MMT)-related changes in advanced CHX-induced damage. Furthermore, pharmacological inhibition of STING with C-176 attenuated CHX-induced peritoneal inflammation. Macrophages were identified as one of the STING-expressing cell types in the injured peritoneum. Hence, in vitro STING blockade in activated macrophages inhibited MMT in cultured mesothelial cells, suggesting that STING activation in this population may drive peritoneal fibrosis. Additionally, STING deficiency reduced peritoneal inflammation in S. epidermidis-induced peritonitis and decreased adhesion scores in a postsurgical intra-abdominal adhesion model. These findings identify STING as a pivotal mediator of peritoneal injury and support its potential as a novel therapeutic target to prevent PD-associated ultrafiltration failure. © 2025 The Author(s). The Journal of Pathology published by John Wiley & Sons Ltd on behalf of The Pathological Society of Great Britain and Ireland.",
-      "journal": "The Journal of pathology",
-      "issn": "1096-9896",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Marchant V",
-        "García-Giménez J",
-        "González-Mateo GT",
-        "Sandoval P",
-        "Tejedor-Santamaria L",
-        "Rayego-Mateos S",
-        "Ramos R",
-        "Jiménez-Heffernan JA",
-        "Ortiz A",
-        "Raby AC",
-        "López-Cabrera M",
-        "Ramos AM",
-        "Ruiz-Ortega M"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publicationDate": "2025 Oct",
-      "year": "2025",
-      "doi": "10.1002/path.6462",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/40810380/",
-      "topics": [
-        "Prevention",
-        "Biomaterials",
-        "Mechanism",
-        "Animal Study",
-        "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "40670227",
-      "title": "A Novel Nomogram Integrating Early Postoperative Hemodynamics with Perioperative Clinical Variables for Predicting Liver Transplantation Overall Survival.",
-      "abstract": "Post-liver transplantation (LT) mortality remains significant despite surgical advances. Current prediction models show limited predictive performance for post-LT outcomes. We aimed to develop and validate a novel LT overall survival (LTOS)-nomogram integrating early postoperative hemodynamic parameters with perioperative clinical variables for predicting survival after LT. This single-center retrospective study included 204 recipients who underwent LT between April 2016 and December 2023. Patients were randomly divided into training (n=104) and testing (n=100) sets. The Boruta algorithm combined with least absolute shrinkage and selection operator regression identified key predictors for survival. A Cox regression-based nomogram was constructed and validated using time-dependent receiver operating characteristic curves and area under the curves (AUCs), calibration, and decision curve analysis curves. Five key predictors were identified by both algorithms: portal vein flow and hepatic artery resistive index measured by Doppler ultrasound within 24 h post-LT, preoperative white blood cell count, portal vein thrombosis, and abdominal adhesion. Kaplan-Meier analyses demonstrated significant survival differences for patients categorized by these factors (P<0.001). The LTOS-nomogram demonstrated good predictive performance for 30-day, 90-day, and 1-year survival in both training (AUCs=0.907, 0.888, and 0.845, respectively) and testing sets (AUCs=0.847, 0.900, and 0.816, respectively), with good calibration and higher net benefit in decision curve analysis, outperforming the model for end-stage liver disease score and Child-Pugh classification. An online calculator was developed to facilitate clinical application (https://ltosproject.netlify.app). The LTOS-nomogram effectively predicts post-LT survival by integrating early postoperative hemodynamic parameters with perioperative clinical variables, providing a valuable tool for risk stratification and individualized management of LT recipients.",
-      "journal": "Academic radiology",
-      "issn": "1878-4046",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Gao Y",
-        "Dong B",
-        "Zhao E",
-        "Liu Z",
-        "Zhou J",
-        "Ni X",
-        "Mo B",
-        "Zhang C"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Research Support, Non-U.S. Gov't"
-      ],
-      "publicationDate": "2025 Oct",
-      "year": "2025",
-      "doi": "10.1016/j.acra.2025.06.049",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/40670227/",
-      "topics": [
         "Surgery",
         "Clinical Study"
       ]
