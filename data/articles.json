@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T23:21:45+00:00",
+  "updatedAt": "2026-06-06T23:14:29+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -261,6 +261,34 @@
       "topics": [
         "Surgery",
         "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "40854367",
+      "title": "Abdominal Adhesions as an Ectopic Pregnancy Site.",
+      "abstract": "",
+      "journal": "Journal of minimally invasive gynecology",
+      "issn": "1553-4669",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Rajagopal S",
+        "Lewis K"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Jun",
+      "year": "2026",
+      "doi": "10.1016/j.jmig.2025.08.015",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/40854367/",
+      "topics": [
+        "General"
       ]
     },
     {
@@ -2446,7 +2474,8 @@
         "Stevanny B"
       ],
       "publicationTypes": [
-        "Journal Article"
+        "Journal Article",
+        "Comparative Study"
       ],
       "publicationDate": "2026",
       "year": "2026",
@@ -4217,37 +4246,6 @@
         "Biomaterials",
         "Mechanism",
         "Surgery"
-      ]
-    },
-    {
-      "pmid": "40848700",
-      "title": "Adhesive small bowel obstruction with familial Mediterranean fever, case series and literature review.",
-      "abstract": "Familial Mediterranean Fever (FMF) manifests in 90 % of patients as recurrent episodes of peritoneal inflammation, mimicking an acute surgical abdomen. These attacks typically resolve spontaneously within 72 h. However, recurrent peritonitis can lead to primary intraperitoneal adhesions even in the absence of prior surgery-a rare but serious complication of FMF that may result in bowel strangulation or volvulus. Early recognition is crucial to prevent life-threatening complications. We present three pediatric cases of FMF complicated by primary adhesive small bowel obstruction (PASBO). Two patients had a prior FMF diagnosis, while the third was diagnosed postoperatively based on surgical findings. All three patients required surgical intervention for PASBO, with varying degrees of adhesion severity. Early recognition of PASBO in FMF patients is essential to prevent complications such as bowel necrosis. PASBO should be considered in FMF patients with persistent obstructive symptoms or atypical abdominal pain. Conversely, PASBO in patients with a history of recurrent abdominal pain should raise suspicion for undiagnosed FMF. Increased awareness among pediatric surgeons, gastroenterologists, and pediatricians is critical for timely intervention.",
-      "journal": "International journal of surgery case reports",
-      "issn": "2210-2612",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "El-Mefleh N",
-        "Nakwan A"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publicationDate": "2025 Oct",
-      "year": "2025",
-      "doi": "10.1016/j.ijscr.2025.111823",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/40848700/",
-      "topics": [
-        "Prevention",
-        "Mechanism",
-        "Surgery",
-        "Clinical Study"
       ]
     }
   ]
