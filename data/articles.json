@@ -1,9 +1,44 @@
 {
-  "updatedAt": "2026-06-12T23:42:38+00:00",
+  "updatedAt": "2026-06-13T23:18:13+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
   "articles": [
+    {
+      "pmid": "41997426",
+      "title": "Mesenchymal stem cells and their exosomes from umbilical cord and adipose tissue in the prevention of postoperative intra-abdominal adhesions: A rat model study.",
+      "abstract": "To compare anti-adhesive effects of umbilical cord- and adipose tissue-derived mesenchymal stem cells (MSCs) and their exosomes in a rat model of postoperative intra-abdominal adhesion, and to explore whether responses differ by tissue source and route of administration. Thirty-five female Sprague-Dawley rats were randomly assigned to seven groups (n = 5/group): Group 1, negative control; Group 2, positive control (injury, no treatment); Group 3, UC-MSC; Group 4, UC-MSC-derived exosomes; Group 5, AD-MSC; Group 6, AD-MSC-derived exosomes; and Group 7, intravenous UC-MSC-derived exosomes. Treatments were administered at laparotomy closure. At postoperative week 3, macroscopic adhesion scores were recorded, and peritoneal samples were evaluated for histopathology and immunohistochemical expression of Collagen I, FGF2, VEGF, and HIF-1α. Untreated rats (Group 2) developed severe adhesions with marked tissue thickening, fibrosis, inflammation, and neovascularization, accompanied by increased Collagen I, FGF2, VEGF, and HIF-1α expression (all p < 0.001 vs. control). UC-MSC and AD-MSC treatment (Groups 3, 5) partially attenuated these changes, although fibrosis and extracellular matrix accumulation persisted. Exosome-treated groups (Groups 4, 6, 7) showed more favorable histopathological and immunohistochemical profiles, including lower adhesion thickness and histologic scores, better mesothelial preservation, less vascular proliferation, and reduced profibrotic and proangiogenic markers versus the positive control group (p < 0.001). In this rat model, MSC-derived exosomes were associated with more favorable anti-adhesive and antifibrotic findings than MSC treatment alone. Exosome-based treatment showed the most favorable overall profile, while tissue source- and route-related differences should be interpreted cautiously. These findings support further preclinical investigation of exosomes for postoperative adhesion prevention.",
+      "journal": "The international journal of biochemistry & cell biology",
+      "issn": "1878-5875",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Akdemir A",
+        "Atay AO",
+        "Akman L",
+        "Eroglu E",
+        "Uyanikgil Y",
+        "Tamjidifar R",
+        "Ercan G"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026",
+      "year": "2026",
+      "doi": "10.1016/j.biocel.2026.106948",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41997426/",
+      "topics": [
+        "Prevention",
+        "Mechanism",
+        "Animal Study"
+      ]
+    },
     {
       "pmid": "41759383",
       "title": "Synergistic cross-linking and mineralization for wet-tough, biocompatible collagen-based hernia patches.",
@@ -1143,41 +1178,6 @@
         "Surgery",
         "Animal Study",
         "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "41997426",
-      "title": "Mesenchymal Stem Cells and Their Exosomes from Umbilical Cord and Adipose Tissue in the Prevention of Postoperative Intra-abdominal Adhesions: A Rat Model Study.",
-      "abstract": "To compare anti-adhesive effects of umbilical cord- and adipose tissue-derived mesenchymal stem cells (MSCs) and their exosomes in a rat model of postoperative intra-abdominal adhesion, and to explore whether responses differ by tissue source and route of administration. Thirty-five female Sprague-Dawley rats were randomly assigned to seven groups (n=5/group): Group 1, negative control; Group 2, positive control (injury, no treatment); Group 3, UC-MSC; Group 4, UC-MSC-derived exosomes; Group 5, AD-MSC; Group 6, AD-MSC-derived exosomes; and Group 7, intravenous UC-MSC-derived exosomes. Treatments were administered at laparotomy closure. At postoperative week 3, macroscopic adhesion scores were recorded, and peritoneal samples were evaluated for histopathology and immunohistochemical expression of Collagen I, FGF2, VEGF, and HIF-1α. Untreated rats (Group 2) developed severe adhesions with marked tissue thickening, fibrosis, inflammation, and neovascularization, accompanied by increased Collagen I, FGF2, VEGF, and HIF-1α expression (all p<0.001 vs. control). UC-MSC and AD-MSC treatment (Groups 3, 5) partially attenuated these changes, although fibrosis and extracellular matrix accumulation persisted. Exosome-treated groups (Groups 4, 6, 7) showed more favorable histopathological and immunohistochemical profiles, including lower adhesion thickness and histologic scores, better mesothelial preservation, less vascular proliferation, and reduced profibrotic and proangiogenic markers versus the positive control group (p<0.001). In this rat model, MSC-derived exosomes were associated with more favorable anti-adhesive and antifibrotic findings than MSC treatment alone. Exosome-based treatment showed the most favorable overall profile, while tissue source- and route-related differences should be interpreted cautiously. These findings support further preclinical investigation of exosomes for postoperative adhesion prevention.",
-      "journal": "The international journal of biochemistry & cell biology",
-      "issn": "1878-5875",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Akdemir A",
-        "Atay AO",
-        "Akman L",
-        "Eroglu E",
-        "Uyanikgil Y",
-        "Tamjidifar R",
-        "Ercan G"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publicationDate": "2026 Apr 15",
-      "year": "2026",
-      "doi": "10.1016/j.biocel.2026.106948",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41997426/",
-      "topics": [
-        "Prevention",
-        "Mechanism",
-        "Animal Study"
       ]
     },
     {
