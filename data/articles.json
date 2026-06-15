@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T23:22:58+00:00",
+  "updatedAt": "2026-06-15T23:58:09+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -77,6 +77,120 @@
         "Biomaterials",
         "Mechanism",
         "Surgery",
+        "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "42296279",
+      "title": "Evaluation of the Efficacy of Photobiomodulation Therapy, Therapeutic Ultrasound, and Boric Acid in the Prevention of Intra-Abdominal Adhesions in an Experimental Rat Model: A Macroscopic, Histopathological, and Gene Expression Analysis.",
+      "abstract": "This study aimed to evaluate the efficacy of photobiomodulation therapy (PBMT), therapeutic ultrasound (TUS), boric acid (BA), and their combinations in preventing experimentally induced intra-abdominal adhesions in rats. Ninety-six male Wistar rats (14 weeks old) were randomly assigned to eight groups (Control, Laparotomy, Physiological Saline, BA, PBMT, TUS, BA + PBMT, and BA + TUS; n = 12/group). Adhesions were surgically induced. Treatments were applied once daily for 7 consecutive days as follows: BA (8 mg/kg, intraperitoneal), PBMT (904 nm, 3 J/cm2 applied to the incision site), and TUS (1 MHz, 0.5 W/cm2 applied to the incision site). On Day 8, rats were euthanized, and peritoneal fluid and adhesion tissue samples were collected for macroscopic scoring, histopathology, biochemical assays, and gene expression analyses. PBMT alone significantly reduced adhesion scores compared with the control (p < 0.05) and showed the most pronounced antifibrotic effect, while BA and TUS, alone or in combination, had limited impact. BA treatment increased malondialdehyde (MDA) levels (p < 0.05), indicating higher oxidative stress, whereas PBMT enhanced antioxidant enzyme activities, including superoxide dismutase (SOD) and catalase (CAT) (p < 0.05). Gene expression analysis revealed that PBMT modulated cytokines linked to inflammation, particularly tumor necrosis factor-α (TNF-α) and transforming growth factor-β1 (TGF-β1). PBMT demonstrated significant potential in reducing intra-abdominal adhesions by alleviating inflammation, controlling oxidative stress, and promoting tissue repair. BA and TUS showed limited efficacy under the present experimental conditions, and BA in particular was associated with increased oxidative stress and inflammatory responses. Further research with optimized dosing, extended treatment durations, and combination strategies is warranted.",
+      "journal": "Lasers in surgery and medicine",
+      "issn": "1096-9101",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Okur S",
+        "Baykal B",
+        "Yanmaz LE",
+        "Gölgeli Bedir A",
+        "Okur DT",
+        "Şenocak MG",
+        "Turgut F",
+        "Yildirim S",
+        "Bolat İ",
+        "Apaydin Yildirim B",
+        "Özdemir Tozlu Ö"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Jun 15",
+      "year": "2026",
+      "doi": "10.1002/lsm.70164",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42296279/",
+      "topics": [
+        "Prevention",
+        "Mechanism",
+        "Surgery",
+        "Animal Study"
+      ]
+    },
+    {
+      "pmid": "42290331",
+      "title": "Phototheranostic Sutures Integrated with NIR-II Emissive Photosensitizers for Postoperative Complication Prevention and Non-invasive Monitoring.",
+      "abstract": "Surgical site infections (SSIs) and poor subcutaneous visibility remain persistent challenges that limit the performance of conventional surgical sutures. Here, we present a universal surface modification strategy to fabricate phototheranostic sutures integrating the NIR-II emissive photosensitizer T-TBT-P with a polydopamine (PDA) coating. The resulting functionalized sutures exhibit potent photodynamic/photothermal antibacterial activity under 808 nm irradiation, achieving bacterial eradication efficiencies above 99% against methicillin-resistant Staphylococcus aureus (MRSA). They maintain excellent mechanical strength, cytocompatibility, and hemocompatibility, while the superhydrophilic PDA layer effectively suppresses the protein adsorption. In vivo studies confirm that the functionalized sutures eliminate infection, accelerate wound healing, and prevent undesirable abdominal adhesion compared with unmodified counterparts. Benefiting from deep-penetrating NIR-II fluorescence extending beyond 1300 nm, the functionalized sutures enable non-invasive, real-time, and high-contrast monitoring of subcutaneous integrity and biodegradation over 35 days. This work establishes a generalizable platform for constructing multifunctional surgical sutures with integrated antibacterial, antiadhesive, and imaging functionalities, providing opportunities for precise and efficient postoperative wound management.",
+      "journal": "Journal of the American Chemical Society",
+      "issn": "1520-5126",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Cai J",
+        "He S",
+        "Tian Z",
+        "Cheng S",
+        "Hu L",
+        "Ding D",
+        "Xie H",
+        "Zhang J",
+        "Tang BZ"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Jun 15",
+      "year": "2026",
+      "doi": "10.1021/jacs.6c07564",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42290331/",
+      "topics": [
+        "Prevention",
+        "Surgery"
+      ]
+    },
+    {
+      "pmid": "42289211",
+      "title": "Sprayable macrophage-targeting apoptotic-body-inspired nanotherapeutics for the prevention of postoperative peritoneal adhesions.",
+      "abstract": "Postoperative peritoneal adhesion is a common complication of abdominal and pelvic surgeries, often leading to chronic pain, bowel obstruction, and increased reoperation rates. Despite clinical efforts, effective preventive strategies remain limited. In this study, we develope a sprayable, biomimetic nanotherapeutic system - designated Apo-Q - composed of phosphatidylserine (PS)-exposing liposomes encapsulating quercetin (Que@PSLs), inspired by the biological features of apoptotic bodies and prepared by a thin-film hydration-extrusion method. The obtained Apo-Q with the particle size about 140 nm and PS-functionalized surface can be selectively recognized and internalized by macrophages, thereby promoting targeted modulation of the postoperative inflammatory microenvironment. In a mouse model of peritoneal adhesion, Apo-Q promotes macrophage polarization from the pro-inflammatory M1 phenotype to the reparative M2 phenotype, suppresses inflammatory response, and also prevents pathological accumulation of GATA6+ macrophages at injury sites, significantly reducing adhesion formation and severity. These findings demonstrate that Apo-Q exerts potent anti-inflammatory and anti-fibrotic effects probably via a similar mechanism to macrophage efferocytosis, offering a minimally invasive and translationally promising strategy for preventing postoperative peritoneal adhesions.",
+      "journal": "International journal of pharmaceutics",
+      "issn": "1873-3476",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Huang Q",
+        "Zhang G",
+        "Li Y",
+        "Lin M",
+        "Su Z",
+        "Zeng R",
+        "Liu J"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Jun 14",
+      "year": "2026",
+      "doi": "10.1016/j.ijpharm.2026.127069",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42289211/",
+      "topics": [
+        "Prevention",
+        "Biomaterials",
+        "Mechanism",
+        "Surgery",
+        "Animal Study",
         "Clinical Study"
       ]
     },
@@ -3648,7 +3762,7 @@
     {
       "pmid": "41214754",
       "title": "Low dietary fiber diet does not reduce risk for adhesive small bowel obstruction development: self-controlled study.",
-      "abstract": "Adhesive small bowel obstruction (ASBO) is a major postoperative complication with no established methods of prevention. ASBO is a form of mechanical obstruction caused by intra-abdominal adhesions that lead to kinking or twisting of the small intestine. Although low-fiber diets are occasionally recommended for post-abdominal surgery patients, their efficacy in preventing ASBO remains unclear. This study aimed to investigate whether a low-fiber diet reduces the risk of ASBO. A self-controlled case-crossover study was conducted on patients with ASBO admitted to an acute care hospital in Japan between April 2017 and March 2022. Conditional logistic regression modeling was used to compare fiber intake between 24 h before ASBO onset (case period) and 5–8 weeks earlier (control periods). The mean age of the 40 enrolled patients (160 control period cases) was 82 years and 19 were women. Median dietary fiber intake during the case period was 12.3 g/day (interquartile range [IQR] 10.0–16.5 g/day), compared to 12.9 g/day (IQR 9.5–16.5 g/day) during control periods (p = 0.78). Among the patients, 25% were on a low-fiber diet (< 10 g/day) during both case and control periods. Multivariable conditional logistic regression adjusting for potential time-dependent confounders likewise found no association between dietary fiber intake and ASBO development (odds ratio 1.00, 95% confidence interval 0.90–1.11). Potential high-fiber ingredients intake showed no significant differences between case and control periods. This study found no evidence to support low-fiber diets for preventing ASBO in post-abdominal surgery patients. Restricting dietary fiber content may not be needed to prevent ASBO especially in older patients following abdominal surgery. The online version contains supplementary material available at 10.1186/s40795-025-01195-y.",
+      "abstract": "BACKGROUND: Adhesive small bowel obstruction (ASBO) is a major postoperative complication with no established methods of prevention. ASBO is a form of mechanical obstruction caused by intra-abdominal adhesions that lead to kinking or twisting of the small intestine. Although low-fiber diets are occasionally recommended for post-abdominal surgery patients, their efficacy in preventing ASBO remains unclear. This study aimed to investigate whether a low-fiber diet reduces the risk of ASBO. METHODS: A self-controlled case-crossover study was conducted on patients with ASBO admitted to an acute care hospital in Japan between April 2017 and March 2022. Conditional logistic regression modeling was used to compare fiber intake between 24 h before ASBO onset (case period) and 5–8 weeks earlier (control periods). RESULTS: The mean age of the 40 enrolled patients (160 control period cases) was 82 years and 19 were women. Median dietary fiber intake during the case period was 12.3 g/day (interquartile range [IQR] 10.0–16.5 g/day), compared to 12.9 g/day (IQR 9.5–16.5 g/day) during control periods (p = 0.78). Among the patients, 25% were on a low-fiber diet (< 10 g/day) during both case and control periods. Multivariable conditional logistic regression adjusting for potential time-dependent confounders likewise found no association between dietary fiber intake and ASBO development (odds ratio 1.00, 95% confidence interval 0.90–1.11). Potential high-fiber ingredients intake showed no significant differences between case and control periods. CONCLUSION: This study found no evidence to support low-fiber diets for preventing ASBO in post-abdominal surgery patients. Restricting dietary fiber content may not be needed to prevent ASBO especially in older patients following abdominal surgery.",
       "journal": "BMC nutrition",
       "issn": "2055-0928",
       "journalMetrics": {
@@ -3687,7 +3801,7 @@
     {
       "pmid": "41214565",
       "title": "Study of the effect of zinc oxide nanoparticles coated with salicylic acid on intra-abdominal adhesions in rats.",
-      "abstract": "Peritoneal adhesion is a complication following abdominal surgery, observed in about 66% of cases. Adhesions in the intestines are common, and although they may not cause problems, they can sometimes lead to intestinal obstruction. In this study, zinc oxide nanoparticles coated with salicylic acid were used for the first time to prevent the formation of abdominal adhesions after surgery in rats. In this study, 40 rats were evaluated in four groups (sham group (laparotomy without abdominal washing), control group (laparotomy and abdominal washing with normal saline), salicylic acid intervention group 27%, and salicylic acid intervention group 54%) regarding the severity of intra-abdominal adhesions after laparotomy. The evaluation of intra-abdominal adhesions was conducted through four criteria (clinical findings, macroscopic findings, histopathological findings, and ELISA findings). Both intervention groups (27% and 54% salicylic acid–coated ZnO nanoparticles) showed a statistically significant reduction in adhesion severity compared to the control group (P < 0.05) across all assessment modalities (macroscopic, histopathological, and ELISA). However, no significant difference was observed between the two intervention doses (P > 0.05). The present study demonstrated that washing the abdominal cavity with 27% and 54% salicylic acid–coated ZnO nanoparticles can significantly reduce the risk of postoperative abdominal adhesions.",
+      "abstract": "OBJECTIVE: Peritoneal adhesion is a complication following abdominal surgery, observed in about 66% of cases. Adhesions in the intestines are common, and although they may not cause problems, they can sometimes lead to intestinal obstruction. In this study, zinc oxide nanoparticles coated with salicylic acid were used for the first time to prevent the formation of abdominal adhesions after surgery in rats. METHODS: In this study, 40 rats were evaluated in four groups (sham group (laparotomy without abdominal washing), control group (laparotomy and abdominal washing with normal saline), salicylic acid intervention group 27%, and salicylic acid intervention group 54%) regarding the severity of intra-abdominal adhesions after laparotomy. The evaluation of intra-abdominal adhesions was conducted through four criteria (clinical findings, macroscopic findings, histopathological findings, and ELISA findings). RESULTS: Both intervention groups (27% and 54% salicylic acid–coated ZnO nanoparticles) showed a statistically significant reduction in adhesion severity compared to the control group (P < 0.05) across all assessment modalities (macroscopic, histopathological, and ELISA). However, no significant difference was observed between the two intervention doses (P > 0.05). CONCLUSION: The present study demonstrated that washing the abdominal cavity with 27% and 54% salicylic acid–coated ZnO nanoparticles can significantly reduce the risk of postoperative abdominal adhesions.",
       "journal": "BMC gastroenterology",
       "issn": "1471-230X",
       "journalMetrics": {
@@ -4129,125 +4243,6 @@
       "topics": [
         "Prevention",
         "Biomaterials"
-      ]
-    },
-    {
-      "pmid": "41061047",
-      "title": "Sprayable extracellular matrix hydrogel reduces postoperative adhesion formation and protects healing tissues in preclinical models.",
-      "abstract": "Tissue trauma initiates inflammation that can lead to fibrotic complications such as postoperative peritoneal adhesions, which contribute to chronic pain, infertility, and bowel obstruction. Despite their prevalence and impact, effective interventions to prevent adhesion formation remain limited. In this study, we evaluated a sprayable extracellular matrix (ECM) hydrogel as a barrier to protect healing tissues and reduce adhesion formation after abdominal surgery. In both mouse and rabbit models of colorectal and gynecologic procedures, ECM hydrogel application resulted in a substantial reduction in adhesion severity. Mechanistic studies demonstrated that the hydrogel promotes preservation or restoration of the mesothelial lining while modulating early local inflammation. Treated tissues exhibited reduced expression of inflammatory cytokines, including IL-1β, and maintained an intact mesothelial surface with fewer activated myofibroblasts compared with synthetic hydrogel and controls. Immunohistochemical analysis, transcriptomic profiling of mesothelial cells, and in vitro mechanical stretch experiments revealed that the ECM hydrogel mitigates mesothelial-to-mesenchymal transition. These findings suggest that the hydrogel not only provides a physical barrier but also serves as a biological modulator, shielding tissue from mechanical and inflammatory cues that drive adhesion formation. Overall, this study identifies a dual-function, biologically active ECM hydrogel capable of protecting healing tissues and reducing adhesion development in preclinical surgical models. These results support the potential of ECM hydrogel as a clinically translatable, biocompatible strategy for improving postsurgical healing outcomes and reducing adhesion-related complications.",
-      "journal": "Science translational medicine",
-      "issn": "1946-6242",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Pascual-Antón L",
-        "Sandoval P",
-        "Tomero-Sanz H",
-        "Terri M",
-        "Strippoli R",
-        "García-Sanz Í",
-        "Marín-Campos C",
-        "Del Pozo MÁ",
-        "Obaid M",
-        "Garcia V",
-        "Smith PA",
-        "Keane TJ",
-        "Stevens MM",
-        "López-Cabrera M"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publicationDate": "2025 Oct 08",
-      "year": "2025",
-      "doi": "10.1126/scitranslmed.adn3179",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41061047/",
-      "topics": [
-        "Prevention",
-        "Biomaterials",
-        "Mechanism",
-        "Surgery",
-        "Animal Study"
-      ]
-    },
-    {
-      "pmid": "41553452",
-      "title": "Molecular and Cellular Mechanisms of Fibrosis of Abdominal Adhesions under the Influence of Oxidized Dextran in the Experiment.",
-      "abstract": "Formation of abdominal adhesions is accompanied by the synthesis of collagen monomers by fibroblasts and deposition of type I and III collagens. This process is regulated by various factors, including TIMP-1, MMP-1, TGFβ, IL-10, and IFNγ. Oxidized dextran prevents fibrosis, adhesion formation, affecting the functional state of macrophages and fibroblasts. Collagen formation and fibroblasts in abdominal adhesions of Wistar rats were studied against the background of intraperitoneal administration of oxidized dextran. Electron and light microscopy and immunohistochemical method (collagen I, TIMP-1, MMP-9, FGF) were used. Administration of oxidized dextran prevented tropocollagen secretion into the extracellular matrix, the assembly of collagen I fibers, while functional activity of fibroblasts was preserved, and was accompanied by fibroblast apoptosis. Macrophages formed contacts with fibroblasts and phagocytosed apoptotic cells.",
-      "journal": "Bulletin of experimental biology and medicine",
-      "issn": "1573-8221",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Karpov MA",
-        "Nadeev AP",
-        "Shkurupy VA",
-        "Bgatova NP",
-        "Basova AV",
-        "Volchek MA",
-        "Volchek AV",
-        "Kuznetsov AV",
-        "Ovsyanko EV",
-        "Pozdnyakova SV"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publicationDate": "2025 Oct",
-      "year": "2025",
-      "doi": "10.1007/s10517-026-06569-1",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41553452/",
-      "topics": [
-        "Prevention",
-        "Mechanism",
-        "Animal Study"
-      ]
-    },
-    {
-      "pmid": "40910348",
-      "title": "A zwitterionic dual-network hydrogel patch with anti-inflammatory properties for efficient peritoneal adhesion prevention.",
-      "abstract": "Postoperative peritoneal adhesion, driven by inflammatory response and fibrotic deposition, remains the most common complication following abdominal surgeries, with limited effective solutions. Herein, a dual-network hydrogel patch (GPSB) is developed for effective peritoneal adhesion prevention through interpenetrating a gelatin network with a zwitterionic polysulfobetaine (PSB) network. The biodegradable gelatin network is dynamically crosslinked via zinc ion (Zn2+)-polyphenol coordination, endowing the patch with inherent antibacterial and pro-healing activities. Through in situ polymerization, a crosslinked PSB network is interwoven with the gelatin matrix, markedly increasing the Young's modulus of hydrogels to 97.7 ± 5.2 kPa and greatly enhancing their mechanical integrity. Moreover, the resulting GPSB hydrogel achieves a shear strength of 28.5 kPa, on par with commercial cyanoacrylate-based bio-glues. Moreover, the highly biocompatible PSB component effectively resists nonspecific protein adsorption by 46-fold and modulates macrophage-mediated inflammatory responses, reducing the secretion of inflammatory cytokines by approximately 70%. Through the synergistic antibacterial and anti-inflammatory functions, the GPSB hydrogel patch provides robust protection against postoperative inflammation and achieves efficient prevention of peritoneal adhesions. This study highlights an effective and multifunctional hydrogel patch for next-generation anti-adhesion biomaterials.",
-      "journal": "Journal of materials chemistry. B",
-      "issn": "2050-7518",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Du Y",
-        "Ma L",
-        "Lang S",
-        "Liu S",
-        "Dai K",
-        "Li K",
-        "Wang Q",
-        "Liu G"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publicationDate": "2025 Oct 01",
-      "year": "2025",
-      "doi": "10.1039/d5tb01786f",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/40910348/",
-      "topics": [
-        "Prevention",
-        "Biomaterials",
-        "Mechanism",
-        "Surgery"
       ]
     }
   ]
