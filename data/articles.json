@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T23:15:12+00:00",
+  "updatedAt": "2026-06-29T23:12:13+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -77,6 +77,83 @@
         "Prevention",
         "Biomaterials",
         "Mechanism",
+        "Surgery",
+        "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "42365928",
+      "title": "Imaging diagnosis of intrauterine fetal death in a cat with singleton pregnancy.",
+      "abstract": "A 4-year-old intact 3.4 kg domestic mixed-breed queen presented with a 48-hour history of lethargy, polydipsia, inappetence, and sanguineous vaginal discharge. Abdominal palpation identified a firm, painful mid-abdominal mass. Hematology indicated a stress leukogram with granulocytosis and lymphopenia. Abdominal radiography demonstrated intracardiac gas accumulation and calvarial bone overriding, pathognomonic signs of intrauterine fetal death. Fetal biometry confirmed term gestation; pelvimetry established fetopelvic compatibility, excluding obstructive dystocia. Absence of pendulous soft tissue opacities along the thoracoabdominal mammary chains radiographically corroborated the clinical absence of mammary development, atypical at term. Abdominal ultrasonography revealed a heterogeneous echotexture with diffuse dirty acoustic shadowing and reverberation artifacts consistent with intrauterine and intrafetal emphysematous gas, alongside discrete clean acoustic shadowing artifacts attributable to hyperechoic mineralized skeletal foci of the macerated fetus. Additionally, a round, non-peristaltic structure presumed to represent the nongravid uterine horn was suggestive of concurrent purulent metritis. Laparotomy revealed no peritonitis or intra-abdominal adhesions. Ovariohysterectomy confirmed a single emphysematous fetus, weighing 176 g, with fetid serosanguinous exudate in the gravid horn and hemopurulent fluid in the contralateral horn. Recovery was uneventful; hematologic parameters normalized by week 4. Fetal overgrowth combined with attenuated cumulative cortisol production and insufficient myometrial mechanostimulation were proposed to have precluded luteolysis, causing primary uterine inertia and failure of parturition initiation. Absent mammary development corroborated luteolysis failure through sustained progesterone-mediated suppression of prolactin-driven lactogenesis. Cervical patency most likely facilitated ascending bacterial contamination, yielding emphysematous maceration rather than sterile mummification. In conclusion, multimodal diagnostic imaging is highly valuable in feline obstetrical emergencies, suggesting that singleton gestations represent a documented risk factor for dystocia that may justify rigorous monitoring as the patient approaches term.",
+      "journal": "Topics in companion animal medicine",
+      "issn": "1946-9837",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Imran S",
+        "Dar MU",
+        "Athar H",
+        "Qureshi B",
+        "Lone FA",
+        "Bhat GR"
+      ],
+      "publicationTypes": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Jun 28",
+      "year": "2026",
+      "doi": "10.1016/j.tcam.2026.101083",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42365928/",
+      "topics": [
+        "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "42368641",
+      "title": "Repeated PIPAC in advanced peritoneal metastases: technical feasibility in a real-world case series.",
+      "abstract": "Pressurized intraperitoneal aerosol chemotherapy (PIPAC) is increasingly used for unresectable peritoneal metastases, although repeated laparoscopic access in patients with diffuse carcinomatosis may be technically challenging. We report our institutional experience with repeated PIPAC procedures, focusing on technical feasibility and reproducibility. Between December 2024 and December 2025, 24 PIPAC procedures were performed in 10 patients with ovarian and gastrointestinal malignancies. Despite hostile abdomens, intra-abdominal adhesions, and extensive peritoneal disease, all procedures were successfully completed laparoscopically without conversion to open surgery or major postoperative complications. Trocar positioning, selective cold-scissor adhesiolysis, reuse of previous access sites, and individualized CapnoPen® orientation contributed to maintaining procedural feasibility throughout repeated treatment cycles. Treatment interruption was mainly related to disease progression and deterioration of general clinical conditions rather than technical failure. Our experience suggests that repeated PIPAC is technically feasible and reproducible even in patients with advanced peritoneal carcinomatosis when careful surgical planning and tailored laparoscopic strategies are adopted.",
+      "journal": "Journal of surgical case reports",
+      "issn": "2042-8812",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Caruso E",
+        "Gambardella D",
+        "Gabriele C",
+        "Pellegrino R",
+        "Strangis L",
+        "Gottardo M",
+        "Scalese M",
+        "Tedesco V",
+        "Giurdanella M",
+        "Scardamaglia G",
+        "Molinaro P",
+        "Daffinà MG",
+        "Costantino A",
+        "Chiarella L",
+        "Marino R",
+        "Tedesco M"
+      ],
+      "publicationTypes": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Jun",
+      "year": "2026",
+      "doi": "10.1093/jscr/rjag530",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42368641/",
+      "topics": [
         "Surgery",
         "Clinical Study"
       ]
@@ -4175,77 +4252,6 @@
       "topics": [
         "Prevention",
         "Biomaterials",
-        "Surgery",
-        "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "41120616",
-      "title": "Thoracoscopic hiatoplasty in congenital diaphragmatic hernia is safe and less invasive: a prospective propensity-matched short-term study.",
-      "abstract": "Congenital diaphragmatic hernia (CDH) is a condition linked to neonatal morbidity, mortality, and gastroesophageal reflux. Traditional hiatoplasty via laparotomy or laparoscopy is complicated by abdominal adhesions from previous CDH repair. A thoracoscopic technique, avoiding abdominal preparation, was introduced to address these issues. This study evaluates its safety and efficacy in children with CDH. A prospective, propensity-matched study was conducted on pediatric patients undergoing thoracoscopic hiatoplasty (TH) or hiatoplasty via laparotomy for CDH at University Hospital Mannheim (2013-2024). Outcomes included operative time, ICU LOS and overall hospital stay (LOS), complication rates, and recovery, assessed via parent-reported questionnaires. 57 children underwent hiatoplasty via laparotomy, while 12 had TH. Propensity matching yielded 27 patients (laparotomy n = 19, TH n = 8). TH showed shorter operative time (71.5 vs 190.5 min; p = 0.0018), reduced ICU LOS (0.1 ± 0.3 vs 1.6 ± 4.0 days; p = 0.0002), and shorter overall LOS (2.4 ± 1.1 vs 13.2 ± 6.1 days; p < 0.0001). Complications were fewer (p = 0.0022), and dietary progression improved (p = 0.0181), with a trend toward earlier sports resumption (p = 0.0545). Follow-up duration was markedly shorter in the TH group (median 109 days [IQR 70-151] vs. 1465 days [IQR 924-2390], p = 0.0041). TH is a safe, effective antireflux therapy for CDH, offering better recovery and fewer complications. Interpretation is limited by the shorter follow-up in the thoracoscopic group. Long-term randomized trials are needed to confirm these results.",
-      "journal": "Pediatric surgery international",
-      "issn": "1437-9813",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Klinke M",
-        "Martel R",
-        "Weiß C",
-        "Mohr C",
-        "Schaible T",
-        "Dietze N",
-        "Hoffmann J",
-        "Boettcher M",
-        "Elrod J"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publicationDate": "2025 Oct 21",
-      "year": "2025",
-      "doi": "10.1007/s00383-025-06218-0",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41120616/",
-      "topics": [
-        "Surgery",
-        "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "41169869",
-      "title": "Multiport anterior retroperitoneal access for robotic-assisted partial nephrectomy: an innovative technique for renal tumour.",
-      "abstract": "Robotic Partial Nephrectomy can be performed via transperitoneal or retroperitoneal access. The retroperitoneal approach offers direct access to the renal artery and reduces the risk of intestinal injury, especially in patients with prior abdominal surgeries or adhesions. This study presents a novel retroperitoneal robotic technique using anterior trocar placement with the patient in lateral decubitus. Access is gained through a pararectal incision, with the AirSeal trocar placed first, followed by the creation of an extraperitoneal working space and placement of robotic trocars. After docking, the renal hilum is isolated, the mass is enucleated following arterial clamping, and the collecting system is sutured selectively. The procedure ends with hemostasis and drainage tube placement. This is the first reported use of anterior retroperitoneal access with the patient in lateral decubitus, differing from previous techniques performed in the supine position. Advantages include avoiding intraperitoneal adhesions and improved assistant access. The technique is especially suitable for renal tumors in the middle or lower third of the kidney but can also be applied to upper pole lesions. Preliminary outcomes are promising; further research with larger cohorts is needed to validate its effectiveness.",
-      "journal": "Frontiers in surgery",
-      "issn": "2296-875X",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Silvestri T",
-        "Riolo S",
-        "De Concilio B",
-        "Zeccolini G",
-        "Costa G",
-        "D'Aietti D",
-        "Knez R",
-        "Celia A"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publicationDate": "2025",
-      "year": "2025",
-      "doi": "10.3389/fsurg.2025.1630319",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41169869/",
-      "topics": [
         "Surgery",
         "Clinical Study"
       ]
