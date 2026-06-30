@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T23:12:13+00:00",
+  "updatedAt": "2026-06-30T23:23:55+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -1484,6 +1484,41 @@
       "doi": "10.3389/fonc.2026.1786230",
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42052497/",
       "topics": [
+        "Surgery",
+        "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "42375969",
+      "title": "Comparison of N-Acetyl cysteine and dexamethasone in enterotomy in cats.",
+      "abstract": "Peritoneal adhesions develop between organs and tissues. They are an intrinsic component of the recuperative mechanism of the body following surgical intervention or inflammation. N-acetyl cysteine is an affordable drug with a long history of safe usage and is commercially available. Dexamethasone is a long-acting synthetic corticosteroid exhibiting minimal mineralocorticoid action. The presence of a fluorine atom at C9 on the steroid ring is a defining characteristic. This study aimed to conduct a comparative analysis of the effects of N-acetyl cysteine against dexamethasone on enterotomy in felines. The efficacy of three substances-N-acetylcysteine (NAC), dexamethasone, and normal saline-was assessed for their potential to expedite intestinal healing post-surgery and inhibit adhesion formation. The study included 15 cats, evenly and randomly allocated into three groups. The intestines of cats were incised longitudinally (enterotomy) and subsequently closed with a simple continuous suture in each group. Upon completion of intestinal suturing, the surgical site in each group was irrigated with one of the three agents. The surgical wounds were then closed 3 days after surgery, and the abdomens of a whole cohort of cats were surgically reopened for direct observation. The animal administered the neutral solution displayed considerable intestinal adhesions. The cat administered with dexamethasone exhibited delayed healing along with minor adhesions. NAC-administered cats exhibited fast recovery with negligible edema. CBC assessment on the third postoperative day indicated an elevation in white blood cells (WBCs) levels in all cats. By the seventh postoperative day, all cats exhibited a significant to moderate reduction in WBC, particularly associated with N-acetyl cysteine. Computed tomography scans revealed adhesions in groups 1 and 2; however, no adhesions were observed in the NAC-administered group. NAC has a beneficial effect on intestinal healing after surgery and adhesion prevention in this feline model.",
+      "journal": "Open veterinary journal",
+      "issn": "2218-6050",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Abdulrazaq AW",
+        "Sadeq AW",
+        "Naeem RM",
+        "Ibrahim AA",
+        "Alrahman HMA"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Comparative Study"
+      ],
+      "publicationDate": "2026 Apr",
+      "year": "2026",
+      "doi": "10.5455/OVJ.2026.v16.i4.47",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42375969/",
+      "topics": [
+        "Prevention",
+        "Mechanism",
         "Surgery",
         "Clinical Study"
       ]
@@ -4204,54 +4239,6 @@
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41322761/",
       "topics": [
         "Prevention",
-        "Surgery",
-        "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "41280081",
-      "title": "Enhancing HIPEC for Ovarian Cancer using Adjunctive Biomaterials.",
-      "abstract": "Ovarian cancer is one of the most lethal gynecological malignancies, with high mortality rates primarily due to late-stage diagnoses and extensive peritoneal metastases. Despite improvements in surgical and chemotherapeutic treatments, the prognosis for advanced ovarian cancer remains poor, highlighting the urgent need for innovative therapeutic approaches. Hyperthermic intraperitoneal chemotherapy (HIPEC) has emerged as a promising treatment, delivering heated chemotherapeutic agents directly into the peritoneal cavity post-cytoreductive surgery. However, HIPEC adoption is limited by three critical complications: suboptimal therapeutic efficacy in resistant tumors; abdominal adhesion formation; and systemic toxicity, including cisplatin-induced nephrotoxicity. This study investigates carbon monoxide gas- entrapping materials (CO-GEMs) as a novel multifunctional adjunctive therapy to address the three HIPEC limitations simultaneously. CO-GEMs effectively encapsulate and deliver carbon monoxide, leveraging the differential effects of CO in cancerous where it has been shown to reduce tumor burden. In ovarian cancer models, CO-GEMs significantly enhanced cisplatin efficacy, reducing the metastatic tumor burden by 46.6% through the downregulation of drug resistance pathways, including the IL-17, TNF, and NF-κB pathways; ECM receptor interaction, and VEGF signaling. CO-GEMs also prevented peritoneal adhesion formation by suppressing inflammatory cell infiltration and collagen deposition, with a significant reduction in adhesion severity scores. Additionally, enteral CO-GEMs provided significant nephroprotection against cisplatin-induced acute kidney injury, as demonstrated by reduced blood urea nitrogen levels. CO-GEMs represent a promising innovation that simultaneously improves HIPEC therapeutic efficacy, prevents surgical complications, and reduces systemic toxicity. This multifunctional approach addresses multiple clinical limitations of HIPEC, potentially transforming treatment outcomes for patients with advanced ovarian cancer through an enhanced therapeutic index and improved safety profile.",
-      "journal": "bioRxiv : the preprint server for biology",
-      "issn": "2692-8205",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Bi J",
-        "Witt E",
-        "Cafi AB",
-        "Shu F",
-        "McGovern M",
-        "Tunuguntla SNS",
-        "Balk KR",
-        "Boge L",
-        "Wang Q",
-        "Du J",
-        "Sutton IC",
-        "Reis CJ",
-        "Spreng JM",
-        "Elizalde EJ",
-        "Uzomah UA",
-        "Traverso G",
-        "Otterbein LE",
-        "Byrne JD"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Preprint"
-      ],
-      "publicationDate": "2025 Oct 27",
-      "year": "2025",
-      "doi": "10.1101/2025.10.26.684645",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41280081/",
-      "topics": [
-        "Prevention",
-        "Biomaterials",
         "Surgery",
         "Clinical Study"
       ]
