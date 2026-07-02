@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T23:38:06+00:00",
+  "updatedAt": "2026-07-02T23:19:08+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -38,6 +38,42 @@
         "Prevention",
         "Mechanism",
         "Animal Study"
+      ]
+    },
+    {
+      "pmid": "42290331",
+      "title": "Phototheranostic Sutures Integrated with NIR-II Emissive Photosensitizers for Postoperative Complication Prevention and Non-invasive Monitoring.",
+      "abstract": "Surgical site infections (SSIs) and poor subcutaneous visibility remain persistent challenges that limit the performance of conventional surgical sutures. Here, we present a universal surface modification strategy to fabricate phototheranostic sutures integrating the NIR-II emissive photosensitizer T-TBT-P with a polydopamine (PDA) coating. The resulting functionalized sutures exhibit potent photodynamic/photothermal antibacterial activity under 808 nm irradiation, achieving bacterial eradication efficiencies above 99% against methicillin-resistant Staphylococcus aureus (MRSA). They maintain excellent mechanical strength, cytocompatibility, and hemocompatibility, while the superhydrophilic PDA layer effectively suppresses the protein adsorption. In vivo studies confirm that the functionalized sutures eliminate infection, accelerate wound healing, and prevent undesirable abdominal adhesion compared with unmodified counterparts. Benefiting from deep-penetrating NIR-II fluorescence extending beyond 1300 nm, the functionalized sutures enable non-invasive, real-time, and high-contrast monitoring of subcutaneous integrity and biodegradation over 35 days. This work establishes a generalizable platform for constructing multifunctional surgical sutures with integrated antibacterial, antiadhesive, and imaging functionalities, providing opportunities for precise and efficient postoperative wound management.",
+      "journal": "Journal of the American Chemical Society",
+      "issn": "1520-5126",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Cai J",
+        "He S",
+        "Tian Z",
+        "Cheng S",
+        "Hu L",
+        "Ding D",
+        "Xie H",
+        "Zhang J",
+        "Tang BZ"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Jul 01",
+      "year": "2026",
+      "doi": "10.1021/jacs.6c07564",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42290331/",
+      "topics": [
+        "Prevention",
+        "Surgery"
       ]
     },
     {
@@ -199,6 +235,39 @@
       ]
     },
     {
+      "pmid": "42389368",
+      "title": "Delayed splenic rupture following video-assisted thoracoscopic left upper lobectomy: a case report and literature review.",
+      "abstract": "Video-assisted thoracoscopic surgery (VATS) is the preferred surgical approach for early-stage lung cancer, though it can rarely cause life-threatening delayed splenic rupture (DSR). With an insidious latent course, DSR frequently eludes early diagnosis and may progress to fatal hemorrhagic shock. We herein describe a 70-year-old male with a prior subtotal gastrectomy who developed DSR on postoperative day 6 after VATS left upper lobectomy. The patient presented with acute hypotension and tachycardia without overt abdominal signs, was confirmed via bedside ultrasonography (US) and diagnostic peritoneal paracentesis (DPP), and recovered uneventfully after emergency splenectomy. A pooled analysis of nine cases revealed that VATS-related DSR predominantly complicates left-sided thoracic surgery, manifesting as hemodynamic instability and progressive hematological decline with subtle abdominal findings, which commonly leads to early misdiagnosis. Major etiologies include intraoperative transdiaphragmatic injury and postoperative diaphragmatic traction aggravated by abdominal adhesions. Contrast-enhanced computed tomography (CT) remains the diagnostic gold standard for stable patients, while bedside US and DPP enable prompt emergency diagnosis. Individualized management is tailored to hemodynamic status and splenic injury severity. Meticulous intraoperative technique, rigorous postoperative monitoring, and high clinical vigilance, particularly for patients with abdominal adhesions, are critical to prevent DSR, reduce diagnostic delay, and optimize surgical outcomes.",
+      "journal": "Frontiers in surgery",
+      "issn": "2296-875X",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Li W",
+        "Hu H",
+        "Cheng Z",
+        "Xi E"
+      ],
+      "publicationTypes": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "publicationDate": "2026",
+      "year": "2026",
+      "doi": "10.3389/fsurg.2026.1853919",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42389368/",
+      "topics": [
+        "Prevention",
+        "Surgery",
+        "Clinical Study"
+      ]
+    },
+    {
       "pmid": "42296279",
       "title": "Evaluation of the Efficacy of Photobiomodulation Therapy, Therapeutic Ultrasound, and Boric Acid in the Prevention of Intra-Abdominal Adhesions in an Experimental Rat Model: A Macroscopic, Histopathological, and Gene Expression Analysis.",
       "abstract": "This study aimed to evaluate the efficacy of photobiomodulation therapy (PBMT), therapeutic ultrasound (TUS), boric acid (BA), and their combinations in preventing experimentally induced intra-abdominal adhesions in rats. Ninety-six male Wistar rats (14 weeks old) were randomly assigned to eight groups (Control, Laparotomy, Physiological Saline, BA, PBMT, TUS, BA + PBMT, and BA + TUS; n = 12/group). Adhesions were surgically induced. Treatments were applied once daily for 7 consecutive days as follows: BA (8 mg/kg, intraperitoneal), PBMT (904 nm, 3 J/cm2 applied to the incision site), and TUS (1 MHz, 0.5 W/cm2 applied to the incision site). On Day 8, rats were euthanized, and peritoneal fluid and adhesion tissue samples were collected for macroscopic scoring, histopathology, biochemical assays, and gene expression analyses. PBMT alone significantly reduced adhesion scores compared with the control (p < 0.05) and showed the most pronounced antifibrotic effect, while BA and TUS, alone or in combination, had limited impact. BA treatment increased malondialdehyde (MDA) levels (p < 0.05), indicating higher oxidative stress, whereas PBMT enhanced antioxidant enzyme activities, including superoxide dismutase (SOD) and catalase (CAT) (p < 0.05). Gene expression analysis revealed that PBMT modulated cytokines linked to inflammation, particularly tumor necrosis factor-α (TNF-α) and transforming growth factor-β1 (TGF-β1). PBMT demonstrated significant potential in reducing intra-abdominal adhesions by alleviating inflammation, controlling oxidative stress, and promoting tissue repair. BA and TUS showed limited efficacy under the present experimental conditions, and BA in particular was associated with increased oxidative stress and inflammatory responses. Further research with optimized dosing, extended treatment durations, and combination strategies is warranted.",
@@ -236,42 +305,6 @@
         "Mechanism",
         "Surgery",
         "Animal Study"
-      ]
-    },
-    {
-      "pmid": "42290331",
-      "title": "Phototheranostic Sutures Integrated with NIR-II Emissive Photosensitizers for Postoperative Complication Prevention and Non-invasive Monitoring.",
-      "abstract": "Surgical site infections (SSIs) and poor subcutaneous visibility remain persistent challenges that limit the performance of conventional surgical sutures. Here, we present a universal surface modification strategy to fabricate phototheranostic sutures integrating the NIR-II emissive photosensitizer T-TBT-P with a polydopamine (PDA) coating. The resulting functionalized sutures exhibit potent photodynamic/photothermal antibacterial activity under 808 nm irradiation, achieving bacterial eradication efficiencies above 99% against methicillin-resistant Staphylococcus aureus (MRSA). They maintain excellent mechanical strength, cytocompatibility, and hemocompatibility, while the superhydrophilic PDA layer effectively suppresses the protein adsorption. In vivo studies confirm that the functionalized sutures eliminate infection, accelerate wound healing, and prevent undesirable abdominal adhesion compared with unmodified counterparts. Benefiting from deep-penetrating NIR-II fluorescence extending beyond 1300 nm, the functionalized sutures enable non-invasive, real-time, and high-contrast monitoring of subcutaneous integrity and biodegradation over 35 days. This work establishes a generalizable platform for constructing multifunctional surgical sutures with integrated antibacterial, antiadhesive, and imaging functionalities, providing opportunities for precise and efficient postoperative wound management.",
-      "journal": "Journal of the American Chemical Society",
-      "issn": "1520-5126",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Cai J",
-        "He S",
-        "Tian Z",
-        "Cheng S",
-        "Hu L",
-        "Ding D",
-        "Xie H",
-        "Zhang J",
-        "Tang BZ"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publicationDate": "2026 Jun 15",
-      "year": "2026",
-      "doi": "10.1021/jacs.6c07564",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42290331/",
-      "topics": [
-        "Prevention",
-        "Surgery"
       ]
     },
     {
@@ -4207,38 +4240,6 @@
       "doi": "10.3791/69322",
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41248006/",
       "topics": [
-        "Surgery",
-        "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "41322761",
-      "title": "Risk Factors Contributing to Adhesive Disease Following Primary Cesarean Section: A Cross-Sectional Study.",
-      "abstract": "Cesarean section is one of the most commonly performed obstetric surgeries worldwide, with rising rates of repeat procedures. Intra-abdominal adhesions are a frequent complication following prior cesarean deliveries and can complicate subsequent surgeries, leading to increased operative time, blood loss, and risk of visceral injury. Understanding the distribution, severity, and risk factors for adhesion formation is crucial for improving surgical outcomes. This study aimed to evaluate the distributive pattern of adhesions in women undergoing repeat cesarean section, identify associated demographic and clinical risk factors, and assess the impact of adhesions on operative parameters and postoperative outcomes. A prospective, observational cross-sectional study was conducted at Sree Balaji Medical College and Hospital, Chennai, including 104 women scheduled for repeat cesarean delivery. Adhesions were assessed intraoperatively based on site, severity, and size using the Tulandi and Lyell composite adhesion scoring system. Maternal demographic and clinical data, including age, socioeconomic status, comorbidities, type, and indication of previous cesarean, were recorded. Operative outcomes, such as duration of surgery, estimated blood loss, and postoperative hospital stay, were analyzed. Statistical analysis included chi-square tests for categorical variables and independent t-tests for continuous variables, with p < 0.05 considered significant. Adhesions were present in 31.7% (33/104) of participants. Emergency cesarean, low socioeconomic status, gestational diabetes, and certain previous CS indications (cervical dystocia, second stage arrest, failed induction with PROM) were significantly associated with adhesion formation (p < 0.05). Women with adhesions experienced significantly higher mean blood loss (490.3 ± 127.4 vs 433.9 ± 120.6 mL, p = 0.03) and longer operative time (67.3 ± 10.9 vs 45.9 ± 7.6 min, p < 0.001). Conclusion: Intra-abdominal adhesions are common in repeat cesarean sections, particularly following emergency procedures and in women with specific comorbidities. Adhesions significantly impact surgical outcomes, highlighting the importance of careful surgical planning and preventive strategies in women undergoing repeat cesarean deliveries.",
-      "journal": "Cureus",
-      "issn": "2168-8184",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Mehanathan R",
-        "Selvam V",
-        "Pavithra M",
-        "Prasath N"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publicationDate": "2025 Oct",
-      "year": "2025",
-      "doi": "10.7759/cureus.95708",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41322761/",
-      "topics": [
-        "Prevention",
         "Surgery",
         "Clinical Study"
       ]
