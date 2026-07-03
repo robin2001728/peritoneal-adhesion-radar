@@ -1,9 +1,44 @@
 {
-  "updatedAt": "2026-07-02T23:19:08+00:00",
+  "updatedAt": "2026-07-03T23:15:38+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
   "articles": [
+    {
+      "pmid": "42396660",
+      "title": "Aspirin prevents postoperative peritoneal adhesions by inhibiting the TGF‑β1/Smad signaling pathway in rats.",
+      "abstract": "Postoperative peritoneal adhesion (PPA) is a common complication following abdominal surgery and effective preventive strategies remain limited. The present study aimed to investigate the protective effect of aspirin against PPA in rats and to elucidate the underlying mechanism involving the transforming growth factor‑β1 (TGF‑β1)/Smad signaling pathway. A total of 32 male Sprague‑Dawley rats were randomly divided into the four following groups: Sham‑operated group, model group, low‑dose aspirin group (10 mg/kg) and high‑dose aspirin group (30 mg/kg). A PPA model was established by cecal wall abrasion. The aspirin‑treated groups received daily intragastric administration for 8 consecutive days post‑surgery. All animals were euthanized on day 8. Adhesion severity was assessed using the Nair scoring system; histopathological changes were examined by Masson's trichrome staining; the expression levels of proteins related to the TGF‑β1/Smad pathway and to markers of fibrosis were detected by western blot, immunohistochemical (IHC) and reverse transcription‑quantitative PCR (RT‑qPCR) analyses. In addition, rat primary peritoneal mesothelial cells (RPMCs) were treated with different concentrations of aspirin to evaluate the expression levels of the relevant proteins. The results indicated that compared with the model group, aspirin administration significantly reduced PPA scores. Histological examination revealed that aspirin treatment alleviated collagen deposition in adhesion tissues. The results derived from western blotting, IHC and RT‑qPCR analyses demonstrated that aspirin downregulated the expression levels of TGF‑β1, phosphorylated (p)‑Smad2/3, alpha smooth muscle actin (α‑SMA) and collagen type I, alpha 1 (COL1A1), and inhibited the phosphorylation of Smad2/3. Moreover, treatment of RPMCs with different concentrations of aspirin led to a dose‑dependent decrease in the protein expression levels of TGF‑β1, COL1A1, α‑SMA, p‑Smad2 and p‑Smad3, while simultaneously upregulating the expression levels of the endogenous inhibitory factor Smad6 in this pathway. In conclusion, the data demonstrated that aspirin effectively prevented the formation of PPA in rats by suppressing peritoneal fibrosis, an effect likely mediated via inhibition of the TGF‑β1/Smad signaling pathway. These findings suggest that aspirin is a promising candidate for the clinical prevention of PPA.",
+      "journal": "Molecular medicine reports",
+      "issn": "1791-3004",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Yan S",
+        "Ren Y",
+        "Liu B",
+        "Xiong P",
+        "Sun Y"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Sep",
+      "year": "2026",
+      "doi": "10.3892/mmr.2026.13949",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42396660/",
+      "topics": [
+        "Prevention",
+        "Mechanism",
+        "Surgery",
+        "Animal Study",
+        "Clinical Study"
+      ]
+    },
     {
       "pmid": "41997426",
       "title": "Mesenchymal stem cells and their exosomes from umbilical cord and adipose tissue in the prevention of postoperative intra-abdominal adhesions: A rat model study.",
@@ -41,6 +76,83 @@
       ]
     },
     {
+      "pmid": "42393727",
+      "title": "Pathophysiology, prevention and treatment of postoperative peritoneal adhesions: a WSES narrative.",
+      "abstract": "Adhesions are a common complication following surgery, and they can cause significant morbidity. However, adhesions are not easily diagnosed with imaging, and often only become apparent when they cause intestinal obstruction symptoms. The pathophysiology of adhesion formation is complex, thus despite advances in surgical techniques and postoperative care, adhesions remain a persistent problem in clinical practice. Despite evidence for efficacy of some strategies in reducing adhesion formation question remain regarding the indications and impact on clinically relevant outcomes. The paper, supported by the World Society of Emergency Surgery (WSES), aims to provide a thorough examination of the pathophysiological mechanisms underlying adhesion formation and assess the efficacy of existing preventive strategies to guide future research and clinical practice in the management of adhesions. Study design and Framework This position paper was developed in accordance with the World Society of Emergency Surgery (WSES) methodology for consensus-based guidelines. The objective was to synthesize current evidence on adhesion pathophysiology and translate it into a clinically applicable \"Narrative\". Expert Panel Selection and Composition: The expert panel was composed of international specialists in general, trauma, and emergency surgery. Experts were selected based on their clinical leadership and academic contributions to the fields of peritoneal surgery and postoperative complication management. The panel included senior representatives from major surgical departments in Singapore (Sengkang and Singapore General Hospital), The Netherlands (Radboud University), and Italy (University of Bologna and Bufalini Hospital). Literature Search and Evidence Synthesis: A comprehensive search was conducted across major medical databases (e.g., PubMed, Scopus, Cochrane Library) to identify literature concerning the pathophysiology and prevention of adhesions. The search strategy employed Medical Subject Headings (MeSH) descriptors and keywords including: \"peritoneal adhesions,\" \"postoperative adhesions,\" \"adhesion prevention,\" \"adhesion barriers,\" \"carboxymethylcellulose,\" \"hyaluronic acid,\" \"icodextrin,\" \"oxidized regenerated cellulose,\" \"polyethylene glycol,\" \"adhesive small bowel obstruction,\" \"adhesiolysis\". No language restrictions were applied to the search strategy. A total of 56 studies were selected, including systematic reviews, meta-analyses, randomized clinical trials (RCTs), and retrospective cohort studies. The panel focused on clinically relevant outcomes, specifically looking for evidence that connected interventions to reduced rates of adhesive small bowel obstruction (ASBO) and reoperation. Studies were screened based on their ability to address three specific pillars: surgical approach (MIS vs. Open), technical manoeuvres (haemostasis and tissue handling), and the use of mechanical or chemical adjuncts. Consensus Achievement and Formulation: The recommendations were developed through a structured, iterative revision process: Literature Synthesis: Lead authors performed the primary review and drafted the pathophysiological and preventative sections. Internal Peer Review: The manuscript underwent rigorous revision by the international expert panel to reach a consensus on the position statements. Final Validation: All authors reviewed and approved the final manuscript and the resulting \"Bundle\" recommendations to ensure they were supported by the cited data. A total of 56 studies (systematic review and meta-analysis, randomized clinical trial, retrospective comparative cohort studies, case series) have been included in this paper to be discussed. Surgical techniques, as well as chemical and mechanical barriers were discussed in depth in this paper to come up with the recommendation. The WSES expert panel suggests the following bundle to reduce postoperative peritoneal adhesions: Bundle 1: Whenever possible, opt for minimally invasive surgery (MIS) or laparoscopic procedures. Bundle 2: Good surgical techniques. Bundle 3: Utilise barriers.",
+      "journal": "World journal of emergency surgery : WJES",
+      "issn": "1749-7922",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Neo JWQ",
+        "Broek RPGT",
+        "Mathur S",
+        "Catena F",
+        "Tian BWCA"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publicationDate": "2026 Jul 02",
+      "year": "2026",
+      "doi": "10.1186/s13017-026-00711-0",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42393727/",
+      "topics": [
+        "Prevention",
+        "Mechanism",
+        "Surgery",
+        "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "42394909",
+      "title": "Engineering human peritoneum in vitro: A novel microfluidic platform for modeling peritoneal physiology and pathophysiology.",
+      "abstract": "The peritoneum, the body's largest serous membrane, plays critical roles in abdominal homeostasis and immune defense. When disrupted by surgery or disease, it can lead to devastating complications including peritoneal adhesions-affecting up to 93% of surgical patients-peritonitis, and metastatic spread. Current research models fail to capture the complexity of human peritoneal biology, relying on inadequate animal models or oversimplified 2D cultures. Here, we introduce a PDMS-free microfluidic platform that recreates the structural and functional architecture of human peritoneum. Our system combines immortalized mesothelial cells (MeT5A) with patient-derived peritoneal fibroblasts in a physiologically relevant 3D environment, enabling real-time analysis of peritoneal function and dysfunction. Through systematic evaluation of stromal matrices, we identified fibrin gel as optimal for supporting healthy mesothelial monolayer formation while maintaining excellent cell viability over 14 days. Importantly, we demonstrate the platform's translational potential by successfully modeling peritoneal adhesion formation. This innovative tool may improve the understanding of peritoneal biology, accelerating drug discovery and developing personalized treatment strategies for peritoneal diseases.",
+      "journal": "Bioengineering & translational medicine",
+      "issn": "2380-6761",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Peisert K",
+        "Keßler F",
+        "Brucker SY",
+        "Pauluschke-Fröhlich J",
+        "Jakubowski P",
+        "Neis F",
+        "Krämer B",
+        "Andress J",
+        "Weghofer A",
+        "Liu HY",
+        "Loskill P",
+        "Weiss M"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Jul",
+      "year": "2026",
+      "doi": "10.1002/btm2.70128",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42394909/",
+      "topics": [
+        "Biomaterials",
+        "Mechanism",
+        "Surgery",
+        "Animal Study",
+        "Clinical Study"
+      ]
+    },
+    {
       "pmid": "42290331",
       "title": "Phototheranostic Sutures Integrated with NIR-II Emissive Photosensitizers for Postoperative Complication Prevention and Non-invasive Monitoring.",
       "abstract": "Surgical site infections (SSIs) and poor subcutaneous visibility remain persistent challenges that limit the performance of conventional surgical sutures. Here, we present a universal surface modification strategy to fabricate phototheranostic sutures integrating the NIR-II emissive photosensitizer T-TBT-P with a polydopamine (PDA) coating. The resulting functionalized sutures exhibit potent photodynamic/photothermal antibacterial activity under 808 nm irradiation, achieving bacterial eradication efficiencies above 99% against methicillin-resistant Staphylococcus aureus (MRSA). They maintain excellent mechanical strength, cytocompatibility, and hemocompatibility, while the superhydrophilic PDA layer effectively suppresses the protein adsorption. In vivo studies confirm that the functionalized sutures eliminate infection, accelerate wound healing, and prevent undesirable abdominal adhesion compared with unmodified counterparts. Benefiting from deep-penetrating NIR-II fluorescence extending beyond 1300 nm, the functionalized sutures enable non-invasive, real-time, and high-contrast monitoring of subcutaneous integrity and biodegradation over 35 days. This work establishes a generalizable platform for constructing multifunctional surgical sutures with integrated antibacterial, antiadhesive, and imaging functionalities, providing opportunities for precise and efficient postoperative wound management.",
@@ -65,7 +177,8 @@
         "Tang BZ"
       ],
       "publicationTypes": [
-        "Journal Article"
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
       ],
       "publicationDate": "2026 Jul 01",
       "year": "2026",
@@ -74,6 +187,46 @@
       "topics": [
         "Prevention",
         "Surgery"
+      ]
+    },
+    {
+      "pmid": "42010887",
+      "title": "Injectable Shear-Thinning Polyampholyte Hydrogel Derived From Functionalized Hyaluronan for pH-Responsive Prevention of Postoperative Peritoneal Adhesions.",
+      "abstract": "Postoperative peritoneal adhesion (PPA) is a pathological fibrous connection that forms between peritoneal surfaces after abdominal surgery, often resulting in infertility, intestinal obstruction, and increased difficulty during secondary operations. Despite numerous biomaterial-based strategies for adhesion prevention, their efficacy remains limited. To address this challenge, we synthesized N,N-dimethylaminopropylamine-conjugated hyaluronic acid (HA-DMAPA), reporting the first preparation of this conjugate. This polyampholyte rapidly forms a hydrogel under physiological conditions via reversible electrostatic intra- and intermolecular interactions between the tertiary amines of DMAPA and the unreacted carboxyl groups of HA, exhibiting pH-dependent gelation and degradation. The HA-DMAPA hydrogel demonstrated mechanical stability near its isoelectric point (pH 5-5.5) and accelerated degradation at physiological pH 7.4, indicating its potential as an inflammation-responsive polyampholyte. The material showed excellent injectability and instant self-healing due to strong shear-thinning properties, along with minimal cytotoxicity, reduced cell adhesion, enzymatic degradability, and remarkable hemocompatibility despite amine modification. In vivo, HA-DMAPA effectively reduced severe postoperative peritoneal adhesions in both rat cecum abrasion and partial hepatectomy models. Overall, this newly developed polyampholyte hydrogel derived from functionalized hyaluronan is simple, safe, and highly practical for surgical use, offering a promising strategy for preventing severe adhesions that remain challenging to manage in clinical practice.",
+      "journal": "Advanced healthcare materials",
+      "issn": "2192-2659",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Dai Y",
+        "Chandel AKS",
+        "Yang IH",
+        "Okawa M",
+        "Madhavikutty AS",
+        "Matsumoto M",
+        "Hasegawa K",
+        "Inagaki NF",
+        "Ito T"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Jul",
+      "year": "2026",
+      "doi": "10.1002/adhm.202505907",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42010887/",
+      "topics": [
+        "Prevention",
+        "Biomaterials",
+        "Mechanism",
+        "Surgery",
+        "Animal Study",
+        "Clinical Study"
       ]
     },
     {
@@ -1056,42 +1209,6 @@
       ]
     },
     {
-      "pmid": "42089550",
-      "title": "A novel mouse model of endometriosis: Simulating the recurrent hemorrhagic microenvironment of clinical lesions.",
-      "abstract": "Current models of endometriosis (EMs) still have limitations in replicating the key pathological features of human EMs, particularly the cyclic bleeding associated with ectopic lesions. To address this gap, this study aimed to develop a proof-of-concept mouse model that incorporates repeated retrograde hemorrhagic exposure through the intraperitoneal injection of endometrial fragments, followed by repeated intraperitoneal injections of fresh whole blood. An EMs model was established in female C57BL/6J mice via intraperitoneal injection of endometrial fragments combined with saline or whole blood, respectively. The model was systematically evaluated using ectopic lesion burden, peritoneal adhesion scores, histopathological staining, immunohistochemistry, enzyme-linked immunosorbent assay (ELISA), and quantitative reverse transcription polymerase chain reaction (RT-qPCR). Both models successfully recapitulated the fundamental pathological features of EMs. However, the intraperitoneal injection of whole blood (IPBI) protocol induced a markedly greater lesion burden, together with more pronounced histopathological and molecular alterations, and recapitulated repeated exposure to retrograde menstruation. In addition, the IPBI group exhibited more robust systemic biomarker responses, indicating enhanced clinical relevance. The present study successfully established a proof-of-concept EMs mouse model that introduces repeated retrograde hemorrhagic exposure to create a clinically relevant, blood-stimulated microenvironment. This model provides a reliable tool for investigating the pathogenesis of EMs and developing therapeutic strategies.",
-      "journal": "Animal models and experimental medicine",
-      "issn": "2576-2095",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Zhuang Y",
-        "Zan Y",
-        "Ma T",
-        "Huang X",
-        "Li J",
-        "Xia L",
-        "Sa Y",
-        "Xia Y"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publicationDate": "2026 May 06",
-      "year": "2026",
-      "doi": "10.1002/ame2.70205",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42089550/",
-      "topics": [
-        "Mechanism",
-        "Animal Study",
-        "Clinical Study"
-      ]
-    },
-    {
       "pmid": "42158437",
       "title": "Case Report: Diagnostic and therapeutic reflections on one case of greater omental adhesion misdiagnosed as peritoneal metastasis following rectal cancer surgery.",
       "abstract": "To investigate the differential diagnostic criteria and decision-making logic for distinguishing benign intra-abdominal adhesions from peritoneal metastasis following preoperative radiotherapy and surgical resection for rectal cancer, thereby providing clinical reference for managing similar atypical peritoneal lesions. We conducted a retrospective analysis of clinical data from a 57-year-old patient with stage pT4bN1cM0 rectal cancer who received postoperative radiotherapy at our institution. The patient was initially suspected of having peritoneal metastasis based on an abnormally enhanced nodular lesion in the right lower anterior abdominal wall. We systematically reviewed the diagnostic and therapeutic process, multidisciplinary team (MDT) decision-making, and pathological diagnosis, and analyzed the causes of misdiagnosis, differential diagnostic key points, and management strategies in conjunction with relevant literature. The patient underwent laparoscopic exploration combined with abdominal wall lesion resection. Postoperative pathology confirmed greater omental adhesion with localized inflammatory reaction, effectively excluding malignant metastasis. Cross-sectional imaging has inherent limitations in the diagnosis of peritoneal lesions. For patients with suspected peritoneal lesions following rectal cancer surgery, comprehensive evaluation should integrate trauma history, tumor markers, clinical symptoms, and imaging characteristics. The patient had no evidence of extraperitoneal metastasis throughout the diagnosis and treatment, and the interval between the initial radical rectal cancer surgery and the detection of suspected peritoneal metastatic lesions was 2 years. Individualized diagnostic and therapeutic decisions guided by MDT, with appropriate application of laparoscopic minimally invasive exploration, can effectively improve diagnostic accuracy and avoid overtreatment or diagnostic delays.",
@@ -1189,6 +1306,42 @@
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42146060/",
       "topics": [
         "Surgery",
+        "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "42089550",
+      "title": "A novel mouse model of endometriosis: Simulating the recurrent hemorrhagic microenvironment of clinical lesions.",
+      "abstract": "Current models of endometriosis (EMs) still have limitations in replicating the key pathological features of human EMs, particularly the cyclic bleeding associated with ectopic lesions. To address this gap, this study aimed to develop a proof-of-concept mouse model that incorporates repeated retrograde hemorrhagic exposure through the intraperitoneal injection of endometrial fragments, followed by repeated intraperitoneal injections of fresh whole blood. An EMs model was established in female C57BL/6J mice via intraperitoneal injection of endometrial fragments combined with saline or whole blood, respectively. The model was systematically evaluated using ectopic lesion burden, peritoneal adhesion scores, histopathological staining, immunohistochemistry, enzyme-linked immunosorbent assay (ELISA), and quantitative reverse transcription polymerase chain reaction (RT-qPCR). Both models successfully recapitulated the fundamental pathological features of EMs. However, the intraperitoneal injection of whole blood (IPBI) protocol induced a markedly greater lesion burden, together with more pronounced histopathological and molecular alterations, and recapitulated repeated exposure to retrograde menstruation. In addition, the IPBI group exhibited more robust systemic biomarker responses, indicating enhanced clinical relevance. The present study successfully established a proof-of-concept EMs mouse model that introduces repeated retrograde hemorrhagic exposure to create a clinically relevant, blood-stimulated microenvironment. This model provides a reliable tool for investigating the pathogenesis of EMs and developing therapeutic strategies.",
+      "journal": "Animal models and experimental medicine",
+      "issn": "2576-2095",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Zhuang Y",
+        "Zan Y",
+        "Ma T",
+        "Huang X",
+        "Li J",
+        "Xia L",
+        "Sa Y",
+        "Xia Y"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026 May",
+      "year": "2026",
+      "doi": "10.1002/ame2.70205",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42089550/",
+      "topics": [
+        "Mechanism",
+        "Animal Study",
         "Clinical Study"
       ]
     },
@@ -1402,46 +1555,6 @@
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42016473/",
       "topics": [
         "Surgery",
-        "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "42010887",
-      "title": "Injectable Shear-Thinning Polyampholyte Hydrogel Derived From Functionalized Hyaluronan for pH-Responsive Prevention of Postoperative Peritoneal Adhesions.",
-      "abstract": "Postoperative peritoneal adhesion (PPA) is a pathological fibrous connection that forms between peritoneal surfaces after abdominal surgery, often resulting in infertility, intestinal obstruction, and increased difficulty during secondary operations. Despite numerous biomaterial-based strategies for adhesion prevention, their efficacy remains limited. To address this challenge, we synthesized N,N-dimethylaminopropylamine-conjugated hyaluronic acid (HA-DMAPA), reporting the first preparation of this conjugate. This polyampholyte rapidly forms a hydrogel under physiological conditions via reversible electrostatic intra- and intermolecular interactions between the tertiary amines of DMAPA and the unreacted carboxyl groups of HA, exhibiting pH-dependent gelation and degradation. The HA-DMAPA hydrogel demonstrated mechanical stability near its isoelectric point (pH 5-5.5) and accelerated degradation at physiological pH 7.4, indicating its potential as an inflammation-responsive polyampholyte. The material showed excellent injectability and instant self-healing due to strong shear-thinning properties, along with minimal cytotoxicity, reduced cell adhesion, enzymatic degradability, and remarkable hemocompatibility despite amine modification. In vivo, HA-DMAPA effectively reduced severe postoperative peritoneal adhesions in both rat cecum abrasion and partial hepatectomy models. Overall, this newly developed polyampholyte hydrogel derived from functionalized hyaluronan is simple, safe, and highly practical for surgical use, offering a promising strategy for preventing severe adhesions that remain challenging to manage in clinical practice.",
-      "journal": "Advanced healthcare materials",
-      "issn": "2192-2659",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Dai Y",
-        "Chandel AKS",
-        "Yang IH",
-        "Okawa M",
-        "Madhavikutty AS",
-        "Matsumoto M",
-        "Hasegawa K",
-        "Inagaki NF",
-        "Ito T"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publicationDate": "2026 Apr 20",
-      "year": "2026",
-      "doi": "10.1002/adhm.202505907",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42010887/",
-      "topics": [
-        "Prevention",
-        "Biomaterials",
-        "Mechanism",
-        "Surgery",
-        "Animal Study",
         "Clinical Study"
       ]
     },
@@ -4128,119 +4241,6 @@
         "Mechanism",
         "Surgery",
         "Animal Study",
-        "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "40703335",
-      "title": "Engineering ROS-responsive double network hydrogel as bioactive barrier for postoperative abdominal adhesions prevention.",
-      "abstract": "Postoperative adhesions are common and severe complications, which affect up to 90 % of patients undergoing abdominal surgery. Despite the application of various strategies to minimize adhesions, the clinical outcomes remain far from satisfactory. Herein, we engineered a ROS-responsive and scavenging double-network hydrogel (PD-OHN) with multiple biofunctions and good mechanical properties for effective PAA prevention. First, a novel ROS-cleavable dithiothreitol (DTT) crosslinking monomer (DPBA) was synthesized. Subsequently, PD-OHN hydrogel was fabricated within 5 s by forming phenylborate ester bond networks between DPBA and polyvinyl alcohol (PVA), and acylhydrazone bond networks between oxidized hyaluronic acid (OHA) and adipic acid dihydrazide-modified hyaluronic acid (HA-ADH). After spraying, it can form a uniform and stretchable hydrogel film. Results showed that PD-OHN had good mechanical properties with a storage modulus about 20 kPa, satisfactory tissue adhesion strength of approximately 8 kPa, and an appropriate in vivo cecum retention time of about 21 days with good biosafety. More importantly, DPBA in PD-OHN hydrogel scavenged ROS via phenylboronate bond cleavage and the subsequent release of DTT, which intelligently alleviated oxidative stress according to the ROS levels in wound sites and induced pro-inflammatory M1 macrophages to polarize into anti-inflammatory M2 phenotype to alleviate inflammation. Further, the fibrinolytic system balance was recovered and fibrosis was reduced. Consequently, PD-OHN hydrogel effectively prevented adhesion formation in a cecum-sidewall abrasion rat model, and provided a promising whole course care anti-adhesion barrier for effective PAA prevention.",
-      "journal": "Bioactive materials",
-      "issn": "2452-199X",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Ren L",
-        "Luo Y",
-        "Huang Y",
-        "Shi X",
-        "Lin H",
-        "Zhang T",
-        "Gong Y",
-        "Liu Y",
-        "Zheng D",
-        "Li W",
-        "Xiao D",
-        "Wang S",
-        "Zhao C"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publicationDate": "2025 Nov",
-      "year": "2025",
-      "doi": "10.1016/j.bioactmat.2025.07.021",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/40703335/",
-      "topics": [
-        "Prevention",
-        "Biomaterials",
-        "Mechanism",
-        "Surgery",
-        "Animal Study",
-        "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "40624265",
-      "title": "Outpatient Management of Partial Small Bowel Obstruction Using an Oral Palatable Elemental Diet.",
-      "abstract": "Partial small bowel obstruction (pSBO) is often caused by intraabdominal adhesions. While lysis of adhesions can be considered, management typically involves hospitalization, bowel rest, and/or decompression. We present a case of recurrent pSBO managed as an outpatient with palatable elemental diet (PED).",
-      "journal": "Digestive diseases and sciences",
-      "issn": "1573-2568",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Mehravar S",
-        "Pirvaram A",
-        "Rezaie A"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Case Reports"
-      ],
-      "publicationDate": "2025 Nov",
-      "year": "2025",
-      "doi": "10.1007/s10620-025-09219-0",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/40624265/",
-      "topics": [
-        "General"
-      ]
-    },
-    {
-      "pmid": "41248006",
-      "title": "Laparoscopic Radical Gastrectomy for Remnant Gastric Cancer.",
-      "abstract": "Remnant gastric cancer (RGC) is a serious long-term complication following gastrectomy, for which radical resection remains the standard treatment. With continued advancements in laparoscopic techniques, laparoscopic radical gastrectomy (LRG) has emerged as an important therapeutic option for early-stage and select advanced cases of RGC. This procedure offers reduced surgical trauma, faster postoperative recovery, and a lower incidence of complications. However, several challenges remain in its clinical application. On the one hand, postoperative anatomical changes and intra-abdominal adhesions can limit the surgical field, complicating lymphadenectomy and digestive tract reconstruction. On the other hand, no consensus has been reached regarding the optimal surgical approach, the extent of lymphadenectomy, or the anastomotic technique, resulting in variation in procedural standardization. Nonetheless, with ongoing refinement of laparoscopic techniques, this approach has been increasingly adopted across multiple centers. Its successful implementation largely depends on the surgeons' technical proficiency and clinical experience. This study aims to systematically introduce the experiences of LRG for RGC and provide supplementary information for the existing research data on these techniques.",
-      "journal": "Journal of visualized experiments : JoVE",
-      "issn": "1940-087X",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Zhang W",
-        "Li J",
-        "Zhao Y",
-        "Xiang L",
-        "Wang Z",
-        "Li Z",
-        "Cao M",
-        "Liu K",
-        "Hu Y",
-        "Liang J"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Video-Audio Media",
-        "Research Support, Non-U.S. Gov't"
-      ],
-      "publicationDate": "2025 Oct 31",
-      "year": "2025",
-      "doi": "10.3791/69322",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41248006/",
-      "topics": [
-        "Surgery",
         "Clinical Study"
       ]
     }
