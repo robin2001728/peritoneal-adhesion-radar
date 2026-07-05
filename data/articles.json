@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T23:09:14+00:00",
+  "updatedAt": "2026-07-05T23:13:36+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -226,6 +226,37 @@
         "Mechanism",
         "Surgery",
         "Animal Study",
+        "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "41795603",
+      "title": "Ultrasonography Sliding Sign as a Predictor for Intraabdominal Adhesions in Repeated Cesarean Deliveries: Retrospective Cross Sectional Study.",
+      "abstract": "Our objective was to evaluate the ultrasonography sliding sign with enhanced reliability using an inter-observer approach, with the aim of predicting standardized intra-abdominal adhesions before cesarean section. Between January 2022 and January 2024, this retrospective cross sectional study included 350 individuals who underwent cesarean section. Data from 198 participants who met the inclusion criteria were analyzed. Analyzes were made with SPSS 26.0. The Mann-Whitney U test was employed to assess variables that were not normally distributed. Chi-square test and Fisher precision test were employed in the categorical data analysis. These were presented as counts and percentages (%). An inter-rater reliability analysis was performed for ultrasonography sliding sign finding. For this purpose, the Cohen's Kappa was calculated. Receiver operating characteristic analysis was used to determine the area under the curve, which indicates the average sensitivity of ultrasonography sliding sign finding. There was a 95% confidence interval for the results. A p value of less than 0.05 was deemed statistically significant. To assess sliding signs, all pregnant participants received transabdominal ultrasonography. The study achieved triple masking: both sonographers were unaware of the surgical findings, the surgeon remained unaware of the ultrasound findings, and the data analyst was unaware of both sonographic and surgical findings. According to the Nair's modified scoring system, the cases were classified as Group 1 (adhesions present [Grade ≥ 1]; n = 107, 54%) and Group 2 (no adhesions [Grade 0]; n = 91, 46%). The diagnostic value of transabdominal ultrasonography sliding sign for detecting the presence of intra-abdominal adhesion (according to the modified Nair's scoring system) yielded 84.6% specificity and 58.9% sensitivity. A Nair's score ≥ 2 was identified as the cut-off point, with the sliding sign finding being statistically significant, resulting in 70% specificity and 54% sensitivity. This research validates the use of a sliding sign during transabdominal ultrasonography in pre-cesarean evaluation in patients with previous cesarean section. It has been shown that applying the adhesion scoring system categorically as well as using it numerically makes a difference by analyzing the cut-off point of Nair's score as 2. From this perspective, the reliability of the sliding sign finding in transabdominal ultrasound will be better demonstrated.",
+      "journal": "Journal of clinical ultrasound : JCU",
+      "issn": "1097-0096",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Ata C",
+        "Atlihan U",
+        "Yavuz O",
+        "Avsar HA"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026",
+      "year": "2026",
+      "doi": "10.1002/jcu.70222",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41795603/",
+      "topics": [
+        "Surgery",
         "Clinical Study"
       ]
     },
@@ -2004,37 +2035,6 @@
       "year": "2026",
       "doi": "10.1155/crve/8183318",
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41809836/",
-      "topics": [
-        "Surgery",
-        "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "41795603",
-      "title": "Ultrasonography Sliding Sign as a Predictor for Intraabdominal Adhesions in Repeated Cesarean Deliveries: Retrospective Cross Sectional Study.",
-      "abstract": "Our objective was to evaluate the ultrasonography sliding sign with enhanced reliability using an inter-observer approach, with the aim of predicting standardized intra-abdominal adhesions before cesarean section. Between January 2022 and January 2024, this retrospective cross sectional study included 350 individuals who underwent cesarean section. Data from 198 participants who met the inclusion criteria were analyzed. Analyzes were made with SPSS 26.0. The Mann-Whitney U test was employed to assess variables that were not normally distributed. Chi-square test and Fisher precision test were employed in the categorical data analysis. These were presented as counts and percentages (%). An inter-rater reliability analysis was performed for ultrasonography sliding sign finding. For this purpose, the Cohen's Kappa was calculated. Receiver operating characteristic analysis was used to determine the area under the curve, which indicates the average sensitivity of ultrasonography sliding sign finding. There was a 95% confidence interval for the results. A p value of less than 0.05 was deemed statistically significant. To assess sliding signs, all pregnant participants received transabdominal ultrasonography. The study achieved triple masking: both sonographers were unaware of the surgical findings, the surgeon remained unaware of the ultrasound findings, and the data analyst was unaware of both sonographic and surgical findings. According to the Nair's modified scoring system, the cases were classified as Group 1 (adhesions present [Grade ≥ 1]; n = 107, 54%) and Group 2 (no adhesions [Grade 0]; n = 91, 46%). The diagnostic value of transabdominal ultrasonography sliding sign for detecting the presence of intra-abdominal adhesion (according to the modified Nair's scoring system) yielded 84.6% specificity and 58.9% sensitivity. A Nair's score ≥ 2 was identified as the cut-off point, with the sliding sign finding being statistically significant, resulting in 70% specificity and 54% sensitivity. This research validates the use of a sliding sign during transabdominal ultrasonography in pre-cesarean evaluation in patients with previous cesarean section. It has been shown that applying the adhesion scoring system categorically as well as using it numerically makes a difference by analyzing the cut-off point of Nair's score as 2. From this perspective, the reliability of the sliding sign finding in transabdominal ultrasound will be better demonstrated.",
-      "journal": "Journal of clinical ultrasound : JCU",
-      "issn": "1097-0096",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Ata C",
-        "Atlihan U",
-        "Yavuz O",
-        "Avsar HA"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publicationDate": "2026 Mar 08",
-      "year": "2026",
-      "doi": "10.1002/jcu.70222",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41795603/",
       "topics": [
         "Surgery",
         "Clinical Study"
