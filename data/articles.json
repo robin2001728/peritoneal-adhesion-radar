@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T23:19:27+00:00",
+  "updatedAt": "2026-07-07T23:11:41+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -73,6 +73,39 @@
         "Prevention",
         "Mechanism",
         "Animal Study"
+      ]
+    },
+    {
+      "pmid": "42410857",
+      "title": "Laparoscopic duodenojejunostomy for recurrent acute pancreatitis associated with superior mesenteric artery syndrome in a medically complex patient: A case report and literature review.",
+      "abstract": "Superior mesenteric artery syndrome (SMAS) is a rare cause of duodenal obstruction, and acute pancreatitis associated with SMAS is extremely uncommon. The causal relationship is usually inferred from persistent duodenal obstruction, exclusion of other etiologies, and resolution after decompression. A 19-year-old male with a history of esophageal atresia repair, previous upper abdominal surgery, refractory epilepsy, severe developmental delay, and a bedridden status presented with recurrent vomiting and acute pancreatitis. Pancreatitis recurred over a period of 4 years despite repeated conservative management and eventually increased to approximately once per month. Contrast-enhanced computed tomography revealed marked gastric and duodenal dilation, compression of the third portion of the duodenum between the aorta and the superior mesenteric artery, and a narrowed aortomesenteric angle of 18°. Other causes of pancreatitis, including gallstones, pancreaticobiliary maljunction, and infection, were excluded. Recurrent acute pancreatitis associated with SMAS-related duodenal obstruction was diagnosed. Conservative treatment included bowel rest, nasogastric decompression, intravenous fluid and electrolyte correction, and prokinetic medication. Because recurrent pancreatitis persisted, laparoscopic duodenojejunostomy with omega-loop reconstruction was performed at age 23. Dense intra-abdominal adhesions precluded safe intracorporeal anastomosis; therefore, extracorporeal side-to-side duodenojejunostomy was completed. Postoperative contrast studies confirmed unobstructed passage through the anastomosis, with no leakage or residual obstruction. During 3 years of follow-up, no pancreatitis recurrence, bile reflux, or readmission occurred, and the patient's weight increased. Although causality cannot be definitively established from a single case, surgical duodenal decompression may be considered in selected patients with recurrent pancreatitis associated with persistent SMAS-related duodenal obstruction after the exclusion of alternative causes and failure of conservative management. Continued long-term surveillance is required after omega-loop reconstruction.",
+      "journal": "Medicine",
+      "issn": "1536-5964",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Hirano T",
+        "Kogure K",
+        "Watanabe Y",
+        "Hanada M"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Case Reports",
+        "Review"
+      ],
+      "publicationDate": "2026 Jul 03",
+      "year": "2026",
+      "doi": "10.1097/MD.0000000000049601",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42410857/",
+      "topics": [
+        "Surgery",
+        "Clinical Study"
       ]
     },
     {
@@ -4197,47 +4230,6 @@
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/40912938/",
       "topics": [
         "Prevention",
-        "Mechanism",
-        "Surgery",
-        "Animal Study",
-        "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "40827578",
-      "title": "An Injectable Zwitterionic Hydrogels with Multiple Intermolecular Interactions for Effective Prevention of Abdominal Adhesions.",
-      "abstract": "Postoperative abdominal adhesions are the most common complication following abdominopelvic surgery, posing a significant burden on patients, clinicians, and society. However, current physical barriers often involve a tradeoff between preventing these adhesions and inhibiting inflammation. Herein, a one-stone-two-birds strategy is presented to address this challenge through an injectable intertwined hydrogel containing sulfobetaine, modified aminocaproic acid (A6ACA), and ZnO nanoparticles (PSA-ZnO hydrogel). This intertwined network is stabilized by multiple intermolecular coordination bonds, including hydrogen bonds and electrostatic interactions-enabling facile injection and resistance to abdominal creep stress. Experimental results demonstrate that PSA-ZnO hydrogel fully reduce the severity of peritoneal adhesions in treated rats at both 7- and 14-days post-surgery, outperforming commercially available hyaluronic acid (HA) gel due to its superior antifouling, antibacterial (> 95% clearance of E. coli and S. aureus,), hemostatic (55 s), and wound healing properties (IL-6 and TNF-α decreased and VEGF increased). Unlike conventional barriers, PSA-ZnO prevents foreign body formation by inhibiting blood clot organization and pathologic fibrin accumulation at wound sites. This integrated approach offers a clinically translatable solution for complete prevention of postoperative adhesions and inflammation, with the potential to improve patient outcomes and reduce healthcare burdens.",
-      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
-      "issn": "2198-3844",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Wen N",
-        "Jiang Y",
-        "Song Y",
-        "Yang J",
-        "Long J",
-        "Wang Y",
-        "Yu X",
-        "Lu S",
-        "Zhou T",
-        "Huang X"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publicationDate": "2025 Nov",
-      "year": "2025",
-      "doi": "10.1002/advs.202511757",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/40827578/",
-      "topics": [
-        "Prevention",
-        "Biomaterials",
         "Mechanism",
         "Surgery",
         "Animal Study",
