@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T23:20:19+00:00",
+  "updatedAt": "2026-07-09T23:23:32+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -2967,6 +2967,36 @@
       ]
     },
     {
+      "pmid": "42419951",
+      "title": "Acute and chronic pain of the scar following caesarean section, visceral pain, and the possible benefits of physiotherapy.",
+      "abstract": "Caesarean section (CS) is one of the most common obstetric surgeries, and the number of CS births has been increasing worldwide. Acute wound pain following a caesarean section can affect the postnatal recovery process, has an impact on the mother's mobility, on the mother-child bonding process, on the quality of breastfeeding, and increases the risk of developing postnatal depression. Chronic pain following CS is related to pain in the scar area (neuropathic pain) and to postoperative intra-abdominal adhesions (visceral pain). Chronic scar and abdominal pain following a caesarean delivery adversely affects a woman's routine daily activities, her psychological state, and motor functions. According to available studies, persistent chronic post-operative pain in the scar area is reported by 10% of women 12 months after caesarean section delivery. Intra-abdominal adhesions are the most common long-term complication associated with caesarean sections and their occurrence is reported in the literature as 24-46% after the first caesarean section and up to 59% after repeated caesarean sections. Currently, there are no unified standards for physiotherapeutic treatment of scars and management of adhesions following a caesarean section delivery. Although scar therapy is generally considered to be effective (aesthetic effect on scar remodeling, reduction in pain intensity, increased elasticity and flexibility of the scar), there is little scientific data in the literature to support this claim. Only a few studies have been published that demonstrate the benefit of physiotherapy in affecting the occurrence of symptoms related to the development of early postoperative adhesions, and studies that deal with approaches leading to the prevention of postoperative adhesions. With regard to the increasing trend of CS births worldwide and in the Czech Republic, and the related rising incidence of acute and chronic post-birth complications caused by CS scarring, it is necessary to create a standardized physiotherapy program focused on the recovery of mothers after a CS birth, including scar care procedures according to evidence-based medicine.",
+      "journal": "Ceska gynekologie",
+      "issn": "1210-7832",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Bajerová M",
+        "Hruban L"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publicationDate": "2026",
+      "year": "2026",
+      "doi": "10.48095/cccg2026232",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42419951/",
+      "topics": [
+        "Prevention",
+        "Surgery"
+      ]
+    },
+    {
       "pmid": "41778170",
       "title": "Laparoscopic Resection for Rectal Cancer in a Centenarian: A Case Report Highlighting the Importance of Functional Independence over Chronological Age.",
       "abstract": "Laparoscopic resection for rectal cancer in a centenarian is extraordinarily rare, with only a few cases of elective curative surgery reported worldwide. As the global population ages, the number of centenarians with malignancies is increasing; however, surgical intervention in this age group remains controversial due to frailty and limited physiological reserve. We present the case of a 100-year-old female with Stage IIIB rectal cancer who successfully underwent elective laparoscopic low anterior resection. Comprehensive preoperative geriatric assessments-comprising the Geriatric-8 (G8), instrumental activities of daily living (IADL), and EuroQol-5 dimensions (EQ-5D and EQ-VAS)-demonstrated excellent functional independence and physiological fitness. Despite severe intra-abdominal adhesions from a prior laparotomy, meticulous laparoscopic adhesiolysis and tumor-specific mesorectal excision were achieved without complications. Twelve lymph nodes were retrieved, with one positive node, and all resection margins were negative. The patient recovered uneventfully, retained postoperative independence, and was discharged on POD 12. This case highlights that functional and biological fitness-rather than chronological age-should guide surgical decision-making in the oldest-old population. It also underscores the feasibility and safety of minimally invasive curative surgery for selected centenarians when supported by detailed geriatric evaluation and multidisciplinary planning.",
@@ -4196,43 +4226,6 @@
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41081828/",
       "topics": [
         "Surgery",
-        "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "40912938",
-      "title": "Comparative effects of pirfenidone and nintedanib in experimental intraabdominal adhesion model.",
-      "abstract": "Postoperative peritoneal adhesions (PPA) develop in up to 90% of intraabdominal surgeries and are a major cause of small bowel obstruction, leading to readmissions and morbidity. However, no effective pharmacologic strategy currently exists for PPA prevention. Pirfenidone and Nintedanib are oral antifibrotics approved for idiopathic pulmonary fibrosis, with emerging data on their effects in cardiac and hepatic fibrosis. This study aimed to compare their efficacy in preventing PPA via intraperitoneal (IP) administration in an experimental model. Twenty-eight rats were randomized into four groups of 7: Pirfenidone (P), Nintedanib (N), combination (P + N), and saline control (C). Adhesions were induced via cecal abrasion. On postoperative day 7, macroscopic fibrosis scores (MFS), affected regions, histopathology, and TGF-β1 expression were evaluated. Group P had significantly lower MFS than Group N (P < 0.001) and showed a reduction trend vs. control. TGF-β1 HScore was significantly lower in Group P vs. Group N (P = 0.002) and P + N (P = 0.014). Group N showed the highest inflammation and elevated TGF-β1 vs. control (P = 0.013). Pirfenidone appears effective in reducing PPA formation via IP administration. In contrast, Nintedanib may be unsuitable for IP use in saline, potentially due to poor solubility.",
-      "journal": "Arab journal of gastroenterology : the official publication of the Pan-Arab Association of Gastroenterology",
-      "issn": "2090-2387",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Erdem O",
-        "Erdem SK",
-        "Yıldız A",
-        "Çakıt H",
-        "Canbey C",
-        "Özkan ÖF"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Comparative Study"
-      ],
-      "publicationDate": "2025 Nov",
-      "year": "2025",
-      "doi": "10.1016/j.ajg.2025.07.002",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/40912938/",
-      "topics": [
-        "Prevention",
-        "Mechanism",
-        "Surgery",
-        "Animal Study",
         "Clinical Study"
       ]
     }
