@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09T23:23:32+00:00",
+  "updatedAt": "2026-07-10T23:10:19+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -73,6 +73,86 @@
         "Prevention",
         "Mechanism",
         "Animal Study"
+      ]
+    },
+    {
+      "pmid": "42426329",
+      "title": "Classifying the structural heterogeneity of peritoneal adhesions by histopathological extracellular matrix characteristics.",
+      "abstract": "Peritoneal adhesions are a common complication following abdominal surgery and contribute substantially to long-termmorbidity, including bowel obstruction, chronic pain, and infertility. Their diverse clinical presentation, ranging from thin strands todense obstructive bands, suggests multiple underlying pathomechanisms. We propose a histopathological framework for classifyingperitoneal adhesions based on extracellular matrix characteristics, providing a microscopic correlation to clinical heterogeneity andsupporting translational research on adhesion prevention. In this study, adhesions from 77 patients were examined histologically. Masson's Trichrome staining was used to visualize the extracellular matrix, enabling classification into five clusters based on qualitative histological analysis: stringy, dense, loose, fatty, and mixed. The \"stringy\" and \"dense\" clusters exhibited the highest extracellular matrix fraction and vessel area, whereas the\"loose\" and \"fatty\" clusters displayed lower ECM density and vascularity. Immunohistochemical staining for αSMA (myofibroblasts) and PGP9.5 (nerve fibers) further revealed cluster-specific differences in myofibroblast presence and innervation. Cluster distribution was significantly associated with clinical parameters, including adhesion load and prior peritonitis. This is the first study to systematically categorize peritoneal adhesions byextracellular matrix characteristics, identifying five distinct histopathological phenotypes. Our findings highlight the structural andcellular diversity of adhesions, offering new insights with potential implications for understanding adhesion pathophysiology andguiding future therapeutic strategies. Validation in larger cohorts will be essential to confirm this framework and establish its clinicalutility.",
+      "journal": "Langenbeck's archives of surgery",
+      "issn": "1435-2451",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Steffani M",
+        "Tigges J",
+        "Clees Z",
+        "Garhammer K",
+        "Neumann PA",
+        "Wilhelm D",
+        "Martignoni M",
+        "Hüser N",
+        "Dimpel R",
+        "Reim D",
+        "Feith M",
+        "Grosser B",
+        "Friess H",
+        "Weber MC"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Jul 10",
+      "year": "2026",
+      "doi": "10.1007/s00423-026-04130-2",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42426329/",
+      "topics": [
+        "Prevention",
+        "Surgery",
+        "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "42430828",
+      "title": "Zwitterionic polymer nanocomposite hydrogels with immunoregulation for effectively preventing postoperative abdominal adhesions.",
+      "abstract": "Zwitterionic hydrogels are attractive physical barriers for preventing postoperative abdominal adhesions because of their outstanding antifouling properties; however, their inherent biological inertness and poor degradability often hinder therapeutic efficacy and clinical translational potential. Herein, we report a bioactive and dissociable zwitterionic nanocomposite hydrogel that integrates zwitterionic polymer chains with clearance potential, hydrolytically dissociable networks, and Prussian blue (PB) nanozymes. A molecular-weight-controlled polycarboxybetaine acrylate precursor (PCBOAA, ∼50 kDa) was prepared by reversible addition-fragmentation chain-transfer (RAFT) polymerization and subsequently crosslinked with dithiothreitol via thiol-acrylate Michael addition reaction to form a zwitterionic hydrogel featuring β-thioether ester linkage, which could gradually dissociate under physiological conditions into low-molecular-weight polymer with reduced risk of prolonged retention. Incorporation of PB nanoparticles further endowed the PCBOAA@PB hydrogel with antioxidative and immunomodulatory activity. In vitro, PCBOAA@PB hydrogel could effectively resist protein adsorption and cell adhesion and suppress pro-inflammatory macrophage polarization. In a rat cecum-abdominal wall adhesion model, it exhibited markedly superior anti-adhesion efficacy compared with a clinically used hyaluronic acid hydrogel. Mechanistically, this excellent anti-adhesion efficacy of PCBOAA@PB hydrogel as a physical barrier stemmed from its dual ability to reprogram the postoperative inflammatory-fibrotic microenvironment and reduce excessive collagen deposition. In summary, this work provides a zwitterionic hydrogel design strategy that integrates antifouling, microenvironment modulation, and clearance potential for effective adhesion prevention.",
+      "journal": "Biomaterials",
+      "issn": "1878-5905",
+      "journalMetrics": {
+        "partition": "JCR Q1 / CAS 1区",
+        "scoreLabel": "Impact Factor",
+        "score": "12.8",
+        "source": "JCR",
+        "year": "2024"
+      },
+      "authors": [
+        "Bao S",
+        "Zhao X",
+        "Chen D",
+        "Wang H",
+        "Tian X",
+        "Li Q",
+        "Qin R",
+        "Yang J",
+        "Liu W"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Jul 09",
+      "year": "2026",
+      "doi": "10.1016/j.biomaterials.2026.124444",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42430828/",
+      "topics": [
+        "Prevention",
+        "Biomaterials",
+        "Animal Study",
+        "Clinical Study"
       ]
     },
     {
@@ -1972,8 +2052,7 @@
         "de Wilde MS"
       ],
       "publicationTypes": [
-        "Journal Article",
-        "Comparative Study"
+        "Journal Article"
       ],
       "publicationDate": "2026 Mar 19",
       "year": "2026",
@@ -2313,7 +2392,6 @@
         "Domino M"
       ],
       "publicationTypes": [
-        "Systematic Review",
         "Journal Article",
         "Review"
       ],
@@ -4155,76 +4233,6 @@
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41214754/",
       "topics": [
         "Prevention",
-        "Surgery",
-        "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "41214565",
-      "title": "Study of the effect of zinc oxide nanoparticles coated with salicylic acid on intra-abdominal adhesions in rats.",
-      "abstract": "OBJECTIVE: Peritoneal adhesion is a complication following abdominal surgery, observed in about 66% of cases. Adhesions in the intestines are common, and although they may not cause problems, they can sometimes lead to intestinal obstruction. In this study, zinc oxide nanoparticles coated with salicylic acid were used for the first time to prevent the formation of abdominal adhesions after surgery in rats. METHODS: In this study, 40 rats were evaluated in four groups (sham group (laparotomy without abdominal washing), control group (laparotomy and abdominal washing with normal saline), salicylic acid intervention group 27%, and salicylic acid intervention group 54%) regarding the severity of intra-abdominal adhesions after laparotomy. The evaluation of intra-abdominal adhesions was conducted through four criteria (clinical findings, macroscopic findings, histopathological findings, and ELISA findings). RESULTS: Both intervention groups (27% and 54% salicylic acid–coated ZnO nanoparticles) showed a statistically significant reduction in adhesion severity compared to the control group (P < 0.05) across all assessment modalities (macroscopic, histopathological, and ELISA). However, no significant difference was observed between the two intervention doses (P > 0.05). CONCLUSION: The present study demonstrated that washing the abdominal cavity with 27% and 54% salicylic acid–coated ZnO nanoparticles can significantly reduce the risk of postoperative abdominal adhesions.",
-      "journal": "BMC gastroenterology",
-      "issn": "1471-230X",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Ziarati MA",
-        "Zarei L",
-        "Rajabzadeh O",
-        "Marzban A",
-        "Raisi A",
-        "Haghighatian Z",
-        "Shahmoradi MK"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publicationDate": "2025 Nov 10",
-      "year": "2025",
-      "doi": "10.1186/s12876-025-04391-z",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41214565/",
-      "topics": [
-        "Prevention",
-        "Biomaterials",
-        "Surgery",
-        "Animal Study",
-        "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "41081828",
-      "title": "Clinical application of simplified laparoscopic subcutaneous tunneled technique for peritoneal dialysis catheter placement.",
-      "abstract": "This study aimed to evaluate the safety and efficacy of a simplified single-port laparoscopic rectus sheath tunneling technique for peritoneal dialysis (PD) catheter implantation compared with conventional laparoscopic placement. We conducted a retrospective analysis of 70 patients who underwent PD catheter placement at our center between October 2019 and October 2024. Inclusion criteria were: Age > 18 years, BMI < 30 kg/m2, no prior major abdominal surgeries, and no significant abdominal adhesions on preoperative imaging. Patients were divided into two groups: The study group (n = 35) received single-port laparoscopic rectus sheath tunneled catheter placement, while the control group (n = 35) underwent conventional laparoscopic placement. All procedures were performed by the same surgical team. Comparative parameters included demographic characteristics, primary diseases, and postoperative outcomes. The simplified technique demonstrated:100% technical success rate, Mean operative time of 39.8 ± 8.6 min (vs 48 ± 11.8 min in controls, P = 0.0014); Zero conversions to open surgery, Significantly reduced incidence of postoperative tunnel bleeding (8.6 vs 14.3%, P = 0.003); and lower rates of early pericatheter leakage, Shorter operative time compared to conventional methods (2.9 vs 8.6%, P = 0.018). Catheter migration occurred in 3 control patients (8.6%) versus none in the study group. Kaplan-Meier analysis showed 100% catheter survival at 12 months in both groups. And demonstrated superior catheter survival in the simplified technique group compared to conventional laparoscopic placement (log-rank P = 0.036). In this single-center cohort, the simplified laparoscopic tunneled technique showed advantages including reduced operative time and lower complication rates compared to conventional methods. Larger multicenter studies are needed to validate these findings.",
-      "journal": "Surgical endoscopy",
-      "issn": "1432-2218",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Yu GG",
-        "Wang Y",
-        "Jiang XX",
-        "Chen LL",
-        "Xu LF"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Comparative Study"
-      ],
-      "publicationDate": "2025 Nov",
-      "year": "2025",
-      "doi": "10.1007/s00464-025-12279-y",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41081828/",
-      "topics": [
         "Surgery",
         "Clinical Study"
       ]
