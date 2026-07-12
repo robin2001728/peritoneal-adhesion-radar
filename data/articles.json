@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T23:03:59+00:00",
+  "updatedAt": "2026-07-12T23:02:47+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -34,6 +34,56 @@
       "topics": [
         "Prevention",
         "Mechanism",
+        "Surgery",
+        "Animal Study",
+        "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "42436801",
+      "title": "Biomimetic interfacial water-regulated hybrid dual-layer hydrogel for wound healing, anti-adhesion and hemostasis post partial hepatectomy.",
+      "abstract": "Biomimetic hydrogels, with their excellent biocompatibility and tissue adaptability, have garnered significant attention in the field of wound repair. Dual-layer hydrogels can simultaneously achieve hemostasis and anti-adhesion, demonstrating notable potential for application in liver resection surgery. However, existing systems suffer from insufficient mechanical properties and wet adhesion capabilities, and their efficacy in promoting liver wound healing is limited, severely hindering their clinical translation. To address the complex microenvironment of post-liver resection wounds, this study developed a dual-layer functional hydrogel (DAR@Glu) comprising an anti-adhesion layer (AAL) and a repair layer (RL). Through the synergistic interaction of interfacial water regulation and a multi-hydrogen-bond network, this material combines stable wet adhesion with anti-adhesion properties: the repair layer achieves strong wet adhesion via dynamic covalent bonds and hydrogen bonds, while the introduction of glutamic acid further enhances liver tissue repair activity; the anti-adhesion layer forms a dense hydrated layer that effectively prevents tissue adhesion. In vitro experiments confirmed that DAR@Glu can stably adhere to a 1.5 kg weight underwater, demonstrating excellent mechanical properties and sustained wet adhesion. In a rat partial liver resection model, the introduction of glutamic acid significantly enhanced liver tissue repair efficacy. Postoperative day 7 regional quantitative immunohistochemical analysis of liver tissues showed that in the focal regenerative region at the hydrogel-adjacent liver wound edge, the positive staining levels of Cyclin D1, Ki67 and PCNA in the DAR@Glu group were all significantly increased compared with the control group.The CD68 positivity rate was the lowest, while the hydrogel also demonstrated good hemostatic effects; in a cecal injury model, this hydrogel effectively inhibited intra-abdominal adhesions. Therefore, DAR@Glu can efficiently promote wound healing, hemostasis, and anti-adhesion after liver resection, providing an innovative strategy for the clinical repair of liver injuries.",
+      "journal": "Materials today. Bio",
+      "issn": "2590-0064",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Li J",
+        "Wu X",
+        "Wan Y",
+        "Wang R",
+        "Shao H",
+        "Wang X",
+        "Li H",
+        "Zhou X",
+        "Li Y",
+        "Xu S",
+        "Zhu C",
+        "Zhang P",
+        "Yan L",
+        "Qi R",
+        "She H",
+        "Cao Z",
+        "Li H",
+        "Li H",
+        "Lu D",
+        "Xu X"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Aug",
+      "year": "2026",
+      "doi": "10.1016/j.mtbio.2026.103419",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42436801/",
+      "topics": [
+        "Prevention",
+        "Biomaterials",
         "Surgery",
         "Animal Study",
         "Clinical Study"
@@ -2052,7 +2102,8 @@
         "de Wilde MS"
       ],
       "publicationTypes": [
-        "Journal Article"
+        "Journal Article",
+        "Comparative Study"
       ],
       "publicationDate": "2026 Mar 19",
       "year": "2026",
@@ -4196,45 +4247,6 @@
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41257795/",
       "topics": [
         "Mechanism",
-        "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "41214754",
-      "title": "Low dietary fiber diet does not reduce risk for adhesive small bowel obstruction development: self-controlled study.",
-      "abstract": "BACKGROUND: Adhesive small bowel obstruction (ASBO) is a major postoperative complication with no established methods of prevention. ASBO is a form of mechanical obstruction caused by intra-abdominal adhesions that lead to kinking or twisting of the small intestine. Although low-fiber diets are occasionally recommended for post-abdominal surgery patients, their efficacy in preventing ASBO remains unclear. This study aimed to investigate whether a low-fiber diet reduces the risk of ASBO. METHODS: A self-controlled case-crossover study was conducted on patients with ASBO admitted to an acute care hospital in Japan between April 2017 and March 2022. Conditional logistic regression modeling was used to compare fiber intake between 24 h before ASBO onset (case period) and 5–8 weeks earlier (control periods). RESULTS: The mean age of the 40 enrolled patients (160 control period cases) was 82 years and 19 were women. Median dietary fiber intake during the case period was 12.3 g/day (interquartile range [IQR] 10.0–16.5 g/day), compared to 12.9 g/day (IQR 9.5–16.5 g/day) during control periods (p = 0.78). Among the patients, 25% were on a low-fiber diet (< 10 g/day) during both case and control periods. Multivariable conditional logistic regression adjusting for potential time-dependent confounders likewise found no association between dietary fiber intake and ASBO development (odds ratio 1.00, 95% confidence interval 0.90–1.11). Potential high-fiber ingredients intake showed no significant differences between case and control periods. CONCLUSION: This study found no evidence to support low-fiber diets for preventing ASBO in post-abdominal surgery patients. Restricting dietary fiber content may not be needed to prevent ASBO especially in older patients following abdominal surgery.",
-      "journal": "BMC nutrition",
-      "issn": "2055-0928",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Kudo M",
-        "Sada KE",
-        "Sasaki S",
-        "Morishita S",
-        "Dobashi N",
-        "Oda H",
-        "Ninomiya M",
-        "Kubokawa M",
-        "Kashiwagi H",
-        "Fukuhara S",
-        "Suganuma N"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publicationDate": "2025 Nov 10",
-      "year": "2025",
-      "doi": "10.1186/s40795-025-01195-y",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41214754/",
-      "topics": [
-        "Prevention",
-        "Surgery",
         "Clinical Study"
       ]
     }
