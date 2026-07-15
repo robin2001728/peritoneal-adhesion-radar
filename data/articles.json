@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T23:07:23+00:00",
+  "updatedAt": "2026-07-15T23:08:48+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -123,6 +123,39 @@
         "Prevention",
         "Mechanism",
         "Animal Study"
+      ]
+    },
+    {
+      "pmid": "42449421",
+      "title": "Totally extraperitoneal repair of inguinal hernia containing Mullerian remnants in a patient with Mayer-Rokitansky-Küster-Hauser syndrome: a case report.",
+      "abstract": "Mayer-Rokitansky-Küster-Hauser (MRKH) syndrome is a congenital disorder characterized by aplasia of the uterus and upper part of the vagina in females with normal secondary sex characteristics. Inguinal hernia containing ovaries, fallopian tubes and uterus occurs rarely in adult females and its association with MRKH syndrome is even more rare and probably unreported. A 43-year-old female who had already undergone a vaginoplasty 20 years ago presented to our clinic with left groin swelling and pain for 3 weeks. Physical examinations revealed a 3-cm palpable mass in the left inguinal region that was difficult to reduce into the abdominal cavity. The diagnosis of MRKH syndrome was considered along with inguinal hernia according to the intraoperative findings within the hernia sac. Although most of the MRKH patients with inguinal hernia underwent open surgery, totally extraperitoneal repair (TEP) operation and mesh placement was performed on this patient and the resected specimen proved to be rudimentary uterus and left oviduct. The patient was discharged 2 days after surgery and free of any complications at 6 months of follow-up. MRKH syndrome may remain undiagnosed until incidentally discovered during surgery for unrelated conditions. TEP approach offers excellent visualization, avoids intraperitoneal adhesions, safe resection of Mullerian remnants and preserves peritoneal integrity for future fertility options.",
+      "journal": "Journal of medical case reports",
+      "issn": "1752-1947",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Sha L",
+        "Zhang H",
+        "Kong X",
+        "Liu G",
+        "Du L",
+        "Zhang X"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Jul 14",
+      "year": "2026",
+      "doi": "10.1186/s13256-026-06376-2",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42449421/",
+      "topics": [
+        "Surgery",
+        "Clinical Study"
       ]
     },
     {
@@ -4206,46 +4239,6 @@
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41258467/",
       "topics": [
         "Surgery",
-        "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "41257795",
-      "title": "Visceral fat-to-muscle ratio is associated with inflammatory ileus after excision of intestinal fistula with severe abdominal adhesions.",
-      "abstract": "Postoperative inflammatory ileus (PII) is characterised by long-term re-obstruction, following temporary defecation. An intestinal fistula excision (IFE) with severe abdominal adhesions could increase the risk of PII in patients with sarcopenia. On the other hand, the postoperative outcomes are negatively impacted owing to chronic preoperative inflammation, as measured by the visceral fat area (VFA) and the total abdominal muscle area index (TAMAI) ratio. This study aims to evaluate the predictability of VFA/TAMAI for postoperative PII after IFE. Four tertiary centres participated in this retrospective cohort study. Patients with sarcopenia who underwent IFE between January 2018 and October 2022 were enrolled. VFA/TAMAI was evaluated as a risk factor for PII. We included 177 eligible patients (102 [57.6%] males) with a median age of 51 years (interquartile range [IQR]: 38-61 years) in this study. PII occurred in 16.9% of patients (n = 30), with an interval of four days (IQR: 3-5 days) between IFE and temporary defecation. The duration of the re-obstruction after temporary defecation was 23 days (IQR: 21-30 days), following temporary defecation that lasted for one days (IQR: 1-2 days). The adjusted logistic regression revealed that VFA/TAMAI was associated with PII (odds ratio = 1.51, 95% confidence interval: 1.02-2.19; p = 0.03). VFA/TAMAI was associated with inflammatory ileus after IFE with severe abdominal adhesions in patients with sarcopenia.",
-      "journal": "BMC surgery",
-      "issn": "1471-2482",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Yang F",
-        "Luo S",
-        "Hong Z",
-        "Tian W",
-        "Zhao G",
-        "Wang X",
-        "Zhao R",
-        "Shang W",
-        "Zhao Y",
-        "Xu X",
-        "Huang Q",
-        "Yao Z"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Multicenter Study"
-      ],
-      "publicationDate": "2025 Nov 19",
-      "year": "2025",
-      "doi": "10.1186/s12893-025-03196-x",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41257795/",
-      "topics": [
-        "Mechanism",
         "Clinical Study"
       ]
     }
