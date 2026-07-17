@@ -1,9 +1,39 @@
 {
-  "updatedAt": "2026-07-16T23:07:35+00:00",
+  "updatedAt": "2026-07-17T23:01:07+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
   "articles": [
+    {
+      "pmid": "42465852",
+      "title": "Logistic regression analysis of risk factors for abdominal adhesion during hyperthermic intraperitoneal chemotherapy for ovarian cancer.",
+      "abstract": "The present study aimed to explore the risk factors for abdominal adhesion during hyperthermic intraperitoneal chemotherapy (HIPEC) for ovarian cancer via logistic regression analysis. The present study is a retrospective analysis involving 165 patients with ovarian cancer treated at The Department of Gynecology, Shanghai First Maternity and Infant Hospital (Shanghai, China) from February 2021 to June 2023. All patients were treated with HIPEC or adjuvant therapy. During the treatment, the patients were divided into the control (n=61) and observation (n=104) groups according to the presence of abdominal adhesion. The results of the present study highlighted the notable role of monitoring biomarkers such as C-reactive protein and plasminogen activator inhibitor-1 in predicting the risk of abdominal adhesions in patients with ovarian cancer treated with HIPEC. By optimizing surgical techniques, controlling inflammatory reactions, adopting anti-adhesion strategies and implementing detailed preoperative assessment and preventive measures for patients undergoing HIPEC, the incidence of adhesions may be effectively reduced and treatment safety improved.",
+      "journal": "Oncology letters",
+      "issn": "1792-1082",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Yao J",
+        "Chen J"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Sep",
+      "year": "2026",
+      "doi": "10.3892/ol.2026.15748",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42465852/",
+      "topics": [
+        "Prevention",
+        "Surgery",
+        "Clinical Study"
+      ]
+    },
     {
       "pmid": "42396660",
       "title": "Aspirin prevents postoperative peritoneal adhesions by inhibiting the TGF‑β1/Smad signaling pathway in rats.",
@@ -1319,7 +1349,8 @@
         "Wagmaister J"
       ],
       "publicationTypes": [
-        "Journal Article"
+        "Journal Article",
+        "Case Reports"
       ],
       "publicationDate": "2026 May 13",
       "year": "2026",
@@ -4199,45 +4230,6 @@
       "topics": [
         "Prevention",
         "Mechanism",
-        "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "41258467",
-      "title": "Colorectal adenocarcinoma in children and adolescents: the management of advanced disease.",
-      "abstract": "Colorectal carcinoma (CC) is a rare disease in the pediatric population, with an annual incidence of 1 in 10 million adolescents, and it accounts for approximately 1% of pediatric solid neoplasms. It is the most common primary gastrointestinal malignancy in children with the vast majority of CCs being adenocarcinoma (CA). Unfortunately, the proportion of poorly differentiated, mucinous type, signet-ring cell containing carcinomas is higher in younger patients than in adults. Moreover, due to the low awareness of the disease, diagnosis is usually delayed until advanced stages, resulting in an extremely poor prognosis. Surgery is the only curative modality for localized CAs, whereas adjuvant chemotherapy is the standard of care for patients with stage III cancer to eradicate micro-metastases. In the last 10 years, we treated 3 patients diagnosed with CA: a 14-year-old female, a 15-year-old male, and a 15-year-old female. All patients presented to our Emergency Department with nonspecific symptoms of abdominal pain and vomiting. All patients were subjected to laparoscopic tumor resection to relief intestinal obstruction. In the male patient, laparoscopy was converted to laparotomy to safely assess the anatomy because of strong peritoneal adhesions. No stomas were created, in order to improve quality of life. Oxaliplatin and 5-fluorouracil-based regimens were among the most commonly used chemotherapy combinations. The 15-year-old female and the 15-year-old male died 1 year after the surgical resection, while the 14-year-old female is still on follow-up. CAs behave aggressively in children; they not only show a poorer response to chemotherapy, but are also associated with extensive intramural spread and peritoneal carcinomatosis. Lack of awareness and timely intervention remain the main challenges for early diagnosis and improved prognosis of CA.",
-      "journal": "International journal of colorectal disease",
-      "issn": "1432-1262",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Guanà R",
-        "Soto Torselli AS",
-        "De Leo F",
-        "Marino B",
-        "Perin S",
-        "Morgani G",
-        "Allaix ME",
-        "Piglione M",
-        "Di Martino V",
-        "Falco EC",
-        "Gennari F"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Case Reports"
-      ],
-      "publicationDate": "2025 Nov 19",
-      "year": "2025",
-      "doi": "10.1007/s00384-025-05017-2",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41258467/",
-      "topics": [
-        "Surgery",
         "Clinical Study"
       ]
     }
