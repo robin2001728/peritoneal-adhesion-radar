@@ -1,9 +1,42 @@
 {
-  "updatedAt": "2026-07-18T23:03:41+00:00",
+  "updatedAt": "2026-07-19T23:04:34+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
   "articles": [
+    {
+      "pmid": "42472477",
+      "title": "miR-145-5p in predicting caesarean section postoperative complications in scarred uterus cases: a prospective cohort study.",
+      "abstract": "To investigate whether serum micro (miR)-145-5p for postoperative complications in patients with scarred uterus undergoing caesarean section, suggesting its potential as an adjunctive molecular biomarker for clinical preoperative risk assessment. A total of 198 women were divided into high-expression and low-expression groups based on the mean relative serum miR-145-5p level. Pelvic floor function, vaginal microecology, and abdominal adhesion status were assessed, and postoperative complications were monitored. Spearman's rank correlation was used to analyse the correlation between miR-145-5p expression and scar scores, while Receiver operating characteristic (ROC) curves were employed to evaluate its predictive efficacy for complications. Serum miR-145-5p was negatively correlated with abdominal scar Patient-Observation Scar Assessment Scale (POSAS) scores. The level of miR-145-5p was lower in the moderate-to-severe pelvic floor dysfunction (PFD) group, vaginal microecological disorder group, abdominal adhesion group, and postoperative complication group compared with the corresponding control groups. ROC curve analysis showed that miR-145-5p had good predictive value for these complications. miR-145-5p is closely correlated with abdominal scar, PFD, vaginal microecological disorders, abdominal adhesions, and other postoperative complications in patients with scarred uterus after caesarean section, which may serve as a potential molecular biomarker for preoperative risk assessment.",
+      "journal": "Journal of obstetrics and gynaecology : the journal of the Institute of Obstetrics and Gynaecology",
+      "issn": "1364-6893",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Zhao M",
+        "Yang X",
+        "Zhang H",
+        "Hu W",
+        "Wang X",
+        "Xing H",
+        "An P"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Dec",
+      "year": "2026",
+      "doi": "10.1080/01443615.2026.2697492",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42472477/",
+      "topics": [
+        "Clinical Study"
+      ]
+    },
     {
       "pmid": "42465852",
       "title": "Logistic regression analysis of risk factors for abdominal adhesion during hyperthermic intraperitoneal chemotherapy for ovarian cancer.",
@@ -4180,56 +4213,6 @@
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/40850881/",
       "topics": [
         "Surgery",
-        "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "40020874",
-      "title": "Plasma-activated solutions prevent peritoneal adhesion formation by regulating eNOS expression in mesothelial cells.",
-      "abstract": "Peritoneal adhesions cause significant morbidity due to limited therapeutic options. Current strategies are limited by inconsistent efficacy and potential side effects. Plasma-activated solutions (PAS) exhibit anti-inflammatory and healing promoting properties with good safety, their efficacy in preventing peritoneal adhesions remains further investigation. This study aimed to investigate the therapeutic potential of PAS in preventing peritoneal adhesion formation and to elucidate its mechanisms. Two murine peritoneal adhesion models (\"ischemic button\" and \"cecum-peritoneum abrasion\") were established. Human peritoneal mesothelial cell was treated with LPS or TGF-β1 to model apoptosis and mesothelial-to-mesenchymal transition (MMT) in vitro. Apoptosis was quantified via flow cytometry and western blotting; ROS levels were assessed using immunofluorescence staining. MMT markers (western blotting) and inflammatory cytokines (ELISA) were analyzed. Histological evaluation included Masson's trichrome and immunofluorescence staining. PAS-2 min significantly reduced adhesion scores compared to PBS controls (ischemic button: 6.250 ± 1.389 vs. 2.5 ± 2.268; abrasion: 7.333 ± 1.033 vs. 1.633 ± 1.333, p < 0.01). In vitro, PAS treatment decreased LPS-induced apoptosis in mesothelial cells by 8.14 % (flow cytometry: 39.10 % ± 1.47 % vs. 30.96 % ± 1.73 %, p < 0.01) and suppressed MMT markers, with N-cadherin and Vimentin expression reduced by 1.46-fold (p < 0.05) and 1.62-fold (p < 0.05). PAS also attenuated oxidative stress, decreasing general ROS levels by 3-fold (p < 0.001) and mitochondrial ROS (mtROS) by 2-fold (p < 0.01). Mechanistically, reactive nitrogen species (RNS) in PAS restored eNOS expression, attenuating apoptosis and MMT in mesothelial cells. This study demonstrates that PAS prevents peritoneal adhesions via RNS-mediated eNOS restoration, suppressing oxidative stress, apoptosis, and MMT. These findings position PAS as a novel and promising therapy for adhesion prevention, warranting clinical translation.",
-      "journal": "Journal of advanced research",
-      "issn": "2090-1224",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Ma Y",
-        "Sun T",
-        "Ren K",
-        "Ma R",
-        "Min T",
-        "Wang X",
-        "Yuan Y",
-        "Xie X",
-        "Zhang B",
-        "Deng X",
-        "Peng Y",
-        "Liu Y",
-        "Nan Y",
-        "Wang W",
-        "Zhou Z",
-        "Xu G",
-        "Li K",
-        "Zhu K",
-        "Hao N",
-        "Dang C",
-        "Zhang G",
-        "Zhang H"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publicationDate": "2025 Dec",
-      "year": "2025",
-      "doi": "10.1016/j.jare.2025.02.024",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/40020874/",
-      "topics": [
-        "Prevention",
-        "Mechanism",
         "Clinical Study"
       ]
     }
