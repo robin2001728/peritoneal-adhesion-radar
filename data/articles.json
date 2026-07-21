@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T23:10:38+00:00",
+  "updatedAt": "2026-07-21T23:07:02+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -186,6 +186,40 @@
         "Prevention",
         "Mechanism",
         "Animal Study"
+      ]
+    },
+    {
+      "pmid": "42479669",
+      "title": "Third-Redo Laparoscopic Roux-en-Y Hepaticojejunostomy for Recurrent Anastomotic Stones: A Video-Based Case Report.",
+      "abstract": "BACKGROUND Redo surgery after Roux-en-Y hepaticojejunostomy is technically demanding due to dense intra-abdominal adhesions and distorted anatomy. Repeated laparoscopic reoperations for recurrent biliary stones remain rarely reported, especially in patients undergoing multiple revisions. This study presents a video-based case highlighting technical strategies for a third laparoscopic redo hepaticojejunostomy. CASE REPORT A 41-year-old woman with a history of laparoscopic Roux-en-Y hepaticojejunostomy presented with recurrent biliary stones, most likely secondary to progressive anastomotic stricture leading to bile stasis. She had previously undergone 2 laparoscopic revisions due to early recurrence. Imaging revealed a large filling defect above the previous anastomosis. A third laparoscopic exploration was performed. Severe adhesions were carefully dissected, and the previous anastomosis was identified with the assistance of indocyanine green fluorescence imaging. The impacted stone was removed, and intraoperative choledochoscopy confirmed complete clearance of the intrahepatic bile ducts. Reconstruction was performed using interrupted 4-0 polydioxanone sutures with a mucosa-to-mucosa technique, ensuring a wide and tension-free anastomosis to reduce the risk of restenosis. The postoperative course was uneventful. During the 6-month follow-up period, she remained asymptomatic without episodes of cholangitis or jaundice, and imaging confirmed a patent anastomosis with no evidence of stone recurrence. CONCLUSIONS A third laparoscopic redo hepaticojejunostomy can be feasible in carefully selected patients. Adequate anastomotic diameter, meticulous adhesiolysis, and precise identification of the previous anastomosis are critical to minimizing recurrence. Indocyanine green fluorescence imaging can be a useful adjunct in complex redo biliary surgery.",
+      "journal": "The American journal of case reports",
+      "issn": "1941-5923",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Fu K",
+        "Su K",
+        "Zou R",
+        "Xie Z",
+        "Huang J"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Case Reports",
+        "Video-Audio Media"
+      ],
+      "publicationDate": "2026 Jul 21",
+      "year": "2026",
+      "doi": "10.12659/AJCR.953458",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42479669/",
+      "topics": [
+        "Surgery",
+        "Clinical Study"
       ]
     },
     {
@@ -4178,41 +4212,6 @@
       "topics": [
         "Prevention",
         "Biomaterials",
-        "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "40850881",
-      "title": "Flank position laparoscopic orchiopexy with colon medialization versus conventional laparoscopic orchiopexy for intra-abdominal testis: A randomized controlled trial.",
-      "abstract": "The surgical management of intra-abdominal testis (IAT) remains a topic of debate. The primary challenges in different orchiopexy methods are short testicular vessels and peritoneal adhesions of IATs. This study aims to evaluate flank position laparoscopic orchiopexy (FPLO) with colon medialization as a novel surgical method for managing IATs, in comparison with the conventional supine position laparoscopic orchiopexy (SPLO). This study was a single-blind randomized parallel clinical trial. The inclusion criteria were non-palpable testes assigned to the laparoscopic approach and peeping testes requiring orchiopexy. Exclusion criteria were patients above the age of 15 years, bilateral IAT, palpable testes in the inguinal canal and scrotum, blind end vessel or vanished testis. FPLO was performed with the patient in the flank position, involving either segmental or complete release of the mesocolon attachment from the testis. The conventional method (SPLO) involved positioning the patient in the supine position and preserving testicular vasculature without additional release of the mesocolon attachment. The primary outcomes, the final position of the testis and atrophy rates, were compared between the two groups. The secondary outcomes, including surgery time, length of hospital stay, and complication rates, were also evaluated. Fifty-two pediatric patients with unilateral IAT were allocated into two groups: FPLO (n = 26) and SPLO (n = 26). There were no significant differences between the FPLO and SPLO groups regarding age, prematurity, and distance of the testis from the ipsilateral internal ring. The overall success rate, defined as the final position of the testis in the scrotum at 12 months, was 96.2 % for FPLO and 73.1 % for SPLO (relative risk: 1.32, 95 % CI: 1.03-1.68, p = 0.05). No atrophy or complications were seen in either group. In logistic regression, FPLO resulted in significantly better bottom positioning of the testis in the scrotum compared to SPLO (OR: 5.91, 95 % CI: 1.51-23.06, p = 0.011), independent of the initial distance of the testis to the internal ring and the patient's age. In subgroup analysis, patients in the FPLO method requiring segmental colon medialization had significantly lower age, shorter initial testis-ipsilateral internal ring distance, shorter surgery duration, and higher bottom positioning rates than those who underwent complete colon medialization. FPLO demonstrates promising results in positioning the testis within the scrotum, particularly achieving optimal bottom positioning compared to the conventional SPLO method. Further studies with larger sample sizes are required to compare FPLO with other orchiopexy techniques for managing IATs. This study was registered in the Iranian Registry of Clinical Trials (IRCT20200905048625N2).",
-      "journal": "Journal of pediatric urology",
-      "issn": "1873-4898",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Ghahestani SM",
-        "Ahrabi A",
-        "Hosseini A",
-        "Poshtdar S",
-        "Amirzargar H",
-        "Hosseini SR"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Randomized Controlled Trial",
-        "Comparative Study"
-      ],
-      "publicationDate": "2025 Dec",
-      "year": "2025",
-      "doi": "10.1016/j.jpurol.2025.08.001",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/40850881/",
-      "topics": [
-        "Surgery",
         "Clinical Study"
       ]
     }
