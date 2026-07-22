@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T23:07:02+00:00",
+  "updatedAt": "2026-07-22T23:13:27+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -35,6 +35,36 @@
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42472477/",
       "topics": [
         "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "42481128",
+      "title": "SPARC induction and correlation with inflammation and fibrosis in a mouse model of alkali-induced abdominal adhesions.",
+      "abstract": "Postoperative abdominal adhesions can cause several complications, such as intestinal obstruction, female infertility, and chronic pelvic pain. By alkaline cauterization of the cecum, we established a mouse abdominal adhesion model to investigate the roles of secreted protein acidic and rich in cysteine (SPARC) in adhesion formation. Alkaline cauterization led to elevation of adhesion scores and mRNA levels of SPARC, monocyte chemoattractant protein-1 (MCP-1), tumor necrosis factor-α (TNF-α), and collagen I on Days 3, 7, and 14, with a positive correlation between SPARC levels and MCP-1, TNF-α, and collagen I during Days 3-14. Histological assessment revealed the presence of fibrillar collagen in the adhesive tissue between the cecum and other organs/tissues and SPARC at the fibrotic sites. Matrix metalloproteinase (MMP)-9 and MMP-2 were upregulated in the adhesion group on Days 3-7 and 7-14, respectively, with these expressions correlating with SPARC on Days 3, 7, and 14. A disintegrin and metalloproteinase with thrombospondin type 1 motif (ADAMTS1), which colocalized with SPARC, was increased in the adhesion model, and showed a positive correlation with SPARC, MCP-1, TNF-α, and collagen I on Days 3 and 7, but not on Day 14. In conclusion, SPARC induction might play important roles in adhesion formation and development.",
+      "journal": "Journal of pharmacological sciences",
+      "issn": "1347-8648",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Toba H",
+        "Jin D",
+        "Takai S"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Sep",
+      "year": "2026",
+      "doi": "10.1016/j.jphs.2026.06.006",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42481128/",
+      "topics": [
+        "Mechanism",
+        "Animal Study"
       ]
     },
     {
@@ -3226,6 +3256,43 @@
       ]
     },
     {
+      "pmid": "42480988",
+      "title": "Is there any effect of lycopene's preventing peritoneal adhesion formation in rats: an experimental study.",
+      "abstract": "Effects of lycopene in prevention of intra-abdominal adhesion formation in a rat model. Twenty-eight rats were divided into four groups consisting of 7 rats each. Group 1 (only adhesion), Group 2 (adhesion + corn oil), Group 3 (adhesion + 5 mg/kg lycopene), Group 4 (adhesion + 20 mg/kg lycopene). Adhesion score, histopathology, vascular endothelial growth factor (VEGF) H-score, malondialdehyde (MDA), total antioxidant capacity, and VEGF values were measured. There were significantly higher extent, severity, degree, and total adhesion scores in the control and corn-oil group than in the low lycopene and high lycopene group. VEGF H-scores were significantly lower in lycopene-given groups, regardless of dose. When the low lycopene and high lycopene groups were compared in terms of anti-VEGF H-score, no significant difference was observed. Malondialdehyde levels were statistically significantly lower in the control and high lycopene group. Biochemical parameters, histopathological examination, and adhesion scoring revealed that lycopene significantly reduced adhesion formation.",
+      "journal": "Cirugia y cirujanos",
+      "issn": "2444-054X",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Bilgi A",
+        "Terek MC",
+        "Yiğittürk G",
+        "Taşkıran D",
+        "İlgen O",
+        "Hortu İ",
+        "Yilmaz B",
+        "Kart C",
+        "Avcı F",
+        "Kulhan M"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026",
+      "year": "2026",
+      "doi": "10.24875/CIRU.24000434",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42480988/",
+      "topics": [
+        "Prevention",
+        "Animal Study"
+      ]
+    },
+    {
       "pmid": "42419951",
       "title": "Acute and chronic pain of the scar following caesarean section, visceral pain, and the possible benefits of physiotherapy.",
       "abstract": "Caesarean section (CS) is one of the most common obstetric surgeries, and the number of CS births has been increasing worldwide. Acute wound pain following a caesarean section can affect the postnatal recovery process, has an impact on the mother's mobility, on the mother-child bonding process, on the quality of breastfeeding, and increases the risk of developing postnatal depression. Chronic pain following CS is related to pain in the scar area (neuropathic pain) and to postoperative intra-abdominal adhesions (visceral pain). Chronic scar and abdominal pain following a caesarean delivery adversely affects a woman's routine daily activities, her psychological state, and motor functions. According to available studies, persistent chronic post-operative pain in the scar area is reported by 10% of women 12 months after caesarean section delivery. Intra-abdominal adhesions are the most common long-term complication associated with caesarean sections and their occurrence is reported in the literature as 24-46% after the first caesarean section and up to 59% after repeated caesarean sections. Currently, there are no unified standards for physiotherapeutic treatment of scars and management of adhesions following a caesarean section delivery. Although scar therapy is generally considered to be effective (aesthetic effect on scar remodeling, reduction in pain intensity, increased elasticity and flexibility of the scar), there is little scientific data in the literature to support this claim. Only a few studies have been published that demonstrate the benefit of physiotherapy in affecting the occurrence of symptoms related to the development of early postoperative adhesions, and studies that deal with approaches leading to the prevention of postoperative adhesions. With regard to the increasing trend of CS births worldwide and in the Czech Republic, and the related rising incidence of acute and chronic post-birth complications caused by CS scarring, it is necessary to create a standardized physiotherapy program focused on the recovery of mothers after a CS birth, including scar care procedures according to evidence-based medicine.",
@@ -4140,78 +4207,6 @@
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/40968212/",
       "topics": [
         "Surgery",
-        "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "40956589",
-      "title": "Concrete Structure Inspired 3D-Printed Framework Mechanically Reinforced Zwitterionic Hydrogel for Efficient Postoperative Abdominal Adhesion Prevention.",
-      "abstract": "Zwitterionic hydrogels, which have been demonstrated to hold great potential in preventing abdominal adhesion, are hindered in clinical translation by their inherent mechanical fragility and structural instability. Inspired by the framework-reinforced composite structure of concrete in building construction, herein, a 3D-printed polymeric framework reinforced zwitterionic lubricating hydrogel (abbreviated as 3DF-LH) is developed, which features high tensile strength internally and optimal lubrication externally. Just like the establishment process of concrete, 3DF-LH is fabricated by infiltrating hydrogel precursor solution, that consisted of GelMA and zwitterionic sulfobetaine methacrylate (SBMA), into the pores of a 3D-printed PCL framework (3DF), followed by UV curing. In vitro studies demonstrated that the 3DF-LH composite exhibited superior structural stability, mechanical robustness, and biocompatibility, along with significantly suppressing fibroblast adhesion. In an SD rat cecal-abdominal wall postoperative adhesion model, 3DF-LH attenuated the inflammatory microenvironment, which involved the suppression of the TGF-β/Smad signaling pathway, thereby effectively inhibiting abdominal adhesion formation. These findings demonstrate that developed 3DF-LH effectively addresses the mechanical limitations of zwitterionic hydrogels and thus holds great potential for future clinical translation.",
-      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
-      "issn": "2198-3844",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Song J",
-        "Cao X",
-        "Zhang R",
-        "Cheng S",
-        "Wang Y"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publicationDate": "2025 Dec",
-      "year": "2025",
-      "doi": "10.1002/advs.202508954",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/40956589/",
-      "topics": [
-        "Prevention",
-        "Biomaterials",
-        "Mechanism",
-        "Animal Study",
-        "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "40855029",
-      "title": "Physiological Considerations and Delivery Strategies for Targeting Tumors Through Intraperitoneal Delivery.",
-      "abstract": "The peritoneal cavity presents both unique challenges and promising opportunities for targeted therapy in malignancies like ovarian, gastric, pancreatic, and colorectal cancers. Intraperitoneal drug delivery offers significant pharmacokinetic advantages over intravenous administration by achieving high local drug concentrations and tumor-specific delivery potential while minimizing systemic toxicity. Despite these theoretical advantages, the clinical implementation of intraperitoneal therapy is limited by several barriers, including restricted tissue penetration, incomplete peritoneal coverage, rapid drug clearance, catheter-related complications, posttreatment peritoneal adhesions, and ascites-induced permeability dysregulation. This review highlights three advanced strategies developed to overcome these obstacles: (1) particulate-based delivery systems, such as nanoparticles to enhance tumor specificity through passive accumulation, active targeting and on-demand drug release in response to internal or external stimuli; (2) Sustained drug release hydrogels and (3) pressurized intraperitoneal aerosol chemotherapy. Despite promising preclinical and clinical advancements, successful translation requires systematic optimization of multiple parameters, such as ascites dynamics, tumor heterogeneity, and multidrug resistance. The integration of advanced delivery technologies with a comprehensive understanding of peritoneal physiology remains crucial for achieving safe and effective clinical applications.",
-      "journal": "Pharmaceutical research",
-      "issn": "1573-904X",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Jony MJH",
-        "Ranjbar S",
-        "Prajapati R",
-        "Eslami SM",
-        "Zhen Z",
-        "Darji M",
-        "Zhu X",
-        "Lu X"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publicationDate": "2025 Dec",
-      "year": "2025",
-      "doi": "10.1007/s11095-025-03917-0",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/40855029/",
-      "topics": [
-        "Prevention",
-        "Biomaterials",
         "Clinical Study"
       ]
     }
