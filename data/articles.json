@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T23:13:27+00:00",
+  "updatedAt": "2026-07-23T23:08:05+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -738,6 +738,39 @@
         "Mechanism",
         "Surgery",
         "Animal Study",
+        "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "42491882",
+      "title": "Intestinal Ischemia Secondary to Ladd's Bands Obstruction Associated With Intestinal Malrotation in a One-Year-Old Pediatric Patient: A Case Report.",
+      "abstract": "Intestinal malrotation is a congenital anomaly resulting from an alteration in the rotation and fixation of the midgut during embryonic development. Ladd's bands are abnormal peritoneal adhesions that can cause extrinsic compression of the bowel, obstruction, and vascular compromise, leading to intestinal ischemia. Although the diagnosis is typically made in the neonatal period, late presentations exist, posing a diagnostic and therapeutic challenge. We describe the case of a previously healthy one-year-old male patient who was admitted for feeding intolerance, accompanied by vomiting, progressive abdominal distension, and abdominal pain with clinical signs of peritoneal irritation. Laboratory tests showed an elevated C-reactive protein (71 mg/L) level without significant alterations in the acid-base balance or marked lactate elevation. An abdominal CT scan revealed a bowel obstruction with a transition zone in the terminal ileum. Given the clinical deterioration, an emergent exploratory laparotomy was performed, identifying ischemia in approximately 100 cm of the terminal ileum secondary to Ladd's bands. Ladd's bands constitute an infrequent but severe cause of bowel obstruction in pediatrics. Early diagnosis and prompt surgical intervention are essential to reduce morbidity and mortality and to preserve the greatest possible bowel length, thereby avoiding bowel resections.",
+      "journal": "Cureus",
+      "issn": "2168-8184",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Moya-Leal B",
+        "Rodríguez-Garza M",
+        "Nava Palomo CL",
+        "Arzamendi A",
+        "Valdez-Cruz JL"
+      ],
+      "publicationTypes": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Jun",
+      "year": "2026",
+      "doi": "10.7759/cureus.111021",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42491882/",
+      "topics": [
+        "Surgery",
         "Clinical Study"
       ]
     },
@@ -2309,7 +2342,8 @@
       ],
       "publicationTypes": [
         "Journal Article",
-        "Video-Audio Media"
+        "Video-Audio Media",
+        "Research Support, Non-U.S. Gov't"
       ],
       "publicationDate": "2026 Mar 13",
       "year": "2026",
@@ -4166,45 +4200,6 @@
       "year": "2025",
       "doi": "10.1007/s40477-025-01078-9",
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41006823/",
-      "topics": [
-        "Surgery",
-        "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "40968212",
-      "title": "Exploring the potential utility of modified difficulty scores based on the IWATE criteria for assessing the surgical difficulty of laparoscopic repeat liver resection.",
-      "abstract": "Laparoscopic repeat liver resection (LRLR) is more challenging than initial laparoscopic liver resection in some cases because of intra-abdominal adhesions and liver deformation caused by previous operations. However, there are insufficient reports on difficulty scoring systems for LRLR. In this study, we aimed to explore whether the IWATE criteria and its modified scoring system could effectively predict surgical outcomes in patients undergoing LRLR. Patients who underwent LRLR at the Kobe University Hospital between 2014 and 2024 were enrolled. We assessed the correlation between difficulty scores based on the IWATE criteria and LRLR surgical outcomes. The correlation between the modified difficulty scores and LRLR surgical outcomes were also evaluated. The modified difficulty scores were calculated by adding 2 points for ipsilateral recurrence and 1 point for a previous history of open liver resection to the original difficulty scores of the IWATE criteria. Eighty-four patients who underwent LRLR were enrolled. The median value of the IWATE criteria and modified difficulty score was 4 and 6, respectively. The median operation time and blood loss were 287 min and 10 mL, respectively. Nineteen (23%) patients experienced postoperative complications, wherein four (5%) had Clavien-Dindo grade ≥ IIIa complications. The IWATE criteria difficulty score correlated with operation time (r = 0.52, 95% confidential interval CI 0.35-0.66, P < 0.001) and blood loss (r = 0.26, 95% CI 0.05-0.45, P = 0.018), while the modified difficulty score correlated with operation time (r = 0.53, 95% CI 0.36-0.67, P < 0.001), blood loss (r = 0.31, 95% CI 0.11-0.49, P = 0.004), and overall postoperative complications (odds ratio 1.34 [interquartile range 1.23, 1.47], P = 0.019). The IWATE criteria and modified difficulty score may be useful for assessing LRLR surgical difficulty. Additionally, the modified difficulty score may more precisely predict the risk of postoperative complications.",
-      "journal": "Surgical endoscopy",
-      "issn": "1432-2218",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Gon H",
-        "Komatsu S",
-        "Kusuhara T",
-        "Takimoto D",
-        "Fukushima K",
-        "Urade T",
-        "Yoshida T",
-        "Tai K",
-        "Arai K",
-        "Yanagimoto H",
-        "Kido M",
-        "Fukumoto T"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publicationDate": "2025 Dec",
-      "year": "2025",
-      "doi": "10.1007/s00464-025-12225-y",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/40968212/",
       "topics": [
         "Surgery",
         "Clinical Study"
