@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T23:17:06+00:00",
+  "updatedAt": "2026-07-29T23:09:02+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -216,6 +216,39 @@
         "Prevention",
         "Mechanism",
         "Animal Study"
+      ]
+    },
+    {
+      "pmid": "42525185",
+      "title": "Robotic adhesiolysis: current evidence, technical considerations, and future directions.",
+      "abstract": "Adhesiolysis is a technically demanding component of abdominal and pelvic reoperation. Robotic platforms may offer theoretical advantages in complex dissections; however, the clinical evidence specific to robotic adhesiolysis is limited. This review summarizes the current evidence, robotic-specific technical considerations, clinical rationale, patient selection, and future research priorities for robotic surgery in operations requiring adhesiolysis. A targeted narrative review of peer-reviewed literature on adhesion-related morbidity, adhesive small bowel obstruction (ASBO), laparoscopic adhesiolysis, and robotic surgery in patients with adhesions was performed. Current clinical data suggest that robotic surgery may reduce the conversion to open surgery due to adhesions in selected reoperative abdominal surgeries, particularly in expert hands and specific colorectal settings. However, outcomes beyond conversion, such as enterotomy rates, length of stay, and postoperative complications require further investigation. Successful robotic adhesiolysis relies on meticulous technical execution, including safe abdominal access, strategic port mapping, and appropriate instrument selection. Patient selection must carefully distinguish between elective reoperative surgery and emergency ASBO cases. Robotic adhesiolysis is a promising minimally invasive approach. Current evidence supports the cautious use of this approach in carefully selected patients. Future progress depends on standardized reporting, objective adhesion grading, prospective registries, and comparative studies that evaluate clinically relevant outcomes.",
+      "journal": "Journal of robotic surgery",
+      "issn": "1863-2491",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Delcea B",
+        "Mazarieb N",
+        "Bachar GN",
+        "Hassan MH",
+        "Mazarieb M"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publicationDate": "2026 Jul 29",
+      "year": "2026",
+      "doi": "10.1007/s11701-026-03740-8",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42525185/",
+      "topics": [
+        "Surgery",
+        "Clinical Study"
       ]
     },
     {
@@ -4171,38 +4204,6 @@
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41082405/",
       "topics": [
         "Mechanism"
-      ]
-    },
-    {
-      "pmid": "41006823",
-      "title": "Diagnostic utility of the ultrasound sliding sign in predicting intra-abdominal adhesions in repeat caesarean delivery: a prospective study.",
-      "abstract": "Intra-abdominal adhesions following caesarean sections pose significant challenges during repeat surgeries, leading to increased maternal morbidity. A reliable, non-invasive preoperative diagnostic tool such as the ultrasound (USG) sliding sign may help predict adhesions and improve surgical preparedness. To evaluate the diagnostic accuracy of the ultrasound sliding sign in predicting intra-abdominal adhesions in women undergoing repeat lower segment caesarean section (LSCS), and to correlate sonographic findings with intraoperative adhesion severity. This prospective observational study was conducted on 250 pregnant women with a history of one or more previous LSCS. All participants underwent preoperative transabdominal ultrasound to assess the presence or absence of the sliding sign. Adhesion severity was classified intraoperatively using the Nair classification. Associations between adhesion severity and clinical variables such as age, BMI, number of previous LSCS, and gestational age were analysed using chi-square and ANOVA tests. A significant association was observed between the absence of the USG sliding sign and the presence of moderate to severe adhesions (p < 0.001). The sliding sign demonstrated a sensitivity of 72.88%, specificity of 85.86%, positive predictive value of 61.43%, and negative predictive value of 91.11% and an overall accuracy of 82.8%. The receiver operating characteristic (ROC) curve analysis showed an area under the curve (AUC) of 0.96, indicating excellent diagnostic accuracy. Mean intraoperative blood loss and time from skin incision to delivery significantly increased with higher adhesion grades (p < 0.001). A statistically significant correlation was also noted between the number of previous LSCS and adhesion severity (p = 0.022), whereas age, BMI, gestational age, and place of previous delivery were not significantly associated. The ultrasound sliding sign is a simple, non-invasive, and effective tool for the preoperative prediction of intra-abdominal adhesions in women undergoing repeat caesarean sections. Its use may aid in surgical planning and reduce operative complications.",
-      "journal": "Journal of ultrasound",
-      "issn": "1876-7931",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Sugananthan K",
-        "Kumari RS",
-        "Perumal SR",
-        "Murugesan A"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Observational Study"
-      ],
-      "publicationDate": "2025 Dec",
-      "year": "2025",
-      "doi": "10.1007/s40477-025-01078-9",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41006823/",
-      "topics": [
-        "Surgery",
-        "Clinical Study"
       ]
     }
   ]
