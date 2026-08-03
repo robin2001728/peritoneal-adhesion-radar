@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T23:05:22+00:00",
+  "updatedAt": "2026-08-03T23:14:58+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -129,6 +129,41 @@
         "Mechanism",
         "Surgery",
         "Animal Study",
+        "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "42545521",
+      "title": "Preclinical trial results of main pancreatic duct endoluminal radiofrequency ablation to reduce postoperative pancreatic fistula.",
+      "abstract": "Postoperative pancreatic fistula (POPF) is a major cause of morbidity after pancreatoduodenectomy, particularly in patients with high-risk pancreatic remnants. Preventive strategies based solely on surgical technique have yielded inconsistent results, and thus, there has been growing interest in strategies aiming to modify the biological behavior of the pancreatic remnant. This preclinical study evaluated the biological and histopathological effects of preoperative endoluminal radiofrequency ablation (ERFA) of the main pancreatic duct (MPD) performed 4 weeks before pancreatic transection in a porcine model. Animals underwent laparoscopic MPD occlusion followed by pancreatic transection at 4 weeks and necropsy 15 days thereafter. Feasibility, safety, histological atrophy, and macroscopic findings associated with POPF risk were assessed. As a secondary objective, outcomes were compared with those who underwent MPD occlusion using cyanoacrylate glue. Preoperative ERFA was technically feasible and safe. At 4 weeks, ERFA induced marked and homogeneous acinar atrophy that was significantly greater than that observed after glue occlusion (p = 0.018), indicating effective biological conditioning of the pancreatic remnant. At necropsy, pseudocyst formation and intra-abdominal adhesions, known surrogate markers of pancreatic fistula in pigs, were significantly more frequent in the glue group and absent in ERFA-treated animals. Serum amylase levels, postoperative weight gain, complication rates, and preservation of endocrine architecture were comparable between groups. Ductal ablation of the MPD via ERFA induced stable, progressive exocrine pancreatic atrophy, effectively preconditioning the gland prior to pancreatic transection. Experimental evidence suggests that its biological effects stabilize approximately 4 weeks after treatment. Compared to cyanoacrylate occlusion, ERFA achieved more homogeneous early biological effects and fewer fistula-related macroscopic complications. These findings support the further investigation of preoperative pancreatic conditioning as a potential adjunct strategy for POPF risk reduction, although clinical studies are needed to clarify its role alongside established reconstructive approaches.",
+      "journal": "Surgical endoscopy",
+      "issn": "1432-2218",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Vellalta G",
+        "Marcucci F",
+        "Sánchez-Velázquez P",
+        "Berjano E",
+        "Andaluz A",
+        "Burdio F",
+        "Ielpo B"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Aug 03",
+      "year": "2026",
+      "doi": "10.1007/s00464-026-13238-x",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42545521/",
+      "topics": [
+        "Prevention",
+        "Surgery",
         "Clinical Study"
       ]
     },
@@ -4166,43 +4201,6 @@
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41316557/",
       "topics": [
         "Surgery"
-      ]
-    },
-    {
-      "pmid": "41082405",
-      "title": "Aloe-Emodin Targeting FOXC2 Disrupts NETs Formation and EMT-Driven Postoperative Peritoneal Adhesion Through TGF-β1-Smad2/3 Pathway.",
-      "abstract": "Postoperative peritoneal adhesion (PPA) develops through TGF-β1-driven fibrotic remodeling, characterized by neutrophil extracellular trap (NETs)-induced aberrant epithelial-to-mesenchymal transition (EMT) deposition. Although aloe-emodin (AE) exhibits anti-fibrosis potential, its molecular mechanisms remain elusive. Forkhead box protein C2 (FOXC2) is a critical regulator of fibrotic tissue formation, yet its role in PPA is unknown. Here, it is demonstrated that FOXC2 expression is elevated in human ileostomy tissue, PPA rodent model, and TGF-β1-exposed peritoneal mesothelial cells (PMCs), where it orchestrates NETs formation and extracellular matrix (ECM) remodeling. Mechanically, CRISPR/Cas-based knockdown and overexpression of FOXC2 alter EMT changes in PMCs, which is achieved via TGF-β1-Smad2/3 signaling. FOXC2 functions as a dual mediator and amplifier through the TGF-β1-Smad2/3 pathway feedback loop to drive EMT alterations. Its overexpression further induces neutrophil recruitment and NETs formation, exacerbating EMT in PMCs. Notably, AE ameliorates FOXC2-driven peritoneal fibrosis by impeding NETs formation and EMT changes through the TGF-β1-Smad2/3 pathway. Moreover, AE binds directly to FOXC2, and the Ser125 residue is critical for the binding of FOXC2 to AE. These findings identify FOXC2 as a pivotal effector in fibrotic responses during PPA formation and reveal that AE targeting the Ser125 residue of FOXC2 may be a promising therapeutic approach to attenuate PPA.",
-      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
-      "issn": "2198-3844",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Yang L",
-        "Fang Y",
-        "Lian Y",
-        "Kong Z",
-        "Miao J",
-        "Chen Y",
-        "Li W",
-        "Chen F",
-        "Zhang B",
-        "Chen Y",
-        "Bian Y"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publicationDate": "2025 Dec",
-      "year": "2025",
-      "doi": "10.1002/advs.202511013",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41082405/",
-      "topics": [
-        "Mechanism"
       ]
     }
   ]
