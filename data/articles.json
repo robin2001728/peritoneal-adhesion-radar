@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T23:14:58+00:00",
+  "updatedAt": "2026-08-04T23:14:34+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -133,6 +133,44 @@
       ]
     },
     {
+      "pmid": "42289211",
+      "title": "Sprayable macrophage-targeting apoptotic-body-inspired nanotherapeutics for the prevention of postoperative peritoneal adhesions.",
+      "abstract": "Postoperative peritoneal adhesion is a common complication of abdominal and pelvic surgeries, often leading to chronic pain, bowel obstruction, and increased reoperation rates. Despite clinical efforts, effective preventive strategies remain limited. In this study, we develope a sprayable, biomimetic nanotherapeutic system - designated Apo-Q - composed of phosphatidylserine (PS)-exposing liposomes encapsulating quercetin (Que@PSLs), inspired by the biological features of apoptotic bodies and prepared by a thin-film hydration-extrusion method. The obtained Apo-Q with the particle size about 140 nm and PS-functionalized surface can be selectively recognized and internalized by macrophages, thereby promoting targeted modulation of the postoperative inflammatory microenvironment. In a mouse model of peritoneal adhesion, Apo-Q promotes macrophage polarization from the pro-inflammatory M1 phenotype to the reparative M2 phenotype, suppresses inflammatory response, and also prevents pathological accumulation of GATA6+ macrophages at injury sites, significantly reducing adhesion formation and severity. These findings demonstrate that Apo-Q exerts potent anti-inflammatory and anti-fibrotic effects probably via a similar mechanism to macrophage efferocytosis, offering a minimally invasive and translationally promising strategy for preventing postoperative peritoneal adhesions.",
+      "journal": "International journal of pharmaceutics",
+      "issn": "1873-3476",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Huang Q",
+        "Zhang G",
+        "Li Y",
+        "Lin M",
+        "Su Z",
+        "Zeng R",
+        "Liu J"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Aug 10",
+      "year": "2026",
+      "doi": "10.1016/j.ijpharm.2026.127069",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42289211/",
+      "topics": [
+        "Prevention",
+        "Biomaterials",
+        "Mechanism",
+        "Surgery",
+        "Animal Study",
+        "Clinical Study"
+      ]
+    },
+    {
       "pmid": "42545521",
       "title": "Preclinical trial results of main pancreatic duct endoluminal radiofrequency ablation to reduce postoperative pancreatic fistula.",
       "abstract": "Postoperative pancreatic fistula (POPF) is a major cause of morbidity after pancreatoduodenectomy, particularly in patients with high-risk pancreatic remnants. Preventive strategies based solely on surgical technique have yielded inconsistent results, and thus, there has been growing interest in strategies aiming to modify the biological behavior of the pancreatic remnant. This preclinical study evaluated the biological and histopathological effects of preoperative endoluminal radiofrequency ablation (ERFA) of the main pancreatic duct (MPD) performed 4 weeks before pancreatic transection in a porcine model. Animals underwent laparoscopic MPD occlusion followed by pancreatic transection at 4 weeks and necropsy 15 days thereafter. Feasibility, safety, histological atrophy, and macroscopic findings associated with POPF risk were assessed. As a secondary objective, outcomes were compared with those who underwent MPD occlusion using cyanoacrylate glue. Preoperative ERFA was technically feasible and safe. At 4 weeks, ERFA induced marked and homogeneous acinar atrophy that was significantly greater than that observed after glue occlusion (p = 0.018), indicating effective biological conditioning of the pancreatic remnant. At necropsy, pseudocyst formation and intra-abdominal adhesions, known surrogate markers of pancreatic fistula in pigs, were significantly more frequent in the glue group and absent in ERFA-treated animals. Serum amylase levels, postoperative weight gain, complication rates, and preservation of endocrine architecture were comparable between groups. Ductal ablation of the MPD via ERFA induced stable, progressive exocrine pancreatic atrophy, effectively preconditioning the gland prior to pancreatic transection. Experimental evidence suggests that its biological effects stabilize approximately 4 weeks after treatment. Compared to cyanoacrylate occlusion, ERFA achieved more homogeneous early biological effects and fewer fistula-related macroscopic complications. These findings support the further investigation of preoperative pancreatic conditioning as a potential adjunct strategy for POPF risk reduction, although clinical studies are needed to clarify its role alongside established reconstructive approaches.",
@@ -165,6 +203,42 @@
         "Prevention",
         "Surgery",
         "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "42548935",
+      "title": "A multifunctional Janus-inspired therapeutic patch enabling intraoperative control of tumor dissemination and unidirectional drug delivery.",
+      "abstract": "Postoperative recurrence and metastasis remain formidable challenges in pancreatic ductal adenocarcinoma (PDAC), primarily due to bleeding-driven tumor dissemination and residual microscopic lesions after resection. However, the current surgical operation offers limited intraoperative treatment strategies to prevent these events. Herein, a multifunctional Janus-inspired therapeutic patch (JTP) is designed to bridge surgical resection and localized chemotherapy within a single intraoperative implant. The JTP features a trilayer Janus architecture that enables integrated control over hemostasis, tumor interception, and intratumoral chemotherapy. Specifically, the inner gelatin-hyaluronic acid sponge enables rapid hemostasis (1.24 min) and capture of circulating tumor cells. The middle gemcitabine-loaded polylactic acid nanofiber layer enables sustained and local drug release of gemcitabine (GEM) toward the surgical resection site, while the outer hydrophobic polycaprolactone backing serves as a protective barrier, preventing peritoneal adhesion and drug diffusion in unwanted directions (less than 5%). In an orthotopic PDAC resection model, a single JTP implantation achieved 78% blood loss reduction, ∼89% tumor suppression, and substantial inhibition of hepatic metastasis, extending survival to 38 days with 80% survival rate. By transforming the surgical site into an active therapeutic interface, this Janus-inspired patch establishes an effective strategy that bridges surgery and intratumoral chemotherapy for effective postoperative PDAC control.",
+      "journal": "Materials today. Bio",
+      "issn": "2590-0064",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Pan X",
+        "Wang X",
+        "Dang Q",
+        "Chen L",
+        "Wang G",
+        "Wang X",
+        "Xi S",
+        "Zhang H",
+        "Fang X"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Aug",
+      "year": "2026",
+      "doi": "10.1016/j.mtbio.2026.103478",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42548935/",
+      "topics": [
+        "Prevention",
+        "Surgery"
       ]
     },
     {
@@ -913,44 +987,6 @@
         "Mechanism",
         "Surgery",
         "Animal Study"
-      ]
-    },
-    {
-      "pmid": "42289211",
-      "title": "Sprayable macrophage-targeting apoptotic-body-inspired nanotherapeutics for the prevention of postoperative peritoneal adhesions.",
-      "abstract": "Postoperative peritoneal adhesion is a common complication of abdominal and pelvic surgeries, often leading to chronic pain, bowel obstruction, and increased reoperation rates. Despite clinical efforts, effective preventive strategies remain limited. In this study, we develope a sprayable, biomimetic nanotherapeutic system - designated Apo-Q - composed of phosphatidylserine (PS)-exposing liposomes encapsulating quercetin (Que@PSLs), inspired by the biological features of apoptotic bodies and prepared by a thin-film hydration-extrusion method. The obtained Apo-Q with the particle size about 140 nm and PS-functionalized surface can be selectively recognized and internalized by macrophages, thereby promoting targeted modulation of the postoperative inflammatory microenvironment. In a mouse model of peritoneal adhesion, Apo-Q promotes macrophage polarization from the pro-inflammatory M1 phenotype to the reparative M2 phenotype, suppresses inflammatory response, and also prevents pathological accumulation of GATA6+ macrophages at injury sites, significantly reducing adhesion formation and severity. These findings demonstrate that Apo-Q exerts potent anti-inflammatory and anti-fibrotic effects probably via a similar mechanism to macrophage efferocytosis, offering a minimally invasive and translationally promising strategy for preventing postoperative peritoneal adhesions.",
-      "journal": "International journal of pharmaceutics",
-      "issn": "1873-3476",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Huang Q",
-        "Zhang G",
-        "Li Y",
-        "Lin M",
-        "Su Z",
-        "Zeng R",
-        "Liu J"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publicationDate": "2026 Jun 14",
-      "year": "2026",
-      "doi": "10.1016/j.ijpharm.2026.127069",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42289211/",
-      "topics": [
-        "Prevention",
-        "Biomaterials",
-        "Mechanism",
-        "Surgery",
-        "Animal Study",
-        "Clinical Study"
       ]
     },
     {
@@ -4169,38 +4205,6 @@
       "topics": [
         "Surgery",
         "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "41316557",
-      "title": "Impact of manual therapy on adhesion related symptoms post abdominal surgery: A systemic review.",
-      "abstract": "It is reported that 90 % of abdominal surgeries develop adhesions after 12-24 months of surgery Studies show that incidence of abdominal adhesions is found to be 93 % in upper abdominal surgery and 67 % in lower abdominal surgeries. The current treatment for abdominal adhesions are primarily surgical adhesiolysis and pharmacological management which are still under research for providing better outcomes and also have complication of developing further adhesions. A systemic review was conducted for evaluation of effects of manual therapy on adhesions related symptoms post abdominal surgeries. A total of 773 studies were identified using four different databases and five additional studies were identified by examining the studies and their references. The study included 9 articles screened on the basis of inclusion and exclusion criteria. The findings from this review indicate that manual therapy holds potential as a non-invasive treatment for managing symptoms related to post-surgical adhesions, gastrointestinal disorders and musculoskeletal dysfunctions related adhesions. Clinically, manual therapy may serve as an adjunctive therapy, and also complement the conventional medical and surgical interventions for adhesion related conditions.",
-      "journal": "Journal of bodywork and movement therapies",
-      "issn": "1532-9283",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Aziz R",
-        "Jawed F",
-        "Jain A",
-        "Hussain M",
-        "Khan SA"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Systematic Review"
-      ],
-      "publicationDate": "2025 Dec",
-      "year": "2025",
-      "doi": "10.1016/j.jbmt.2025.10.050",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41316557/",
-      "topics": [
-        "Surgery"
       ]
     }
   ]
