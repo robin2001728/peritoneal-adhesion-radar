@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T23:14:34+00:00",
+  "updatedAt": "2026-08-05T23:13:56+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -35,6 +35,46 @@
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42472477/",
       "topics": [
         "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "42134155",
+      "title": "Supramolecular self-assembly mechanisms, interfacial behavior, multimodal antimicrobial and anti-adhesion activities of the novel Tilapia piscidin-3 (TP3) peptide hydrogel.",
+      "abstract": "Supramolecular self-assembly of antimicrobial peptides (AMPs) from simple monomers to complex colloidal networks holds great potential for functional biomaterials. Self-assembled AMP (SA-AMP) hydrogels can serve dual purposes by providing a physical scaffold and simultaneously eliminating drug-resistant pathogens. Despite the extensive medicinal potential of AMPs, only a few are known to self-assemble into hydrogels. Here, we first report a natural AMP, Tilapia piscidin-3 (TP3), that spontaneously self-assembles into a physically cross-linked hydrogel under physiological conditions without the need for chemical cross-linkers. Cryo-SEM, TEM, and high-resolution microscopy revealed that TP3 nanofibers exhibit twisted β-sheet architectures, forming hierarchical nanostructures with honeycomb-like microstructures. The self-assembly mechanisms were further elucidated by molecular dynamics simulations based on the NMR solution structure, revealing a hierarchical secondary-structure transition mediated by non-covalent interactions in the order: helix → coil/turn → β-bridge → β-sheet. Rheological studies demonstrated that TP3 hydrogel exhibits evident viscoelasticity, shear-thinning, and self-healing properties. Functionally, the hydrogel is biocompatible, non-hemolytic, and anti-inflammatory, demonstrating interfacial selectivity without intrinsic cytotoxicity. TP3 hydrogel exhibits broad-spectrum antimicrobial and antibiofilm activity against drug-resistant pathogens, including Pseudomonas aeruginosa and Candida albicans, via an interfacial driven \"trap-and-kill\" membranolytic mechanism. Proteomic analysis of the TP3 monomers revealed multimodal actions that disrupt bacterial metabolism, energy production, DNA repair, translation, and virulence pathways, driving catastrophic cellular collapse. The TP3 hydrogel reduced post-operative peritoneal adhesions in vivo. Overall, TP3 hydrogel represents a multifunctional soft nanobiomaterial, highlighting the potential of peptide-driven supramolecular self-assembly and interfacial design for antimicrobial and anti-adhesion applications.",
+      "journal": "Colloids and surfaces. B, Biointerfaces",
+      "issn": "1873-4367",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Selvaraj SP",
+        "Yeh JC",
+        "Chang JC",
+        "Shanmugam R",
+        "Raja K",
+        "Chen QH",
+        "Chang CF",
+        "Lin WC",
+        "Huang JR",
+        "Li TL",
+        "Chen JY"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Oct",
+      "year": "2026",
+      "doi": "10.1016/j.colsurfb.2026.115806",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42134155/",
+      "topics": [
+        "Prevention",
+        "Biomaterials",
+        "Mechanism",
+        "Surgery"
       ]
     },
     {
@@ -1593,46 +1633,6 @@
       "topics": [
         "Prevention",
         "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "42134155",
-      "title": "Supramolecular self-assembly mechanisms, interfacial behavior, multimodal antimicrobial and anti-adhesion activities of the novel Tilapia piscidin-3 (TP3) peptide hydrogel.",
-      "abstract": "Supramolecular self-assembly of antimicrobial peptides (AMPs) from simple monomers to complex colloidal networks holds great potential for functional biomaterials. Self-assembled AMP (SA-AMP) hydrogels can serve dual purposes by providing a physical scaffold and simultaneously eliminating drug-resistant pathogens. Despite the extensive medicinal potential of AMPs, only a few are known to self-assemble into hydrogels. Here, we first report a natural AMP, Tilapia piscidin-3 (TP3), that spontaneously self-assembles into a physically cross-linked hydrogel under physiological conditions without the need for chemical cross-linkers. Cryo-SEM, TEM, and high-resolution microscopy revealed that TP3 nanofibers exhibit twisted β-sheet architectures, forming hierarchical nanostructures with honeycomb-like microstructures. The self-assembly mechanisms were further elucidated by molecular dynamics simulations based on the NMR solution structure, revealing a hierarchical secondary-structure transition mediated by non-covalent interactions in the order: helix → coil/turn → β-bridge → β-sheet. Rheological studies demonstrated that TP3 hydrogel exhibits evident viscoelasticity, shear-thinning, and self-healing properties. Functionally, the hydrogel is biocompatible, non-hemolytic, and anti-inflammatory, demonstrating interfacial selectivity without intrinsic cytotoxicity. TP3 hydrogel exhibits broad-spectrum antimicrobial and antibiofilm activity against drug-resistant pathogens, including Pseudomonas aeruginosa and Candida albicans, via an interfacial driven \"trap-and-kill\" membranolytic mechanism. Proteomic analysis of the TP3 monomers revealed multimodal actions that disrupt bacterial metabolism, energy production, DNA repair, translation, and virulence pathways, driving catastrophic cellular collapse. The TP3 hydrogel reduced post-operative peritoneal adhesions in vivo. Overall, TP3 hydrogel represents a multifunctional soft nanobiomaterial, highlighting the potential of peptide-driven supramolecular self-assembly and interfacial design for antimicrobial and anti-adhesion applications.",
-      "journal": "Colloids and surfaces. B, Biointerfaces",
-      "issn": "1873-4367",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Selvaraj SP",
-        "Yeh JC",
-        "Chang JC",
-        "Shanmugam R",
-        "Raja K",
-        "Chen QH",
-        "Chang CF",
-        "Lin WC",
-        "Huang JR",
-        "Li TL",
-        "Chen JY"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publicationDate": "2026 May 12",
-      "year": "2026",
-      "doi": "10.1016/j.colsurfb.2026.115806",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42134155/",
-      "topics": [
-        "Prevention",
-        "Biomaterials",
-        "Mechanism",
-        "Surgery"
       ]
     },
     {
