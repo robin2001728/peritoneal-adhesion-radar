@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T01:32:41+00:00",
+  "updatedAt": "2026-08-07T22:50:22+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -575,6 +575,38 @@
       "year": "2026",
       "doi": "10.1097/MD.0000000000049601",
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42410857/",
+      "topics": [
+        "Surgery",
+        "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "42563658",
+      "title": "Skin scar characteristics in prediction of severe intraperitoneal adhesions in women undergoing repeat caesarean section.",
+      "abstract": "Caesarean section (CS) is the most performed abdominal procedure and is known to be associated with the development of intraperitoneal adhesions. These adhesions may lead to difficult repeat surgery and complications such as haemorrhage, and bladder and bowel injury. Determining which women are at risk for adhesions could help with triaging those who may be at risk for a complicated repeat surgery. Scar characteristics have been proposed as preoperative prediction tools for adhesions. To assess whether abdominal scar characteristics correctly predict intraperitoneal adhesions in women undergoing repeat CS. In this prospective blinded observational study at Nelson Mandela Academic Hospital, in Eastern Cape Province of South Africa, 419 women were enrolled. We assessed whether we could use skin scar characteristics to predict the presence of intraperitoneal adhesions at repeat CS. Women who met the inclusion criteria were approached in the third trimester, and the previous CS scar was examined. The characteristic features of the scar were described and documented, while the findings were blinded to the surgeon who was carrying out the CS. The surgeon was instructed to describe the types of intraperitoneal adhesions and their characteristics in theatre, documenting them on the questionnaire. Adhesions were present in 53.5% of the 419 women enrolled. Women with dense adhesions were older, and had more previous CSs, longer incision-to-delivery time and more blood loss. The type of incision did not predict adhesions. Depressed scars were more likely to be associated with dense adhesions (p<0.0001). Using a depressed scar as a predictor had a sensitivity of 21.4% (95% confidence interval (CI) 17.5 - 25.36), and a specificity of 96.4% (CI 94.63 - 98.19), meaning it missed most participants with adhesions but had an excellent ability to identify those without adhesions. It had a positive predictive value of 87.3% (CI 84.08 - 90.46) and negative predictive value of 50.2% (CI 46.68 - 58.24). Although abdominal scar characteristics have low sensitivity in predicting dense intraperitoneal adhesions, they have excellent specificity. The abdominal scar can therefore be used by surgeons to identify patients who are unlikely to have dense intraperitoneal adhesions. This would be particularly useful in district hospitals for triaging patients with previous CS who can be operated on safely, while referring others to level 2 or 3 hospitals.",
+      "journal": "South African medical journal = Suid-Afrikaanse tydskrif vir geneeskunde",
+      "issn": "2078-5135",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Mayibenye M",
+        "Buga GAB",
+        "Mdaka M",
+        "Nanjoh N"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Observational Study"
+      ],
+      "publicationDate": "2026 Jul 02",
+      "year": "2026",
+      "doi": "10.7196/SAMJ.2026.v116i6.3175",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42563658/",
       "topics": [
         "Surgery",
         "Clinical Study"
@@ -4170,38 +4202,6 @@
       "year": "2025",
       "doi": "10.14744/tjtes.2025.60273",
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41424427/",
-      "topics": [
-        "Surgery",
-        "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "41403764",
-      "title": "Case Report: Laparoscopic appendectomy in a patient with congenital visceral heterotaxy and severe adhesions.",
-      "abstract": "Congenital visceral heterotaxy (CVH) is a rare congenital anomaly characterized by the abnormal arrangement (malposition) of thoracic and abdominal organs. This condition can significantly complicate surgical planning and intraoperative management, particularly when a history of prior abdominal surgery is present and laparoscopic intervention is required. The limited literature on managing such cases underscores the necessity for meticulous preoperative planning and intraoperative adaptability. A 42-year-old Chinese woman with congenital visceral heterotaxy and a history of cesarean section 11 years prior was admitted with acute suppurative appendicitis. Preoperative imaging, including ultrasound and CT, confirmed the diagnosis and revealed severe intra-abdominal adhesions. The patient underwent a laparoscopic appendectomy under general anesthesia. During the procedure, adhesions-likely stemming from the prior cesarean section-significantly impeded visualization and access to the appendix. Despite these challenges, the appendectomy was completed successfully without complications. The patient's postoperative recovery was uneventful, and she was discharged on the third postoperative day. This report highlights the successful management of a complex case involving a patient with both congenital visceral heterotaxy and severe intra-abdominal adhesions. It demonstrates that laparoscopic surgery is a feasible and safe option in such challenging scenarios, emphasizing the critical importance of meticulous preoperative planning, intraoperative adaptability, and a patient-tailored surgical approach. This case contributes to the sparse literature on laparoscopic surgery in patients with CVH and a history of abdominal surgery, offering valuable insights for surgeons facing similar complex presentations.",
-      "journal": "Frontiers in surgery",
-      "issn": "2296-875X",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Liu D",
-        "Zhao X",
-        "Li L",
-        "Liu W"
-      ],
-      "publicationTypes": [
-        "Case Reports",
-        "Journal Article"
-      ],
-      "publicationDate": "2025",
-      "year": "2025",
-      "doi": "10.3389/fsurg.2025.1702385",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41403764/",
       "topics": [
         "Surgery",
         "Clinical Study"
