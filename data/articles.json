@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T22:50:22+00:00",
+  "updatedAt": "2026-08-08T22:41:08+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -396,6 +396,60 @@
       "doi": "10.1007/s11701-026-03740-8",
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42525185/",
       "topics": [
+        "Surgery",
+        "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "42568619",
+      "title": "Prevalence, patterns, and associated factors of intraperitoneal adhesions among women undergoing gynaecological laparoscopy at a private endoscopic centre in Southeastern Nigeria.",
+      "abstract": "Intraperitoneal adhesions are a major cause of chronic pelvic pain, infertility, tubal ectopic pregnancy, intestinal obstruction and increased surgical time globally. To determine the prevalence, pattern and factors associated with intraperitoneal adhesions among women undergoing laparoscopy in a private hospital in Southeastern Nigeria. We conducted a retrospective analytical cross-sectional study involving women who underwent laparoscopy at a private endoscopic centre. Sociodemographic and clinical characteristics, indications, surgical history, indications for laparoscopy, and intraoperative findings were extracted from the medical records. Peritoneal adhesion index (PAI) scores were calculated for each patient; descriptive and bivariate analyses were conducted. A total of 384 women were included. The mean age was 34.89 ± 6.69 years, and the median parity was 0 (IQR: 0-1). Most of the women had endoscopy on account of infertility (n = 307, 79.95%). The prevalence of intraperitoneal adhesions in the cohort was 49.22% (95% CI: 44.23% to 54.23%; n = 189/384), while the prevalence among women with previous surgery was 72.90% (n = 78/107). Among women who had adhesions (n = 189), the median PAI score was 6 (3-12) out of a total score of 30. The prevalence of adhesions was higher among women with primary infertility compared to women with secondary infertility (p = 0.013). Previous abdominal surgery, type of surgery, and surgical indication were also significantly associated with adhesion formation (p < 0.05). Nearly half of the women undergoing laparoscopy had intraperitoneal adhesions. Targeted preventive strategies, including minimally invasive surgical approaches and improved reproductive health services, are essential to reduce adhesion-related morbidity. Factors predictive of intraperitoneal adhesions will assist with patient counselling, choice of therapy and optimal operative planning.",
+      "journal": "Frontiers in reproductive health",
+      "issn": "2673-3153",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Ogelle OM",
+        "Okafor LU",
+        "Olorunfemi G",
+        "Andeh MC",
+        "Nkesi JC",
+        "Enechukwu CI",
+        "Okonkwo IOJ",
+        "Ezeigwe CO",
+        "Akabuike JC",
+        "Mathias AA",
+        "Ogelle WN",
+        "Adeyinka AT",
+        "Alabi OO",
+        "Mthombeni J",
+        "Okeke CM",
+        "Ogelle EC",
+        "Ejikeme TB",
+        "Ikpeze CG",
+        "Okoro C",
+        "Egwuatu EC",
+        "Ani VC",
+        "Eleje GU",
+        "Mbachu II",
+        "Ugboaja JO",
+        "Igwegbe AO",
+        "Ngene NC"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026",
+      "year": "2026",
+      "doi": "10.3389/frph.2026.1880168",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42568619/",
+      "topics": [
+        "Prevention",
         "Surgery",
         "Clinical Study"
       ]
@@ -4170,40 +4224,6 @@
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41340414/",
       "topics": [
         "Mechanism",
-        "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "41424427",
-      "title": "Recurrent self-inflicted abdominal stab injuries leading to isolated Meckel's diverticulum perforation: A surgical case report and literature-backed review.",
-      "abstract": "Meckel's diverticulum (MD) is a frequently silent congenital anomaly of the gastrointestinal tract. While complications such as bleeding and obstruction are more common, traumatic perforation remains extremely rare, particularly from penetrating injuries. To date, isolated perforation of MD following self-inflicted abdominal stab wounds has been reported only sporadically. We present the case of a 39-year-old male with a long-standing history of schizophrenia and epilepsy who arrived at the emergency department following his fifth self-inflicted abdominal stab injury over the past decade. On physical examination, a segment of small bowel was found protruding from a 4 cm periumbilical wound. Emergency exploratory laparotomy revealed extensive intra-abdominal adhesions and an isolated perforation of a Meckel's diverticulum located 60 cm proximal to the ileocecal valve. No other visceral injuries or hemorrhage were detected. The diverticulum was resected using a linear stapler, and serosal defects were repaired. The postoperative course was uneventful, and the patient was discharged on postoperative day five. Isolated MD perforation caused by penetrating abdominal trauma is exceedingly rare and diagnostically challenging. When occurring in psychiatric patients with repetitive self-harm behavior, it presents an even more complex scenario. This case underscores the importance of meticulous intra-abdominal exploration in stab wound patients and contributes novel insight to the limited literature on traumatic MD injuries.",
-      "journal": "Ulusal travma ve acil cerrahi dergisi = Turkish journal of trauma & emergency surgery : TJTES",
-      "issn": "1307-7945",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Türker B",
-        "Kurtkulağı Ö",
-        "Karacaer MA",
-        "Gökten G",
-        "Kaya M"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Case Reports",
-        "Review"
-      ],
-      "publicationDate": "2025 Dec",
-      "year": "2025",
-      "doi": "10.14744/tjtes.2025.60273",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41424427/",
-      "topics": [
-        "Surgery",
         "Clinical Study"
       ]
     }
