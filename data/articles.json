@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T22:54:44+00:00",
+  "updatedAt": "2026-08-13T22:56:31+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -206,6 +206,40 @@
         "Biomaterials",
         "Mechanism",
         "Surgery",
+        "Animal Study",
+        "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "42592990",
+      "title": "Serum interleukin-6 is not associated with postoperative intra-abdominal adhesion severity in a rat model.",
+      "abstract": "To assess whether serum interleukin-6 (IL-6) measured on postoperative day 14 reflects adhesion severity and to compare intraperitoneal alteplase, N-acetylcysteine (NAC), and combined treatment. In this exploratory randomised study, 40 male Wistar rats were allocated to untreated adhesion, alteplase, NAC, alteplase plus NAC, or sham groups (n = 8 per group). Serum IL-6 and macroscopic adhesion grade were assessed on day 14. Group differences were analysed using the Kruskal-Wallis tests followed by Benjamini-Hochberg-adjusted Dunn comparisons; associations were assessed using Spearman correlation. Serum IL-6 differed among groups (H = 18.08; p = 0.001). Median serum IL-6 concentrations were 14.52 pg/mL (IQR 9.91-19.13) in untreated animals, 30.70 pg/mL (IQR 27.31-34.09) after alteplase (p = 0.003), 24.95 pg/mL (IQR 17.48-32.42) after NAC (p = 0.037), 30.76 pg/mL (IQR 24.16-37.36) after combined treatment (p = 0.007), and 18.36 pg/mL (IQR 11.49-25.23) in sham animals (p = 0.320). Adhesion grades differed (H = 20.80; p < 0.001) and were lower after alteplase and combined treatment (both p = 0.041); the NAC comparison was not significant (p = 0.054). Serum IL-6 was not correlated with adhesion grade (ρ = -0.131; 95% CI -0.425 to 0.189; p = 0.422). A single serum IL-6 measurement on day 14 did not reflect adhesion severity. Serial serum measurements and concurrent peritoneal or tissue biomarkers may be more informative.",
+      "journal": "Medicinski glasnik : official publication of the Medical Association of Zenica-Doboj Canton, Bosnia and Herzegovina",
+      "issn": "1840-2445",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Gavrankapetanovic A",
+        "Valjevac A",
+        "Dervisevic A",
+        "Alic L",
+        "Ibrahimovic S",
+        "Kukuljac A",
+        "Letić E"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Aug 07",
+      "year": "2026",
+      "doi": "10.17392/medglas-2185-23-2",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42592990/",
+      "topics": [
         "Animal Study",
         "Clinical Study"
       ]
@@ -4181,50 +4215,6 @@
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41523557/",
       "topics": [
         "Surgery",
-        "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "41340414",
-      "title": "Detailed Autopsies Performed on Two Females With Myhre Syndrome Elucidate Features of SMAD4 Gain-of-Function Pathophysiology.",
-      "abstract": "Pathologic studies of Myhre syndrome (OMIM 139201) have provided modest insights into this ultra-rare multisystem disorder, with postmortem examinations being scarce. Morbidity is related to severe congenital heart defects, aortic hypoplasia, airway stenosis, constrictive pericarditis, and restrictive cardiomyopathy. We report two detailed autopsies: the first of an 8-year-old female who succumbed to congenital mitral valve disease and restrictive cardiopulmonary complications. Autopsy documented chronic pericarditis and fibrosing pleuritis, diffuse interstitial pulmonary fibrosis, extensive submucosal interstitial fibrosis of the bladder, and nodular medial hypertrophy of the aorta. The second patient was a 20-year-old female with progressive laryngo-tracheal stenosis, interstitial lung disease, pericardial and peritoneal adhesions, and dermal fibrosis. Both patients had ovarian fibrosis with reduced oocytes. Neuropathologic examination revealed brains below expected weight with hypoxic-ischemic injury. The first patient also had scattered intraparenchymal microcalcifications and a known Chiari I malformation, and the second had a thickened calvarium and dura mater and rounded cerebrum (shortened frontal and occipital lobes). These two patients demonstrate the value of postmortem examination to confirm suspected pathology and elucidate new features. The pleiotropy of Myhre syndrome was demonstrated by complex comorbidities and the devastating impact of indiscriminate fibrosis. Counseling regarding the role of postmortem examination should be considered in the palliative care of Myhre syndrome patients and their families.",
-      "journal": "American journal of medical genetics. Part C, Seminars in medical genetics",
-      "issn": "1552-4876",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Dannheim K",
-        "Eilers G",
-        "Page NC",
-        "Garg S",
-        "Anderson K",
-        "Colglazier E",
-        "Parker C",
-        "Teitel DF",
-        "Sanchez HC",
-        "Sidebottom R",
-        "Abbott B",
-        "Knoll JL",
-        "Brand MR",
-        "Mou H",
-        "Lindsay ME",
-        "Lin AE"
-      ],
-      "publicationTypes": [
-        "Case Reports",
-        "Journal Article"
-      ],
-      "publicationDate": "2025 Dec 03",
-      "year": "2025",
-      "doi": "10.1002/ajmg.c.32158",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41340414/",
-      "topics": [
-        "Mechanism",
         "Clinical Study"
       ]
     }
