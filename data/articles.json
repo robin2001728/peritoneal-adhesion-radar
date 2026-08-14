@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T22:56:31+00:00",
+  "updatedAt": "2026-08-14T22:34:37+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -169,6 +169,39 @@
         "Mechanism",
         "Surgery",
         "Animal Study",
+        "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "42600047",
+      "title": "Endometriosis-related peritoneal adhesion formation: molecular mechanisms and clinical significance.",
+      "abstract": "Peritoneal adhesions are a major and often under-recognized cause of morbidity following abdominopelvic inflammation and surgery, contributing to chronic pelvic pain, infertility, bowel obstruction, and surgical complications. Endometriosis, affecting 10-11% of reproductive-age women, is strongly associated with adhesions; however, whether adhesion formation in endometriosis reflects general peritoneal injury or disease-specific mechanisms remains unclear. This narrative review examines (i) physiological peritoneal healing and mechanisms of adhesion formation, (ii) how the altered peritoneal microenvironment in endometriosis may modify adhesiogenesis, and (iii) current and theoretical therapeutic and preventative strategies for adhesions in endometriosis. This will improve current understanding of adhesiogenesis and the implications of adhesions in women with endometriosis, and will identify areas for future research to reduce morbidity in this patient population. Literature searches were performed in PubMed, Embase and Cochrane Library using combinations of the terms 'endometriosis', 'adhesions', 'pelvic', 'abdominal', 'peritoneal' between January 2000 and February 2026. Randomized-controlled trials, observational studies, systematic reviews, and relevant experimental studies were included. Case reports and non-English publications were excluded. A total of 124 studies were included in this literature review. Adhesion formation results from dysregulated peritoneal repair involving inflammation, coagulation-fibrinolysis imbalance, and fibroproliferative remodelling. Evidence suggests that endometriosis creates a peritoneal environment characterized by chronic inflammation, altered immune responses, repeated tissue injury, and exposure to menstrual debris and iron, which may promote adhesiogenesis. However, much mechanistic understanding is derived from experimental models, and direct evidence from patients remains limited. Prevention of adhesiogenesis in endometriosis currently focuses on intra-operative interventions to limit adhesion development following endometriosis-related surgery, rather than preventing disease-related adhesiogenesis in the absence of surgery. We discuss potential pharmacotherapies, including hormonal treatments, identified by experimental studies, which may perturb endometriosis-related adhesiogenesis. Current data support a model in which adhesion biology in endometriosis largely reflects conserved wound-healing pathways but develop within a chronically altered peritoneal microenvironment that lowers the threshold for adhesiogenesis and promotes persistence and recurrence. Clarifying endometriosis-specific drivers and generating robust human data are essential to develop targeted adhesion-prevention strategies and improve long-term outcomes for affected patients. Notably, there are currently no effective pharmacological therapies to prevent or treat adhesions, representing a major unmet clinical need in endometriosis care. N/A.",
+      "journal": "Human reproduction update",
+      "issn": "1460-2369",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Macpherson B",
+        "Zindel J",
+        "Mueller M",
+        "Greaves E"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Aug 14",
+      "year": "2026",
+      "doi": "10.1093/humupd/dmag021",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42600047/",
+      "topics": [
+        "Prevention",
+        "Mechanism",
+        "Surgery",
         "Clinical Study"
       ]
     },
@@ -4184,37 +4217,6 @@
       "topics": [
         "Mechanism",
         "Animal Study",
-        "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "41523557",
-      "title": "Abdominal Striae, Cesarean Scar, and Ultrasound Sliding Sign as Predictors of Uterine Adhesions in Women Undergoing Repeat Cesarean Section.",
-      "abstract": "Background The escalating global cesarean section (CS) rate has led to a growing population undergoing repeat procedures, where postoperative adhesions are a major cause of surgical complications. Preoperative prediction of adhesions remains a significant challenge in obstetrics. This study aimed to evaluate the efficacy of non-invasive predictors - abdominal striae, previous CS scar characteristics, and the transabdominal ultrasound sliding sign - in forecasting intraoperative adhesions in women with a previous CS. Methods A prospective observational study was conducted among 155 pregnant women with at least one prior CS admitted for repeat cesarean delivery. Preoperatively, abdominal striae were graded using the Davey scoring system, and the previous CS scar was assessed using the Vancouver Scar Scale (VSS). A radiologist performed an ultrasound to determine the sliding sign. Intraoperative adhesion grading was performed using the Modified Tulandi and Lyell classification. Statistical analysis was done using Statistical Package for the Social Sciences (SPSS) version 23 (IBM Corp., Armonk, NY), with a p-value < 0.05 considered significant. Results Among the 155 participants, 68 (43.8%) had intra-abdominal adhesions, while 87 (56.2%) had none. The incidence of adhesions increased significantly with the number of previous CSs - 20 (26.7%) after one, 35 (51.5%) after two, and 13 (83.3%) after three or more CS (p = 0.007). A negative sliding sign was strongly associated with adhesions (60; 60.6%) compared to a positive sign (8; 14.3%, p < 0.001). Similarly, severe striae were linked to a higher adhesion rate (56; 62.9%, p < 0.001), and VSS >4 indicated significantly more adhesions (54; 58.1%, p < 0.001). Conclusion The study concludes that the preoperative assessment of abdominal striae, previous cesarean scar quality, and the ultrasound sliding sign provides a simple, non-invasive, and effective triad for predicting uterine adhesions. Integrating these markers into clinical practice can enhance preoperative risk stratification, optimize surgical planning, and improve patient safety during repeat CSs.",
-      "journal": "Cureus",
-      "issn": "2168-8184",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Kumari R",
-        "V A",
-        "T S M",
-        "T P"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publicationDate": "2025 Dec",
-      "year": "2025",
-      "doi": "10.7759/cureus.98849",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41523557/",
-      "topics": [
-        "Surgery",
         "Clinical Study"
       ]
     }
