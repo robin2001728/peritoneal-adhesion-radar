@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T22:34:37+00:00",
+  "updatedAt": "2026-08-15T22:33:23+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -35,6 +35,41 @@
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42472477/",
       "topics": [
         "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "42176910",
+      "title": "Near-term extrauterine pregnancy secondary to uterine rupture in a mare.",
+      "abstract": "Uterine rupture is an uncommon but life-threatening complication of equine reproduction, typically associated with dystocia, uterine torsion, fetal manipulation, or hydrops. Tears may occur in either the uterine horns or body, although involvement of the ventral uterine body is rare. This case report describes an 11-year-old Arabian mare at 350 days of gestation that developed abdominal pregnancy secondary to uterine torsion and full-thickness ventral uterine rupture, resulting in fetal death and the free presence of the fetus within the peritoneal cavity. Surgical removal of the fetus and primary repair of the uterine tear via ventral midline laparotomy were successfully performed, with concurrent management of abdominal adhesions. This case highlights the importance of prompt diagnosis and timely surgical intervention to prevent secondary colic and preserve future reproductive potential in mares affected by pre-partum uterine rupture.",
+      "journal": "Journal of equine veterinary science",
+      "issn": "0737-0806",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Palmieri V",
+        "Catone G",
+        "Conte A",
+        "Di Palma T",
+        "Liguori P",
+        "Izzo I",
+        "Vullo C"
+      ],
+      "publicationTypes": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Oct",
+      "year": "2026",
+      "doi": "10.1016/j.jevs.2026.105943",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42176910/",
+      "topics": [
+        "Prevention",
+        "Surgery"
       ]
     },
     {
@@ -308,6 +343,47 @@
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42545521/",
       "topics": [
         "Prevention",
+        "Surgery",
+        "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "42602467",
+      "title": "Hydrogel co-delivery of 5-fluorouracil and siRNA attenuates TGF-β1-mediated MMT to prevent postoperative peritoneal metastasis and adhesion in colorectal cancer.",
+      "abstract": "Cytoreductive surgery is the treatment protocol for colorectal cancer. Nonetheless, a major medical challenge remains to fully eliminate malignant tumor cells, along with a number of complications such as peritoneal adhesion and tumor peritoneal metastasis. The occurrence of peritoneal adhesions compromises not only the ability to do subsequent surgery, but also the efficacy of adjunct chemotherapy. More and more evidence suggest that the process of mesothelial-mesenchymal transition (MMT) influenced by transforming growth factor-β1 (TGF-β1) has a role to play in these disturbances, therefore making TGF-β1 a viable target for therapy. This study has designed a hydrogel-based physical barrier drug delivery system loaded with RNA interference technology, designated as FC@MT. The 5-fluorouracil (5-FU), which is known for its antitumor effects, was firmly linked to the FCGCM hydrogel matrix through the formation of hydrogen bonds. Meanwhile, APTES-modified mesoporous silica nanoparticle (AMSN)/TGF-β1 siRNA complexes were incorporated to facilitate the cellular uptake of siRNA and enable their escape from lysosomes. The localized co-delivery of 5-FU and TGF-β1 siRNA induces residual tumor cells killing by silencing TGF-β1 expression and reverses MMT. The combination of FC@MTs was shown to have a synergistic anti-peritoneal metastasis and anti-adhesion effects, which could be an effective strategy to enhance the clinical therapeutics of CRC.",
+      "journal": "Asian journal of pharmaceutical sciences",
+      "issn": "2221-285X",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Wen J",
+        "He J",
+        "Zheng Y",
+        "Wang T",
+        "Liu K",
+        "Zhou H",
+        "Zhang Y",
+        "Huang Y",
+        "Zhang C",
+        "Zhang Y",
+        "Wang K"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Aug",
+      "year": "2026",
+      "doi": "10.1016/j.ajps.2026.101166",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42602467/",
+      "topics": [
+        "Prevention",
+        "Biomaterials",
+        "Mechanism",
         "Surgery",
         "Clinical Study"
       ]
@@ -1547,41 +1623,6 @@
         "Prevention",
         "Mechanism",
         "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "42176910",
-      "title": "Near-term extrauterine pregnancy secondary to uterine rupture in a mare.",
-      "abstract": "Uterine rupture is an uncommon but life-threatening complication of equine reproduction, typically associated with dystocia, uterine torsion, fetal manipulation, or hydrops. Tears may occur in either the uterine horns or body, although involvement of the ventral uterine body is rare. This case report describes an 11-year-old Arabian mare at 350 days of gestation that developed abdominal pregnancy secondary to uterine torsion and full-thickness ventral uterine rupture, resulting in fetal death and the free presence of the fetus within the peritoneal cavity. Surgical removal of the fetus and primary repair of the uterine tear via ventral midline laparotomy were successfully performed, with concurrent management of abdominal adhesions. This case highlights the importance of prompt diagnosis and timely surgical intervention to prevent secondary colic and preserve future reproductive potential in mares affected by pre-partum uterine rupture.",
-      "journal": "Journal of equine veterinary science",
-      "issn": "0737-0806",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Palmieri V",
-        "Catone G",
-        "Conte A",
-        "Di Palma T",
-        "Liguori P",
-        "Izzo I",
-        "Vullo C"
-      ],
-      "publicationTypes": [
-        "Case Reports",
-        "Journal Article"
-      ],
-      "publicationDate": "2026 May 22",
-      "year": "2026",
-      "doi": "10.1016/j.jevs.2026.105943",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42176910/",
-      "topics": [
-        "Prevention",
-        "Surgery"
       ]
     },
     {
@@ -4172,50 +4213,6 @@
       "topics": [
         "Prevention",
         "Surgery",
-        "Animal Study",
-        "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "41440550",
-      "title": "Effect of N-Acetyl-L-Cysteine (NAC) on Inflammation After Intraperitoneal Mesh Placement in an Escherichia coli Septic Rat Model: A Randomized Experimental Study.",
-      "abstract": "Background/Objectives: The safety of intraperitoneal mesh placement in contaminated fields remains controversial because of the increased risk of inflammation and adhesion formation. N-acetyl-L-cysteine (NAC) has antioxidant, pro-fibrinolytic and antibiofilm actions that could attenuate this response. The aim of this study is to determine whether NAC reduces mesh-related inflammation in a septic model created by intraperitoneal Escherichia coli (E.coli) inoculation. The primary comparison was prospectively defined between E. coli-inoculated animals treated with NAC (D) and those without NAC (B). Groups without E. coli (A,C,E) are presented for context and were compared previously. Methods: In this randomized, double-blind experimental model (five groups, n = 20 per group), all rats underwent midline laparotomy with intraperitoneal placement of a composite mesh, followed by standardized ciprofloxacin administration. The septic groups received intraperitoneal E. coli, while the NAC-treated groups additionally received intraperitoneal NAC (150 mg/kg). Serum levels of IL-1α, IL-6, and TNF-α were measured on postoperative days 7, 14, and 21. On day 21, adhesions were graded using the Modified Diamond system, histology (inflammatory infiltration, fibrosis, neovascularization) was scored, and mesh cultures were obtained. Cytokine data were analyzed with repeated-measures ANOVA, while categorical or ordinal outcomes were assessed using χ2 or Fisher's exact tests with Bonferroni-adjusted pairwise comparisons. Results: E. coli inoculation significantly increased adhesion burden and worsened histologic scores compared with controls (both p < 0.001). NAC administration in the septic model significantly reduced adhesions and improved all histologic domains relative to E. coli alone (all p ≤ 0.003), with values comparable to controls (non-significant across domains). For cytokines, there was a significant overall group effect for IL-1α, IL-6, and TNF-α (all p < 0.001), without a main effect of time or time × group interaction. Pairwise contrasts showed lower IL-1α (p = 0.024), IL-6 (p < 0.001), and TNF-α (p < 0.001) levels in group D versus B, and lower IL-6 and TNF-α in group D versus A (both p < 0.001). Mesh culture positivity rate was higher in group B than A (p < 0.001) and showed a non-significant reduction in group D versus B (p = 0.10). No perioperative deaths occurred. Conclusions: NAC attenuated septic, mesh-associated inflammation-normalizing adhesions and histology and reducing IL-6 and TNF-α- supporting its role as a host-directed adjunct alongside antibiotics. Further translational studies are warranted to define the optimal dose, timing, and clinical indications.",
-      "journal": "Medical sciences (Basel, Switzerland)",
-      "issn": "2076-3271",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Parpoudi S",
-        "Mantzoros I",
-        "Ioannidis O",
-        "Zapsalis K",
-        "Gamali T",
-        "Kyziridis D",
-        "Gekas C",
-        "Anestiadou E",
-        "Symeonidis S",
-        "Bitsianis S",
-        "Kotidis E",
-        "Pramateftakis MG",
-        "Miliaras D",
-        "Bikouli A",
-        "Iosifidis G",
-        "Angelopoulos S"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publicationDate": "2025 Dec 14",
-      "year": "2025",
-      "doi": "10.3390/medsci13040318",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41440550/",
-      "topics": [
-        "Mechanism",
         "Animal Study",
         "Clinical Study"
       ]
