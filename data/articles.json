@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T22:38:46+00:00",
+  "updatedAt": "2026-08-21T22:35:53+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -204,6 +204,82 @@
         "Mechanism",
         "Surgery",
         "Animal Study",
+        "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "42627547",
+      "title": "Icaritin improves pregnancy outcomes in endometriosis by inhibiting ovarian granulosa cell senescence.",
+      "abstract": "Endometriosis (EMS) is an oestrogen-dependent chronic inflammatory disease that primarily manifests as chronic pelvic pain and infertility. EMS-associated infertility is closely linked to diminished ovarian function and oocyte quality, with the aberrant function of granulosa cells (GCs). Cellular senescence has a nonnegligible effect on female fertility. GCs in EMS patients may undergo senescence, subsequently compromising their nutritional support to oocytes and impairing ovarian function, ultimately contributing to infertility. Icaritin (Ica) possesses various biological activities including anti-tumour, anti-inflammatory, anti-oxidation and anti-aging. Follicular fluid (FF) was collected from normal control females and EMS patients. GCs were extracted from FF for RNA sequencing and bioinformatic analysis. NADH: ubiquinone oxidoreductase core subunit S8 (NDUFS8)-knockdown KGN cells were established using shRNA-mediated lentiviral transduction. Pro-oxidants and oxidation scavengers were employed to modulate reactive oxygen species (ROS) levels. Network pharmacology was employed to analyse potential mechanisms of Ica in treating EMS. Ica was employed to intervene EMS-FF-treated KGN cells and EMS mice. Ica significantly reduced degrees of peritoneal adhesions, decreased quantities and volumes of ectopic lesions and improved reproductive capacity in EMS mice. Moreover, Ica may inhibit ovarian GC senescence and improve ovarian function in EMS mice by regulating NDUFS8/ROS/P53/P21 axis. In vitro experiments demonstrated that Ica may inhibit EMS-FF-induced KGN cell senescence by regulating NDUFS8/ROS/P53/P21 axis. These findings identify Ica as a GC senescence-inhibiting agent with therapeutic potential in EMS-associated infertility.",
+      "journal": "Molecular biology reports",
+      "issn": "1573-4978",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "He Y",
+        "Ding J",
+        "Li Y",
+        "Sun J",
+        "Wei C",
+        "Sun N",
+        "Jiang R",
+        "Zhao Z",
+        "Liang X",
+        "Chen Y",
+        "Cheng W",
+        "Zhang L",
+        "Song D",
+        "Sun S",
+        "Yu C"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Aug 21",
+      "year": "2026",
+      "doi": "10.1007/s11033-026-12629-6",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42627547/",
+      "topics": [
+        "Mechanism",
+        "Animal Study",
+        "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "42626082",
+      "title": "Assessing Surgical Feasibility of Peritoneal Dialysis Following Liver-Lung Transplantation: A Case Report.",
+      "abstract": "Kidney failure is a common complication in recipients of nonkidney solid organ transplants (NKSOT), often stemming from prolonged calcineurin inhibitor (CNI) exposure or perioperative insults. Although haemodialysis (HD) remains the predominant renal replacement therapy (RRT), peritoneal dialysis (PD) offers advantages such as better quality of life, haemodynamic stability and preservation of residual renal function. Concerns about infection risk, technical feasibility and respiratory complications have curtailed its broader use. We present the first reported case of successful PD in a liver and double-lung transplant recipient. The patient, a 30-year-old male with cystic fibrosis, extensive abdominal surgery and immunosuppression, was initially deemed unsuitable for PD due to surgical complexity and potential complications in a transplant recipient. A multidisciplinary team (MDT) review at our liver and kidney transplant specialist centre ultimately supported PD based on clinical suitability and lifestyle preferences. Laparoscopic catheter insertion was achieved despite significant intra-abdominal adhesions, and the patient remained on PD for 18 months without complications. This case underscores that with meticulous surgical planning and MDT input, PD can be a safe and viable option in complex NKSOT recipients. It challenges prevailing biases against PD in this population and suggests that prior transplantation should not preclude its consideration.",
+      "journal": "Case reports in transplantation",
+      "issn": "2090-6943",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Cornwell C",
+        "Golding M",
+        "Vaughan E",
+        "Laurence J",
+        "Lam S"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026",
+      "year": "2026",
+      "doi": "10.1155/crit/5753967",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42626082/",
+      "topics": [
+        "Mechanism",
+        "Surgery",
         "Clinical Study"
       ]
     },
@@ -4141,77 +4217,6 @@
       "topics": [
         "Prevention",
         "Biomaterials",
-        "Surgery",
-        "Animal Study",
-        "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "41427167",
-      "title": "Fibrinolytic and Anti-Abdominal Adhesion Effects of Tannin Derivatives from Rumex nepalensis Spreng.: Activity-Guided Isolation and Evaluation in a Postoperative Rat Model.",
-      "abstract": "Abdominal adhesions following surgical procedures are a significant cause of postoperative complications, including chronic pain, infertility, and intestinal obstruction. Preventing adhesion formation remains a critical focus of preclinical and clinical research. In this study, we evaluated the fibrinolytic and antiadhesive potential of extracts from four plant species: Asphodeline lutea (L.) Rchb., Rheum ribes L., Rubia tinctorum L., and Rumex nepalensis Spreng. Among these, R. nepalensis exhibited the highest fibrinolytic activity in vitro, and bioactivity-guided fractionation led to the isolation of two major compounds, cinnamtannin B1 (RN2) and epicatechin gallate (RN3). In vitro assays demonstrated that RN2 displayed stronger fibrinolytic activity than RN3. The most active extracts, fractions and compound were further evaluated in a rat model of surgically induced intra-abdominal adhesions. A subfraction containing both compounds significantly reduced adhesion formation. These findings indicate that the bioactive constituents of R. nepalensis, and potentially the other studied species, may contribute to developing novel antiadhesive therapies. Overall, the study highlights the therapeutic potential of plant-derived flavonoids, anthraquinones, and tannins in adhesion prevention and supports further preclinical investigations to optimize dosage, formulation, and delivery methods. These results provide a foundation for translating natural compounds into practical strategies to reduce postoperative adhesion-related complications.",
-      "journal": "ACS omega",
-      "issn": "2470-1343",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Deynez G",
-        "Süntar İ",
-        "Demirel MA",
-        "Akarca Dizakar SÖ",
-        "Kutluay VM",
-        "Salihoğlu E",
-        "Kuruüzüm Uz A",
-        "Tugay O"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publicationDate": "2025 Dec 16",
-      "year": "2025",
-      "doi": "10.1021/acsomega.5c08121",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41427167/",
-      "topics": [
-        "Prevention",
-        "Surgery",
-        "Animal Study",
-        "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "41411136",
-      "title": "Visceral Mobilization Therapy for Gastrointestinal Dysfunction Following Enterocutaneous Fistula Reconstruction: A Case Report.",
-      "abstract": "Abdominal surgery is the most common cause of gastrointestinal disorders due to the formation of adhesions in the visceral structures. Few studies have been done in rat models, which revealed that visceral mobilization can effectively prevent adhesion; however, no study has been done on human subjects. The current study was done to provide evidence for future research in this aspect of manual therapy. The objective of the case study was to identify the effectiveness of visceral mobilizations in preventing adhesive bowel disorder. A 23-year-old male with a height of 164 cm and a weight of 50 kg was admitted to the hospital due to an Enterocutaneous fistula, and surgical correction of ileal perforation was done. The patient underwent abdominal surgery with mesh placement and visceral mobilization post-surgery to reduce the adhesion-related complications. The subsequent development of adherent bowel loops at the umbilical level, accompanied by subcutaneous stranding, indicates significant post-surgical adhesion formation leading to exaggerated gastrointestinal dysfunction. The patient underwent visceral mobilization treatment of the abdomen, followed by breathing exercises from day 1 to day 6 postoperatively. The patient reported notable improvement in gastrointestinal symptoms and constipation, and mild improvement in the quality of life, post-treatment. Follow-up showed significant improvement in Gastrointestinal Symptom Rating Scale (GSRS), Constipation Assessment Scale (CAS), Visual Analogue Scale (VAS), and Gastrointestinal Quality of Life Index (GIQLI) scores. Visceral mobilization notably improved the gastrointestinal and constipation-related symptoms in early operative days as well as in long-term follow-up, along with improvement of health-related quality of life. abdominal surgery, visceral mobilization, quality of life, case report, enterocutaneous fistula, abdominal adhesions, post-operative rehabilitation, gastrointestinal dysfunction.",
-      "journal": "Alternative therapies in health and medicine",
-      "issn": "1078-6791",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Aziz R",
-        "Jawed F",
-        "Hussain M",
-        "Khan H",
-        "Khan SA"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publicationDate": "2025 Dec 16",
-      "year": "2025",
-      "doi": "",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41411136/",
-      "topics": [
-        "Prevention",
         "Surgery",
         "Animal Study",
         "Clinical Study"
