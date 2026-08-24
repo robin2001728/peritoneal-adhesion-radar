@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T22:33:28+00:00",
+  "updatedAt": "2026-08-24T22:38:14+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -419,6 +419,45 @@
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42545521/",
       "topics": [
         "Prevention",
+        "Surgery",
+        "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "42634535",
+      "title": "Proximal Roux-en-Y Limb Intussusception After Pediatric Living Donor Liver Transplantation for Biliary Atresia: A Rare Surgical Emergency.",
+      "abstract": "Intussusception of the Roux-en-Y limb after pediatric liver transplantation (LT) is an extremely rare but potentially life-threatening complication. Altered anatomy, postoperative adhesions, and disrupted intestinal motility create a unique pathophysiological environment, which may delay diagnosis and increase morbidity. We retrospectively analyzed a patient with acute intestinal obstruction after living donor liver transplantation. Clinical presentation, laboratory findings, imaging results, intraoperative observations, surgical management, and outcomes were reviewed. The potential pathogenesis was explored in relation to factors such as Roux-en-Y reconstruction, graft-to-recipient size ratio, and postoperative adhesive disease. The patient presented with fever and melena. Laboratory evaluation revealed leukocytosis and severe anemia. Computed tomography demonstrated small bowel intussusception with obstruction. Emergency laparotomy identified intussusception of the proximal Roux limb near the biliary-enteric anastomosis. Manual reduction was unsuccessful, necessitating segmental resection without reconstruction of a new Roux limb. Extensive intra-abdominal adhesions were noted. Postoperative recovery was uneventful, and graft function remained stable. Intussusception of the Roux-en-Y limb following pediatric living donor liver transplantation is a complex surgical emergency. This case demonstrates that in the transplant population, symptoms such as fever and melena should trigger immediate cross-sectional imaging to rule out mechanical obstruction. The management strategy must be aggressive yet conservative regarding anatomical disruption. As the population of long-term pediatric transplant survivors grows, recognizing these distinct mechanistic patterns is essential for reducing morbidity and mortality.",
+      "journal": "Pediatric transplantation",
+      "issn": "1399-3046",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Cai P",
+        "Sakamoto S",
+        "Uchida H",
+        "Kiataramkul C",
+        "Oshiro A",
+        "Kojima M",
+        "Komine R",
+        "Yanagi Y",
+        "Fukuda A",
+        "Kasahara M"
+      ],
+      "publicationTypes": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Aug",
+      "year": "2026",
+      "doi": "10.1111/petr.70439",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42634535/",
+      "topics": [
+        "Mechanism",
         "Surgery",
         "Clinical Study"
       ]
@@ -4156,64 +4195,6 @@
       "year": "2025",
       "doi": "10.3390/polym18010033",
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41516818/",
-      "topics": [
-        "Prevention",
-        "Biomaterials",
-        "Surgery",
-        "Animal Study",
-        "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "41451177",
-      "title": "A Developmental Roadmap Toward Abdominal Adhesions Prevention Technologies.",
-      "abstract": "Abdominal adhesions are a globally disruptive problem to patients and healthcare systems, with limited preventative strategies. Multiple discovery prophylactics have been evaluated previously for adhesions prevention with inadequate transfer to patient care. Clinical translation is fundamentally restricted by the ability of a discovery prophylactic to simultaneously navigate 3 key components of adhesions formation throughout the entire abdomen: the innate immune system, the coagulation system, and the local peritoneal cell populations. Furthermore, challenging handling characteristics and product restrictions have decreased the utilization of clinically available prophylactics by surgeons. The success of future adhesions prevention strategies must also be anchored in clinically valid animal modeling with attention towards future regulatory approval. The purpose of the present roadmap article is to provide a state-of-the-art review of adhesions pathophysiology, hydrogel development, animal modeling, and regulatory science, from which a framework for future developmental strategies may be outlined.",
-      "journal": "Annals of surgery open : perspectives of surgical history, education, and clinical approaches",
-      "issn": "2691-3593",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Christensen RR",
-        "Wright KE",
-        "Ives JK",
-        "Minnick CE",
-        "Chen Q",
-        "Girgis MD",
-        "Ko C",
-        "Gibbons MM",
-        "Russell TA",
-        "Huy TC",
-        "Bercz A",
-        "Smith JJ",
-        "Bailey A",
-        "Ten Broek RPG",
-        "de Wilde RL",
-        "Zindel J",
-        "Cardenas JC",
-        "Mutsaers S",
-        "Wiseman D",
-        "Meany EA",
-        "Appel EA",
-        "Foster DS",
-        "Delitto DJ",
-        "Longaker MT",
-        "Rinkevich Y",
-        "Bauer SR",
-        "Carmichael SP"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publicationDate": "2025 Dec",
-      "year": "2025",
-      "doi": "10.1097/AS9.0000000000000637",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41451177/",
       "topics": [
         "Prevention",
         "Biomaterials",
