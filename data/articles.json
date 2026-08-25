@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T22:38:14+00:00",
+  "updatedAt": "2026-08-25T22:38:46+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -352,6 +352,38 @@
         "Surgery",
         "Animal Study",
         "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "42142742",
+      "title": "Rapidly gelling platelet-rich plasma-loaded carboxymethyl hydroxybutyl chitosan hydrogel for colonic repair and adhesion reduction.",
+      "abstract": "Colonic wound repair remains limited by poor material adhesion and postoperative intra-abdominal adhesions. Platelet-rich plasma (PRP) was incorporated into an externally supplied thermosensitive carboxymethyl hydroxybutyl chitosan (CHC) matrix to prepare a composite hydrogel for colonic wound repair. CHC remains fluid at 4 °C, allowing homogeneous mixing with PRP at a 4:1 ratio while preserving growth factor bioactivity. Upon exposure to 37 °C, the mixture rapidly gels within 10 s, achieving a shear adhesive strength of 75 kPa, sufficient to withstand intestinal pressure fluctuations and enable sustained growth factor release. In rat and New Zealand rabbit full-thickness colonic defect models, the composite hydrogel significantly accelerated mucosal repair and reduced postoperative adhesions. Mechanistically, PRP activated the PI3K/Akt pathway, promoting macrophage polarization toward the M2 phenotype and shifting cellular metabolism toward oxidative phosphorylation, thereby establishing a local anti-inflammatory microenvironment. Together, the strong tissue adhesion of CHC and the immunomodulatory function of PRP provide a promising sutureless strategy for repairing high-risk intra-abdominal visceral injuries.",
+      "journal": "Journal of controlled release : official journal of the Controlled Release Society",
+      "issn": "1873-4995",
+      "journalMetrics": {
+        "partition": "JCR Q1 / CAS 1区",
+        "scoreLabel": "Impact Factor",
+        "score": "10.5",
+        "source": "JCR",
+        "year": "2024"
+      },
+      "authors": [
+        "Li J",
+        "Shen J",
+        "Ge W",
+        "Yu X",
+        "Yu H"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Aug 10",
+      "year": "2026",
+      "doi": "10.1016/j.jconrel.2026.115027",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42142742/",
+      "topics": [
+        "Biomaterials",
+        "Animal Study"
       ]
     },
     {
@@ -1839,38 +1871,6 @@
       "topics": [
         "Surgery",
         "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "42142742",
-      "title": "Rapidly gelling platelet-rich plasma-loaded carboxymethyl hydroxybutyl chitosan hydrogel for colonic repair and adhesion reduction.",
-      "abstract": "Colonic wound repair remains limited by poor material adhesion and postoperative intra-abdominal adhesions. Platelet-rich plasma (PRP) was incorporated into an externally supplied thermosensitive carboxymethyl hydroxybutyl chitosan (CHC) matrix to prepare a composite hydrogel for colonic wound repair. CHC remains fluid at 4 °C, allowing homogeneous mixing with PRP at a 4:1 ratio while preserving growth factor bioactivity. Upon exposure to 37 °C, the mixture rapidly gels within 10 s, achieving a shear adhesive strength of 75 kPa, sufficient to withstand intestinal pressure fluctuations and enable sustained growth factor release. In rat and New Zealand rabbit full-thickness colonic defect models, the composite hydrogel significantly accelerated mucosal repair and reduced postoperative adhesions. Mechanistically, PRP activated the PI3K/Akt pathway, promoting macrophage polarization toward the M2 phenotype and shifting cellular metabolism toward oxidative phosphorylation, thereby establishing a local anti-inflammatory microenvironment. Together, the strong tissue adhesion of CHC and the immunomodulatory function of PRP provide a promising sutureless strategy for repairing high-risk intra-abdominal visceral injuries.",
-      "journal": "Journal of controlled release : official journal of the Controlled Release Society",
-      "issn": "1873-4995",
-      "journalMetrics": {
-        "partition": "JCR Q1 / CAS 1区",
-        "scoreLabel": "Impact Factor",
-        "score": "10.5",
-        "source": "JCR",
-        "year": "2024"
-      },
-      "authors": [
-        "Li J",
-        "Shen J",
-        "Ge W",
-        "Yu X",
-        "Yu H"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publicationDate": "2026 May 15",
-      "year": "2026",
-      "doi": "10.1016/j.jconrel.2026.115027",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42142742/",
-      "topics": [
-        "Biomaterials",
-        "Animal Study"
       ]
     },
     {
