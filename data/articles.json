@@ -1,9 +1,47 @@
 {
-  "updatedAt": "2026-08-27T03:05:47+00:00",
+  "updatedAt": "2026-08-28T06:04:31+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
   "articles": [
+    {
+      "pmid": "42430828",
+      "title": "Zwitterionic polymer nanocomposite hydrogels with immunoregulation for effectively preventing postoperative abdominal adhesions.",
+      "abstract": "Zwitterionic hydrogels are attractive physical barriers for preventing postoperative abdominal adhesions because of their outstanding antifouling properties; however, their inherent biological inertness and poor degradability often hinder therapeutic efficacy and clinical translational potential. Herein, we report a bioactive and dissociable zwitterionic nanocomposite hydrogel that integrates zwitterionic polymer chains with clearance potential, hydrolytically dissociable networks, and Prussian blue (PB) nanozymes. A molecular-weight-controlled polycarboxybetaine acrylate precursor (PCBOAA, ∼50 kDa) was prepared by reversible addition-fragmentation chain-transfer (RAFT) polymerization and subsequently crosslinked with dithiothreitol via thiol-acrylate Michael addition reaction to form a zwitterionic hydrogel featuring β-thioether ester linkage, which could gradually dissociate under physiological conditions into low-molecular-weight polymer with reduced risk of prolonged retention. Incorporation of PB nanoparticles further endowed the PCBOAA@PB hydrogel with antioxidative and immunomodulatory activity. In vitro, PCBOAA@PB hydrogel could effectively resist protein adsorption and cell adhesion and suppress pro-inflammatory macrophage polarization. In a rat cecum-abdominal wall adhesion model, it exhibited markedly superior anti-adhesion efficacy compared with a clinically used hyaluronic acid hydrogel. Mechanistically, this excellent anti-adhesion efficacy of PCBOAA@PB hydrogel as a physical barrier stemmed from its dual ability to reprogram the postoperative inflammatory-fibrotic microenvironment and reduce excessive collagen deposition. In summary, this work provides a zwitterionic hydrogel design strategy that integrates antifouling, microenvironment modulation, and clearance potential for effective adhesion prevention.",
+      "journal": "Biomaterials",
+      "issn": "1878-5905",
+      "journalMetrics": {
+        "partition": "JCR Q1 / CAS 1区",
+        "scoreLabel": "Impact Factor",
+        "score": "12.8",
+        "source": "JCR",
+        "year": "2024"
+      },
+      "authors": [
+        "Bao S",
+        "Zhao X",
+        "Chen D",
+        "Wang H",
+        "Tian X",
+        "Li Q",
+        "Qin R",
+        "Yang J",
+        "Liu W"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2027 Jan",
+      "year": "2027",
+      "doi": "10.1016/j.biomaterials.2026.124444",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42430828/",
+      "topics": [
+        "Prevention",
+        "Biomaterials",
+        "Animal Study",
+        "Clinical Study"
+      ]
+    },
     {
       "pmid": "42472477",
       "title": "miR-145-5p in predicting caesarean section postoperative complications in scarred uterus cases: a prospective cohort study.",
@@ -313,6 +351,42 @@
         "Prevention",
         "Mechanism",
         "Surgery",
+        "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "42649904",
+      "title": "Extended-Release Immunotherapy-Eluting Embolics.",
+      "abstract": "Purpose: Systemic immunotherapy is less effective in patients with liver metastases. Immunoembolization could potentially overcome the immunosuppressive tumor microenvironment, but the optimal immunotherapy agent, embolic, and release kinetics are unknown. Methods: A wide range of immunotherapy agents (cytokines, small molecules, and oligonucleotides) were loaded onto various embolics (stabilized lipiodol emulsions, microspheres-in-lipiodol, LC beads, and PLGA microspheres). Drug loading and release kinetics were evaluated in vitro. A pilot study of transarterial immunoembolization was performed in a pig liver tumor model, using extended release lipiodol/CpG-STAT3ASO formulations. CpG-STAT3ASO is a first-in-class dual-function immunotherapy agent that both stimulates the anti-tumor immune response, and counters immunosuppression in immunologically cold tumors. Safety, pharmacokinetics and efficacy were evaluated in pigs. Results: Immunotherapy-loaded embolics released drug with a half-life ranging from days to weeks in vitro, and up to four days in pig liver tumors (depending on the formulation). A stabilized lipiodol emulsion demonstrated 100% burst release (within five minutes after immunoembolization), compared to <1% burst release with microspheres-in-lipiodol. Immunoembolization using lipiodol/CpG-STAT3ASO resulted in decreased size of pig liver tumors, compared to bland embolization. No adverse events were seen, based on clinical, laboratory, and radiographic evaluation, but peritoneal adhesions were observed in association with immunoembolization using microspheres-in-lipiodol. Conclusions: Extended-release immunotherapy-loaded embolics generate sustained intratumoral delivery of immune stimulants. A pilot study of immunoembolization of pig liver tumors showed decreased tumor size, compared to bland embolization, with no autoimmune adverse events.",
+      "journal": "Cancers",
+      "issn": "2072-6694",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Mohammad IS",
+        "Patel AK",
+        "Rosen ST",
+        "Kortylewski M",
+        "Kessler J",
+        "Ressler J",
+        "Lall C",
+        "Guerra C",
+        "Chiang J",
+        "Boas FE"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Aug 12",
+      "year": "2026",
+      "doi": "10.3390/cancers18162591",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42649904/",
+      "topics": [
         "Clinical Study"
       ]
     },
@@ -850,44 +924,6 @@
       "topics": [
         "Prevention",
         "Surgery",
-        "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "42430828",
-      "title": "Zwitterionic polymer nanocomposite hydrogels with immunoregulation for effectively preventing postoperative abdominal adhesions.",
-      "abstract": "Zwitterionic hydrogels are attractive physical barriers for preventing postoperative abdominal adhesions because of their outstanding antifouling properties; however, their inherent biological inertness and poor degradability often hinder therapeutic efficacy and clinical translational potential. Herein, we report a bioactive and dissociable zwitterionic nanocomposite hydrogel that integrates zwitterionic polymer chains with clearance potential, hydrolytically dissociable networks, and Prussian blue (PB) nanozymes. A molecular-weight-controlled polycarboxybetaine acrylate precursor (PCBOAA, ∼50 kDa) was prepared by reversible addition-fragmentation chain-transfer (RAFT) polymerization and subsequently crosslinked with dithiothreitol via thiol-acrylate Michael addition reaction to form a zwitterionic hydrogel featuring β-thioether ester linkage, which could gradually dissociate under physiological conditions into low-molecular-weight polymer with reduced risk of prolonged retention. Incorporation of PB nanoparticles further endowed the PCBOAA@PB hydrogel with antioxidative and immunomodulatory activity. In vitro, PCBOAA@PB hydrogel could effectively resist protein adsorption and cell adhesion and suppress pro-inflammatory macrophage polarization. In a rat cecum-abdominal wall adhesion model, it exhibited markedly superior anti-adhesion efficacy compared with a clinically used hyaluronic acid hydrogel. Mechanistically, this excellent anti-adhesion efficacy of PCBOAA@PB hydrogel as a physical barrier stemmed from its dual ability to reprogram the postoperative inflammatory-fibrotic microenvironment and reduce excessive collagen deposition. In summary, this work provides a zwitterionic hydrogel design strategy that integrates antifouling, microenvironment modulation, and clearance potential for effective adhesion prevention.",
-      "journal": "Biomaterials",
-      "issn": "1878-5905",
-      "journalMetrics": {
-        "partition": "JCR Q1 / CAS 1区",
-        "scoreLabel": "Impact Factor",
-        "score": "12.8",
-        "source": "JCR",
-        "year": "2024"
-      },
-      "authors": [
-        "Bao S",
-        "Zhao X",
-        "Chen D",
-        "Wang H",
-        "Tian X",
-        "Li Q",
-        "Qin R",
-        "Yang J",
-        "Liu W"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publicationDate": "2026 Jul 09",
-      "year": "2026",
-      "doi": "10.1016/j.biomaterials.2026.124444",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42430828/",
-      "topics": [
-        "Prevention",
-        "Biomaterials",
-        "Animal Study",
         "Clinical Study"
       ]
     },
@@ -4164,42 +4200,6 @@
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41625108/",
       "topics": [
         "Surgery",
-        "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "41516818",
-      "title": "Evaluation Starch-Based Hemostatic Agents \"BioSight\" as Adhesion Prevention Barrier Tested in an Adhesion Model in Rats.",
-      "abstract": "Background: Postoperative abdominal adhesions are a common and serious complication following abdominal surgery, often leading to chronic pain, bowel obstruction, or infertility. This study aimed to evaluate the efficacy of the new starch-based absorbable hemostatic agent and dressing, BioSight, in comparison with a predicate device (4DryField® PH) for the prevention of abdominal adhesions in a rat model. Methods: A total of 90 Sprague-Dawley rats were used to establish an intra-abdominal adhesion model and assigned to the BioSight, 4DryField® PH, or control group. Standardized injuries were created on the cecum and parietal peritoneum, followed by application of the designated materials. Animals were sacrificed at 2, 4, and 12 weeks for macroscopic adhesion scoring and histopathological evaluation. Adhesion area, adhesion strength, and tissue thickness were assessed using established scoring systems, and local healing was examined by H&E staining. All quantitative data were analyzed using one-way ANOVA. Conclusions: In a rat peritoneal adhesion model, BioSight exhibited pronounced anti-adhesion efficacy comparable to 4DryField® PH. Macroscopic evaluation showed consistently low adhesion scores (≤0.4) across all time points up to 12 weeks, while histological analysis confirmed reduced adhesion thickness, with BioSight displaying numerically lower values, particularly at early stages (251.3 ± 137.4 µm vs. 323.2 ± 174.6 µm at Week 2). This performance is attributed to rapid in situ hydrogel formation that provides effective temporary tissue separation, limits early fibrin deposition and inflammatory cell infiltration, and supports hemostasis. Importantly, the starch-based hydrogel exhibits a balanced biodegradation profile-persisting long enough to protect injured tissues during the critical inflammatory and fibroproliferative phases, yet undergoing complete enzymatic resorption thereafter without adverse tissue reactions. Collectively, these results highlight the anti-adhesion functionality of BioSight and support the clinical potential of plant-derived starch-based bioresorbable surgical adjuncts.",
-      "journal": "Polymers",
-      "issn": "2073-4360",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Liu YX",
-        "Su CY",
-        "Yen MH",
-        "Chen CH",
-        "Chen CY",
-        "Fang HW"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publicationDate": "2025 Dec 23",
-      "year": "2025",
-      "doi": "10.3390/polym18010033",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41516818/",
-      "topics": [
-        "Prevention",
-        "Biomaterials",
-        "Surgery",
-        "Animal Study",
         "Clinical Study"
       ]
     }
