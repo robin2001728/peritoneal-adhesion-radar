@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T06:04:31+00:00",
+  "updatedAt": "2026-08-29T03:40:28+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -352,6 +352,38 @@
         "Mechanism",
         "Surgery",
         "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "42662433",
+      "title": "Laparoscopic radical gastrectomy for gastric cancer following liver transplantation: a report of a rare and complex case and a multidisciplinary management strategy.",
+      "abstract": "De novo gastric cancer after liver transplantation is clinically rare, and radical resection remains the only potentially curative treatment. However, post-transplant anatomical distortion and extensive intra-abdominal adhesions increase surgical complexity, while long-term immunosuppression elevates the risks of perioperative infection and organ dysfunction. Furthermore, chemotherapy and immune checkpoint inhibitors may precipitate graft rejection. We report a 68-year-old man who underwent liver transplantation 18 years earlier for HBV-related hepatocellular carcinoma (T1aN0M0), meeting the Milan criteria. Preoperatively, serum HBV DNA was 2.3 × 103 IU/mL. He received entecavir and basiliximab induction, followed by early triple immunosuppression and long-term tacrolimus maintenance. During follow-up, HBV DNA remained undetectable, liver function was stable, and no transplant-related complications occurred. Eighteen years after transplantation, he presented with upper abdominal pain. Imaging and endoscopy demonstrated cT4N1M0 gastric adenocarcinoma of the antrum with hepatic parenchymal invasion. Following multidisciplinary discussion, laparoscopic D2 radical gastrectomy with Roux-en-Y reconstruction, partial hepatectomy, and ultra-tension-reducing abdominal wall closure were performed. The postoperative course was uneventful. This case suggests that multidisciplinary, standardized perioperative management can enable safe radical laparoscopic gastrectomy in selected liver transplant recipients.",
+      "journal": "Frontiers in medicine",
+      "issn": "2296-858X",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Miao Y",
+        "Zhao E",
+        "Zheng S",
+        "Yang J",
+        "Yue Z"
+      ],
+      "publicationTypes": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "publicationDate": "2026",
+      "year": "2026",
+      "doi": "10.3389/fmed.2026.1914424",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42662433/",
+      "topics": [
+        "Surgery"
       ]
     },
     {
@@ -4167,37 +4199,6 @@
       "year": "2025",
       "doi": "10.7759/cureus.100347",
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41613659/",
-      "topics": [
-        "Surgery",
-        "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "41625108",
-      "title": "Recurrent distal ventriculoperitoneal shunt migration in an obese patient with high-grade glioma: A case report.",
-      "abstract": "In neurosurgical practice, ventriculoperitoneal (VP) shunting is the predominant intervention for hydrocephalus. While shunt-related complications such as obstruction, infection, and mechanical failure are well recognized, distal catheter migration remains an uncommon but clinically significant problem. Migration may occur internally or externally and is influenced by patient-specific and technical factors. A 63-year-old woman with a newly diagnosed World Health Organization grade IV astrocytoma presented with acute obstructive hydrocephalus requiring emergent VP shunt insertion. Two weeks later, she developed a painless abdominal swelling; imaging revealed distal catheter migration into the anterior abdominal wall. Revision surgery was performed with repositioning of the catheter into the peritoneal cavity. Within 1 month, the patient presented again with abdominal fullness and recurrent catheter migration. A second revision with shunt extension and secure fixation was required, involving dense intra-abdominal adhesions. Obesity, repeated revisions, and increased intra-abdominal pressure were considered major contributing factors. This case highlights recurrent distal migration of a VP shunt in an obese patient with glioblastoma-related hydrocephalus. Although rare, distal catheter migration is an important cause of shunt malfunction. Awareness of predisposing factors such as obesity and adhesions, combined with careful intraoperative technique and secure distal catheter fixation, is crucial to reducing the likelihood of recurrence.",
-      "journal": "Surgical neurology international",
-      "issn": "2229-5097",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Salem AHB",
-        "Muzian FT",
-        "Kutub HY"
-      ],
-      "publicationTypes": [
-        "Case Reports",
-        "Journal Article"
-      ],
-      "publicationDate": "2025",
-      "year": "2025",
-      "doi": "10.25259/SNI_1141_2025",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41625108/",
       "topics": [
         "Surgery",
         "Clinical Study"
