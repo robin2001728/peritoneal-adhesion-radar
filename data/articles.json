@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T00:02:58+00:00",
+  "updatedAt": "2026-09-03T00:07:02+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -242,6 +242,39 @@
         "Mechanism",
         "Surgery",
         "Animal Study",
+        "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "41628805",
+      "title": "Robot-Assisted Transabdominal Cervical Cerclage With the Hugo RAS System: Surgical Technique and Perioperative Outcomes in a High-Risk Obstetric Case.",
+      "abstract": "Cervical insufficiency, the inability of uterine cervix to retain pregnancy in absence of labor, is a major cause of preterm births and stillbirths. Therapeutic options include expectant management, progesterone, pessaries, or surgical cerclage [1]. Minimally invasive approaches provide several advantages over laparotomy, including decreased blood loss, lower post-operative pain, shorter hospital stay and faster recovery while achieving comparable or improved obstetric outcomes [2,3]. Robotassisted transabdominal cerclage (RA-TAC) is gaining popularity due to the enhanced three-dimensional visualization, improved dexterity and precision in performing fine dissection and knot-tying [4]. This video article demonstrates our RA-TAC technique and setup in a complex patient using the Hugo™ RAS system (Medtronic, Minneapolis, MN, USA) [5]. Step-by-step explanation of surgical technique of RA-TAC in a 40-year-old, BMI 36 kg/m2 patient, with unfavorable obstetric history and desire for further pregnancy. Academic Hospital, IRCCS Policlinico di S. Orsola Bologna, Italy. All possible therapeutic strategies and related complications have been discussed with the patient. Considering her strong desire for pregnancy, her surgical and obstetric history- including prior preterm deliveries despite vaginal cerclage (2020-2021)- and her BMI, a preconceptional RA-TAC was planned. A \"straight\" port placement in a \"compact\" docking configuration was installed. Surgery was performed under general anesthesia in 49 minutes. There were no intraoperative or postoperative complications. After 15 months, the patient successfully delivered a healthy 2896g male infant via elective cesarean section at 36+6 weeks, with no need for perinatal care; the cerclage was removed and bilateral salpingectomy was performed. Robotic-assisted surgery represents a feasible option for transabdominal cerclage, particularly in patients with obesity or intra-abdominal adhesions. Surgeon ergonomics, three-dimensional visualization, unrestricted range of motion, improved tremor control are key-advantages in procedures demanding maximal precision. While current literature lacks strong evidence demonstrating superiority of robotic-assisted over laparoscopic cerclage, this video illustrates technique, feasibility and potential benefits of RA-TAC.",
+      "journal": "Journal of minimally invasive gynecology",
+      "issn": "1553-4669",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Ferla S",
+        "De Gobbi V",
+        "Seracchioli R",
+        "Raimondo D"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Case Reports",
+        "Video-Audio Media"
+      ],
+      "publicationDate": "2026 Sep",
+      "year": "2026",
+      "doi": "10.1016/j.jmig.2026.01.050",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41628805/",
+      "topics": [
+        "Surgery",
         "Clinical Study"
       ]
     },
@@ -1474,6 +1507,45 @@
       ]
     },
     {
+      "pmid": "42682292",
+      "title": "The value of ultrasound in the diagnosis and prediction of the severity of abdominal adhesions.",
+      "abstract": "The aim of this study was to construct a preoperative ultrasound prediction model, and compare its diagnostic performance with the existing sliding sign to predict the severity of abdominal adhesions in order to reduce the occurrence of intraoperative complications and shorten the duration of surgery. Between June 2020 and June 2022, 100 patients with a history of abdominal surgery were included in this retrospective study. All participants underwent ultrasound examination of five sites on the anterior abdominal wall before surgery. Eighteen sites were excluded because of surgical stomas, etc. Finally, 482 sites were examined by ultrasound, of which 138 (28.6%) were severe adhesions. Based on the intraoperative findings, the patients were divided into two groups: patients with severe adhesions and patients with non-severe adhesions. Finally, the data of 482 abdominal sites examined were randomly divided into a training cohort (70%) and a validation cohort (30%). The least absolute shrinkage and selection operator (LASSO) regression and multivariate binary logistic regression were used to determine the independent influencing factors, thereby constructing a clinical ultrasound prediction model for severe abdominal adhesions. The sensitivity, specificity, positive and negative predictive value (PPV and NPV) and accuracy of the model were calculated. Prediction models were established, and the area under the receiver operating curve (AUC) between models and compared with sliding sign (MA) using the DeLong test to determine the optimal model. At the same time, intraclass correlation coefficient (ICC) was used to evaluate the inter-observer agreement. The LASSO regression showed that wall syndrome, traction sign, deformation of abdominal organs, two-layer peritoneal bright lines, sliding sign (head-foot direction mobility), and examination site were associated with severe adhesions. Multivariate analysis showed that traction sign, two-layer peritoneal bright lines, head-foot direction mobility and examination site (all P < 0.05) were the independent predictors of severe abdominal adhesion. Based on these predictors, the improved prediction model (referred as MB) was established. It showed that the diagnostic performance of MB was better than MA [AUCMB = 0.943 (95% CI: 0.920-0.967) vs AUCMA = 0.827 (95% CI: 0.920-0.967), P < 0.001] in the training cohort. The results were validated [AUCMB = 0.873 (95% CI: 0.818-0.928) vs AUCMA = 0.803 (95% CI: 0.755-0.851), P = 0.005] in the validation cohort. In the training cohort, the MB improved the specificity (22.5%), PPV (22.6%) and the accuracy (13.6%). In the validation cohort, the MB improved the specificity (19.2%), PPV (10.8%) and the accuracy (6.9%). At the same time, the ICC showed that the ultrasonic parameters had high consistency. In the presence of complex adhesions in the abdominal cavity, the new diagnostic model (MB) significantly improved the diagnostic performance compared with the conventional model (MA). The MB improved the AUC, specificity, PPV, and accuracy. Therefore, this model has the potential to reduce severe intraoperative complications.",
+      "journal": "International journal of surgery (London, England)",
+      "issn": "1743-9159",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Liu C",
+        "Ding SS",
+        "Chai HH",
+        "Ren WW",
+        "Zhao H",
+        "Yuan XQ",
+        "Gao RY",
+        "Zhang GQ",
+        "Li JY",
+        "Sun LP",
+        "Chen CQ",
+        "Xu HX"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Jun",
+      "year": "2026",
+      "doi": "10.1097/JS9.0000000000005066",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42682292/",
+      "topics": [
+        "Surgery",
+        "Clinical Study"
+      ]
+    },
+    {
       "pmid": "42225809",
       "title": "Comparison of seprafilm and pitavastatin treatments in an experimental model of peritoneal adhesion.",
       "abstract": "Peritoneal adhesions are common following abdominal surgery and lead to significant morbidity. Both pharmacological agents and barrier methods have been investigated for prevention, but with limited success. In this study, the efficacy of intraperitoneal pitavastatin was evaluated and compared with Seprafilm. Thirty-two female Wistar albino rats were randomly divided into four groups (n = 8): control, saline, pitavastatin (30 mg/kg intraperitoneal), and Seprafilm (30 × 20 mm). Macroscopic adhesions were graded using the Majuzi classification, and microscopic adhesions were assessed using the Zühlke scoring system. Plasma SCUBE1, malondialdehyde, and tissue-type plasminogen activator levels were analyzed. Macroscopic evaluation showed that adhesions were predominantly grade 2 in the control group (62.5%) and the saline group (75%). In contrast, a partial reduction in adhesion severity was observed in both the pitavastatin and Seprafilm groups; 25% of patients in both groups showed no adhesions (grade 0). Lower-grade adhesions (grades 1-2) were observed more frequently in these treatment groups. Microscopically, all rats in the control and Seprafilm groups were classified as stage 2 according to the Zühlke grading system. While grade 1 adhesions were predominantly observed in the saline group (87.5%), a broader distribution was observed in the pitavastatin group, including grade 1 (25%), grade 2 (50%), and grade 3 (25%) adhesions. Biochemical analysis revealed no significant differences among groups in plasma SCUBE1 (p = 0.294) and malondialdehyde levels (p = 0.051). However, plasma tissue-type plasminogen activator levels were significantly higher in the control group compared with both the pitavastatin (p = 0.012) and Seprafilm groups (p = 0.027). Intraperitoneal pitavastatin has demonstrated efficacy comparable to that of Seprafilm; however, neither treatment provided a statistically significant protective effect against postoperative peritoneal adhesions.",
@@ -1756,9 +1828,11 @@
         "Milone M"
       ],
       "publicationTypes": [
-        "Journal Article"
+        "Journal Article",
+        "Multicenter Study",
+        "Comparative Study"
       ],
-      "publicationDate": "2026 May 29",
+      "publicationDate": "2026 Sep",
       "year": "2026",
       "doi": "10.1007/s13304-026-02583-0",
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42213352/",
@@ -3466,37 +3540,6 @@
       ]
     },
     {
-      "pmid": "41628805",
-      "title": "Robot-Assisted Transabdominal Cervical Cerclage With the Hugo RAS System: Surgical Technique and Perioperative Outcomes in a High-Risk Obstetric Case.",
-      "abstract": "Cervical insufficiency, the inability of uterine cervix to retain pregnancy in absence of labor, is a major cause of preterm births and stillbirths. Therapeutic options include expectant management, progesterone, pessaries, or surgical cerclage [1]. Minimally invasive approaches provide several advantages over laparotomy, including decreased blood loss, lower post-operative pain, shorter hospital stay and faster recovery while achieving comparable or improved obstetric outcomes [2,3]. Robotassisted transabdominal cerclage (RA-TAC) is gaining popularity due to the enhanced three-dimensional visualization, improved dexterity and precision in performing fine dissection and knot-tying [4]. This video article demonstrates our RA-TAC technique and setup in a complex patient using the Hugo™ RAS system (Medtronic, Minneapolis, MN, USA) [5]. Step-by-step explanation of surgical technique of RA-TAC in a 40-year-old, BMI 36 kg/m2 patient, with unfavorable obstetric history and desire for further pregnancy. Academic Hospital, IRCCS Policlinico di S. Orsola Bologna, Italy. All possible therapeutic strategies and related complications have been discussed with the patient. Considering her strong desire for pregnancy, her surgical and obstetric history- including prior preterm deliveries despite vaginal cerclage (2020-2021)- and her BMI, a preconceptional RA-TAC was planned. A \"straight\" port placement in a \"compact\" docking configuration was installed. Surgery was performed under general anesthesia in 49 minutes. There were no intraoperative or postoperative complications. After 15 months, the patient successfully delivered a healthy 2896g male infant via elective cesarean section at 36+6 weeks, with no need for perinatal care; the cerclage was removed and bilateral salpingectomy was performed. Robotic-assisted surgery represents a feasible option for transabdominal cerclage, particularly in patients with obesity or intra-abdominal adhesions. Surgeon ergonomics, three-dimensional visualization, unrestricted range of motion, improved tremor control are key-advantages in procedures demanding maximal precision. While current literature lacks strong evidence demonstrating superiority of robotic-assisted over laparoscopic cerclage, this video illustrates technique, feasibility and potential benefits of RA-TAC.",
-      "journal": "Journal of minimally invasive gynecology",
-      "issn": "1553-4669",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Ferla S",
-        "De Gobbi V",
-        "Seracchioli R",
-        "Raimondo D"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publicationDate": "2026 Jan 31",
-      "year": "2026",
-      "doi": "10.1016/j.jmig.2026.01.050",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41628805/",
-      "topics": [
-        "Surgery",
-        "Clinical Study"
-      ]
-    },
-    {
       "pmid": "41773116",
       "title": "Rare Struma Ovarii Variant of Incidental Ovarian Dermoid Cyst in a Cadaveric Donor: A Case Report.",
       "abstract": "Post-operative adhesion is a common complication of abdominopelvic surgical procedures, including a hysterectomy. However, little is known about post-surgical tissue growths, atypical of fibrous adhesions. This case study evaluates a hysterectomized 80-year-old female anatomical donor who revealed intra-abdominal adhesions and bilateral abnormal tissue adnexal masses upon dissection and seeks to evaluate the causes of these abnormalities and potential consequences. Histologic analysis of the bilateral masses determined atrophied ovarian stromal tissue with a mature teratoma composed of respiratory epithelium and thyroid glandular tissue, consistent with struma ovarii, found in the left mass. Additional pathological findings included a proximally elongated rectum measuring 21.5 cm, a visible adhesion attaching a portion of sigmoid colon to the pelvic cavity wall, a section of sigmoid megacolon, and bilateral, smooth adipose herniations through the left and right superficial inguinal rings measuring 3.6 cm (left hernia) and 4.7 cm (right hernia). While intra-abdominal adhesions represent a major cause of post-operative complications following a hysterectomy, additional research is required on cases of teratoma complications by extensive pelvic fibrosis and the potential for active thyroid tissue in teratomas, causing death related to hypertension. The results of this case study contribute to the understanding of post-hysterectomy complications and incidental findings, aiming to do so through gross examination and histopathological analysis to better elucidate the etiology.",
@@ -4169,39 +4212,6 @@
         "Prevention",
         "Mechanism",
         "Surgery"
-      ]
-    },
-    {
-      "pmid": "41613659",
-      "title": "Recurrent Parastomal Hernia Treated With Stoma Relocation and Abdominal Lipectomy: A Case Report.",
-      "abstract": "Parastomal hernia (PSH) remains a challenging complication following stoma formation, with recurrence rates remaining high despite advances in surgical techniques, including laparoscopic approaches. Recurrent PSH often necessitates complex reconstructive procedures to restore abdominal wall integrity. We report the case of a 75-year-old female with a history of abdominoperineal resection and permanent end colostomy for rectal cancer who developed a PSH nine years after her initial surgery. She underwent a laparoscopic Sugarbaker repair but experienced recurrence within six months. A subsequent open abdominal wall reconstruction was performed, including lipectomy, stoma relocation, and onlay reinforcement with a biosynthetic mesh, as dense intra-abdominal adhesions precluded retromuscular mesh placement. The postoperative course was uneventful, and no clinical or radiologic evidence of recurrence was observed at short-term follow-up of six weeks. This case highlights the technical challenges associated with laparoscopic repair in recurrent PSH and demonstrates that open reconstruction with stoma relocation and onlay mesh reinforcement may be a feasible option in selected complex cases. However, given the limited duration of follow-up, long-term durability and recurrence rates cannot be assessed.",
-      "journal": "Cureus",
-      "issn": "2168-8184",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Mal R",
-        "Alshehri K",
-        "Alathath R",
-        "Almalki N",
-        "Elkilani M"
-      ],
-      "publicationTypes": [
-        "Case Reports",
-        "Journal Article"
-      ],
-      "publicationDate": "2025 Dec",
-      "year": "2025",
-      "doi": "10.7759/cureus.100347",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41613659/",
-      "topics": [
-        "Surgery",
-        "Clinical Study"
       ]
     }
   ]
