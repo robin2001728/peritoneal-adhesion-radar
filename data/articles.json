@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T00:07:02+00:00",
+  "updatedAt": "2026-09-03T23:59:37+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -242,6 +242,55 @@
         "Mechanism",
         "Surgery",
         "Animal Study",
+        "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "42213352",
+      "title": "Robotic versus laparoscopic Hartmann reversal: a multicentric analysis by ICoRS (Italian club of robotic Surgery).",
+      "abstract": "Hartmann's procedure is often performed in emergency settings for complicated diverticulitis, obstructive colorectal cancer, or colonic perforations when primary anastomosis is not feasible. Hartmann Reversal (HR) is technically demanding, primarily due to dense intra-abdominal adhesions, and is traditionally performed in open or laparoscopic surgery. However, laparoscopic reversal is associated with high conversion rates, often due to difficulties in adhesiolysis. Robotic surgery, offering enhanced visualization and instrument dexterity, has been proposed as a promising alternative. This retrospective multicenter study analyzed 89 patients who underwent minimally invasive Hartmann reversal across six Italian tertiary colorectal centers from 2013 to 2023. Of these, 45 patients underwent robotic reversal and 44 laparoscopic reversal. Only procedures that included standardized surgical steps-adhesiolysis, colostomy and rectal stump mobilization, and colorectal anastomosis-were included. The primary outcome was the conversion rate to open surgery. Secondary outcomes included intraoperative complications, postoperative morbidity, and recovery parameters. Baseline demographics and comorbidities were similar between groups. The conversion rate was significantly lower in the robotic group (0% vs. 20.5%, p = 0.001), though operative time was longer (p < 0.001). There were no statistically significant differences in overall postoperative complications (p = 0.052), anastomotic leaks (0 vs. 3, p = 0.285), or recovery outcomes. Multivariate analysis showed that no baseline variables significantly affected conversion risk. This is the first comparative study between robotic and laparoscopic Hartmann reversal. The findings suggest that robotic surgery may reduce conversion rates and improve procedural feasibility. Larger prospective studies are needed to confirm these results and assess long-term outcomes.",
+      "journal": "Updates in surgery",
+      "issn": "2038-3312",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Manigrasso M",
+        "Anoldo P",
+        "Andreuccetti J",
+        "Ceccarelli G",
+        "Cianchi F",
+        "Coratti A",
+        "D'Amore A",
+        "De Capua M",
+        "Filotico M",
+        "Formisano G",
+        "Fortuna L",
+        "Giuliani G",
+        "Giuratrabocchetta S",
+        "Guarriello S",
+        "Guerra F",
+        "Pignata G",
+        "Rondelli F",
+        "Staderini F",
+        "Bianchi PP",
+        "Milone M"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Multicenter Study",
+        "Comparative Study"
+      ],
+      "publicationDate": "2026 Sep",
+      "year": "2026",
+      "doi": "10.1007/s13304-026-02583-0",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42213352/",
+      "topics": [
+        "Surgery",
         "Clinical Study"
       ]
     },
@@ -1790,55 +1839,6 @@
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/40854367/",
       "topics": [
         "General"
-      ]
-    },
-    {
-      "pmid": "42213352",
-      "title": "Robotic versus laparoscopic Hartmann reversal: a multicentric analysis by ICoRS (Italian club of robotic Surgery).",
-      "abstract": "Hartmann's procedure is often performed in emergency settings for complicated diverticulitis, obstructive colorectal cancer, or colonic perforations when primary anastomosis is not feasible. Hartmann Reversal (HR) is technically demanding, primarily due to dense intra-abdominal adhesions, and is traditionally performed in open or laparoscopic surgery. However, laparoscopic reversal is associated with high conversion rates, often due to difficulties in adhesiolysis. Robotic surgery, offering enhanced visualization and instrument dexterity, has been proposed as a promising alternative. This retrospective multicenter study analyzed 89 patients who underwent minimally invasive Hartmann reversal across six Italian tertiary colorectal centers from 2013 to 2023. Of these, 45 patients underwent robotic reversal and 44 laparoscopic reversal. Only procedures that included standardized surgical steps-adhesiolysis, colostomy and rectal stump mobilization, and colorectal anastomosis-were included. The primary outcome was the conversion rate to open surgery. Secondary outcomes included intraoperative complications, postoperative morbidity, and recovery parameters. Baseline demographics and comorbidities were similar between groups. The conversion rate was significantly lower in the robotic group (0% vs. 20.5%, p = 0.001), though operative time was longer (p < 0.001). There were no statistically significant differences in overall postoperative complications (p = 0.052), anastomotic leaks (0 vs. 3, p = 0.285), or recovery outcomes. Multivariate analysis showed that no baseline variables significantly affected conversion risk. This is the first comparative study between robotic and laparoscopic Hartmann reversal. The findings suggest that robotic surgery may reduce conversion rates and improve procedural feasibility. Larger prospective studies are needed to confirm these results and assess long-term outcomes.",
-      "journal": "Updates in surgery",
-      "issn": "2038-3312",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Manigrasso M",
-        "Anoldo P",
-        "Andreuccetti J",
-        "Ceccarelli G",
-        "Cianchi F",
-        "Coratti A",
-        "D'Amore A",
-        "De Capua M",
-        "Filotico M",
-        "Formisano G",
-        "Fortuna L",
-        "Giuliani G",
-        "Giuratrabocchetta S",
-        "Guarriello S",
-        "Guerra F",
-        "Pignata G",
-        "Rondelli F",
-        "Staderini F",
-        "Bianchi PP",
-        "Milone M"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Multicenter Study",
-        "Comparative Study"
-      ],
-      "publicationDate": "2026 Sep",
-      "year": "2026",
-      "doi": "10.1007/s13304-026-02583-0",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42213352/",
-      "topics": [
-        "Surgery",
-        "Clinical Study"
       ]
     },
     {
