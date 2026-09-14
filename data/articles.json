@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T23:57:44+00:00",
+  "updatedAt": "2026-09-14T00:06:12+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -432,6 +432,40 @@
       "topics": [
         "Prevention",
         "Mechanism",
+        "Surgery",
+        "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "42732444",
+      "title": "Cocoon Syndrome: A Clinical Case of Intestinal Obstruction Highlighting the Diagnostic and Therapeutic Importance of Exploratory Laparoscopy in the Face of Ambiguous Imaging.",
+      "abstract": "Cocoon syndrome, also known as sclerosing encapsulating peritonitis (SEP), is a rare condition characterized by the encapsulation of small bowel loops by a thick fibrocollagenous membrane. Its non-specific clinical presentation and ambiguous findings on conventional imaging often lead to significant diagnostic delays or misdiagnosis, frequently being mistaken for internal hernias or neoplastic processes. We present the case of a 61-year-old male patient with no prior abdominal surgical history who presented with a six-month history of recurrent abdominal pain, vomiting, and weight loss. While magnetic resonance imaging and computed tomography suggested a high-grade intestinal obstruction, they could not definitively rule out an underlying malignancy. Exploratory laparoscopy was performed, revealing a dense fibrin mantle encapsulating the small bowel loops and a carnified greater omentum. Extensive laparoscopic blunt and bipolar adhesiolysis was successfully carried out, achieving complete intestinal release. The patient experienced an excellent postoperative recovery and was discharged five days after the procedure. This case highlights the pivotal role of exploratory laparoscopy as a minimally invasive tool that provides both definitive diagnostic confirmation and effective surgical treatment, reducing the morbidity associated with traditional laparotomy in cases of ambiguous intestinal obstruction.",
+      "journal": "Cureus",
+      "issn": "2168-8184",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Wosiack Menin AI",
+        "Padilla R",
+        "Proaño G",
+        "Pinedo S",
+        "Wosiack L"
+      ],
+      "publicationTypes": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Aug",
+      "year": "2026",
+      "doi": "10.7759/cureus.114495",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42732444/",
+      "topics": [
+        "Biomaterials",
         "Surgery",
         "Clinical Study"
       ]
@@ -4173,47 +4207,6 @@
         "Surgery",
         "Animal Study",
         "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "41469950",
-      "title": "HMGB1-enhanced autophagic degradation of E-cadherin facilitates mesothelial trans-differentiation and postoperative peritoneal adhesion.",
-      "abstract": "Postoperative peritoneal adhesion (PA), a prevalent complication of abdominal surgery, arises from aberrant healing of the injured peritoneum. This process involves mesothelial cell trans-differentiation into myofibroblast-like cells, driving peritoneal matrix remodeling and pathological fibrous band formation between organs. Existing therapeutic strategies to prevent PA exhibit limited efficacy, underscoring the need for previously unrecognized mechanistic insights into PA pathogenesis. Here, we elucidate the role of autophagy in mesothelial cell transition and PA development. Utilizing a murine PA model coupled with comprehensive in vitro analyses, we demonstrate that HMGB1-mediated autophagy facilitates TGF-β mediated mesothelial cell trans-differentiation. Specifically, autophagic degradation of E-cadherin counteracts TGF-β-driven mesothelial transition. Pharmacological activation of autophagy via rapamycin or recombinant HMGB1 potentiated this transition, whereas HMGB1 inhibitor (glycyrrhizin) or autophagy suppressor (spautin-1) markedly attenuated it. Crucially, early postoperative administration of glycyrrhizin or spautin-1 significantly reduced PA severity. Our findings unveil autophagy and HMGB1 as pivotal regulator targets of mesothelial plasticity during PA formation, provide mechanistic insights into peritoneum repair, and propose novel therapeutic avenues for PA prevention.",
-      "journal": "BMC gastroenterology",
-      "issn": "1471-230X",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Yuan X",
-        "Yang S",
-        "Qu C",
-        "Zhang R",
-        "Ren Y",
-        "Sun Y",
-        "Li E",
-        "Li G",
-        "Zhang J",
-        "Du J",
-        "Shen T",
-        "Jiang Z",
-        "Li X"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publicationDate": "2025 Dec 30",
-      "year": "2025",
-      "doi": "10.1186/s12876-025-04572-w",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41469950/",
-      "topics": [
-        "Prevention",
-        "Mechanism",
-        "Surgery"
       ]
     }
   ]
