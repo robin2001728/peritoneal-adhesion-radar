@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T00:06:12+00:00",
+  "updatedAt": "2026-09-15T00:31:17+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -535,6 +535,40 @@
       "doi": "10.3390/cancers18162591",
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42649904/",
       "topics": [
+        "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "42733818",
+      "title": "Sutureless repair of inferior vena cava injury using an elastomeric sealant in a mouse model with histopathological analysis of vascular healing.",
+      "abstract": "To evaluate the feasibility of sutureless repair for inferior vena cava (IVC) injury using an elastomeric sealant (Hydrofit; Sanyo Chemical Industries) and to characterize the histopathological pathway of vascular healing in a mouse model. Nineteen male C57BL/6 mice underwent laparotomy under general anesthesia. A longitudinal incision exceeding 1 mm was made in the infrarenal IVC, and hemostasis was achieved using Hydrofit-applied sheets with 2 minutes of compression. The primary end point was immediate hemostatic success rate with exact 95% confidence intervals (CIs). Surviving mice were distributed across the three time points (n = 6, 6, and 6 at days 5, 10, and 30, respectively) by random allocation; one mouse at day 30 was excluded from histopathological scoring owing to inability to reliably identify the incision site. CD31 immunostaining was performed to assess endothelial coverage at the repair site. Findings were scored using a semiquantitative system modified from the Histopathological Evaluation of Acute and Long-Term Healing Scores for Advancing Wound Healing Science-Acute scale, with comparisons among time points using the Kruskal-Wallis test. Immediate hemostasis was achieved in all 19 mice (100%; 95% CI, 82.4%-100%). One mouse died on postoperative day 2; anesthesia-related complications were the most likely cause, but because necropsy was not performed, procedure-related hemorrhage could not be definitively excluded, an unavoidable limitation of the primary and survival outcome estimates. The overall survival rate was 94.7% (18/19; 95% CIs, 74.0%-99.9%). No intra-abdominal adhesions were observed. Histopathological scoring demonstrated significant progression through wound healing phases (P = .001), with total scores increasing from 4.7 ± 1.2 at day 5 (inflammatory phase) to 7.7 ± 0.8 at day 10 (proliferative phase) and 11.4 ± 1.8 at day 30 (early maturation phase). CD31 (platelet endothelial cell adhesion molecule-1) immunostaining demonstrated CD31-positive cells at the luminal surface at all three time points; a morphologically confirmed endothelial monolayer on hematoxylin and eosin and Elastica van Gieson staining was identified at days 10 and 30, whereas elastic lamina regeneration was not observed. Sutureless repair using an elastomeric sealant is feasible for IVC injury in this mouse model, achieving reliable hemostasis. Although the initial wound healing response follows a physiological inflammatory-proliferative-maturation sequence culminating in endothelial coverage established by day 10, the late process is accompanied by material-driven fibrous encapsulation and intimal hyperplasia at the repair site. Venous injuries are challenging to repair due to the fragile vessel wall. This study provides histopathological evidence that sutureless repair using an elastomeric sealant facilitates initial vascular healing with endothelial coverage by day 10, although long-term material-driven responses such as fibrous encapsulation and intimal hyperplasia occur. These preclinical findings provide a mechanistic rationale for the further development of sutureless techniques for managing venous hemorrhage, particularly in situations where conventional suturing is technically difficult or time-consuming, such as during minimally invasive surgery or damage control procedures, but require confirmation in larger animal and clinical studies before clinical application.",
+      "journal": "JVS-vascular science",
+      "issn": "2666-3503",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Nakahara Y",
+        "Ohno SI",
+        "Iwakura T",
+        "Fujita K",
+        "Mineo S",
+        "Kuroda M"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026",
+      "year": "2026",
+      "doi": "10.1016/j.jvssci.2026.100438",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42733818/",
+      "topics": [
+        "Surgery",
+        "Animal Study",
         "Clinical Study"
       ]
     },
@@ -4171,42 +4205,6 @@
         "Mechanism",
         "Surgery",
         "Animal Study"
-      ]
-    },
-    {
-      "pmid": "41590505",
-      "title": "The Effect of Fibrin Sealants on Tubal Reanastomosis: A Comprehensive Review of the Literature.",
-      "abstract": "Background/Objectives: Female tubal factor infertility is a major clinical challenge. While surgical repair of the fallopian tubes remains the traditional standard, biological fibrin sealants have been proposed to reduce tissue trauma and improve reproductive outcomes. Methods: We conducted database searches of PubMed/MEDLINE, EMBASE and Google Scholar until 31 August 2025, using the keywords \"tubal anastomosis\", \"tubal reanastomosis,\" \"tubal reanastomosis\", \"uterine horn anastomosis\", \"fibrin glue\", \"fibrin sealant\", \"biological sealant\", \"tissue adhesive\", \"rabbit\", \"rat\" and \"sterilization reversal.\" Reference lists of retrieved articles have been examined to find studies which tested end-to-end tubal (or small-animal uterine horn) anastomosis through biological adhesives with or without additional components to evaluate patency success, fertility results and adhesion formation. Results: Thirteen studies met the inclusion criteria (eleven animal; two human). Rat and rabbit models demonstrated that fibrin sealants with intraluminal splints and one-to-two anchoring sutures produced results comparable to microsutures for patency (tubal patency rates of 75-100%) and pregnancy success (pregnancy rates of 60-83%) while reducing surgical time and decreasing peritubal adhesions. The success rates of the procedures depended on the anastomosis locations. Isthmic-isthmic anastomosis produced better results than ampullary repairs which tended to fail or develop stenosis. Fibrin sealant-only repairs without splinting were associated with lower patency (almost 60%) despite acceptable histologic healing. Human data showed similar pregnancy rates (intrauterine pregnancy in about 40-50% of women) and tubal patency but no consistent decrease in adhesions. Ectopic pregnancy rates ranged from 9 to 11%. Conclusions: Fibrin sealants are useful adjuncts to microsurgical tubal repair, but they should not replace the basic repair procedures. The effectiveness of this procedure is dependent on three critical factors: precise segment alignment, proper use of splints and stents, and selection of segments with comparable caliber. In a personalized-medicine framework, fibrin-assisted reanastomosis may offer a tailored option for selected women who desire natural pregnancy. Modern standardized research is required to define indications and analyze how the adaptation of fibrin sealants in minimally invasive procedures affect reproductive outcomes, ectopic pregnancy rates, and adhesion development.",
-      "journal": "Journal of personalized medicine",
-      "issn": "2075-4426",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Papageorgiou D",
-        "Pergialiotis V",
-        "Sapantzoglou I",
-        "Bikouvaraki ES",
-        "Salakos N",
-        "Kykalos S",
-        "Kontzoglou K"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publicationDate": "2025 Dec 31",
-      "year": "2025",
-      "doi": "10.3390/jpm16010012",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41590505/",
-      "topics": [
-        "Surgery",
-        "Animal Study",
-        "Clinical Study"
       ]
     }
   ]
