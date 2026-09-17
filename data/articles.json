@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T00:12:28+00:00",
+  "updatedAt": "2026-09-17T00:23:02+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -73,6 +73,46 @@
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42472477/",
       "topics": [
         "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "42296279",
+      "title": "Evaluation of the Efficacy of Photobiomodulation Therapy, Therapeutic Ultrasound, and Boric Acid in the Prevention of Intra-Abdominal Adhesions in an Experimental Rat Model: A Macroscopic, Histopathological, and Gene Expression Analysis.",
+      "abstract": "This study aimed to evaluate the efficacy of photobiomodulation therapy (PBMT), therapeutic ultrasound (TUS), boric acid (BA), and their combinations in preventing experimentally induced intra-abdominal adhesions in rats. Ninety-six male Wistar rats (14 weeks old) were randomly assigned to eight groups (Control, Laparotomy, Physiological Saline, BA, PBMT, TUS, BA + PBMT, and BA + TUS; n = 12/group). Adhesions were surgically induced. Treatments were applied once daily for 7 consecutive days as follows: BA (8 mg/kg, intraperitoneal), PBMT (904 nm, 3 J/cm2 applied to the incision site), and TUS (1 MHz, 0.5 W/cm2 applied to the incision site). On Day 8, rats were euthanized, and peritoneal fluid and adhesion tissue samples were collected for macroscopic scoring, histopathology, biochemical assays, and gene expression analyses. PBMT alone significantly reduced adhesion scores compared with the control (p < 0.05) and showed the most pronounced antifibrotic effect, while BA and TUS, alone or in combination, had limited impact. BA treatment increased malondialdehyde (MDA) levels (p < 0.05), indicating higher oxidative stress, whereas PBMT enhanced antioxidant enzyme activities, including superoxide dismutase (SOD) and catalase (CAT) (p < 0.05). Gene expression analysis revealed that PBMT modulated cytokines linked to inflammation, particularly tumor necrosis factor-α (TNF-α) and transforming growth factor-β1 (TGF-β1). PBMT demonstrated significant potential in reducing intra-abdominal adhesions by alleviating inflammation, controlling oxidative stress, and promoting tissue repair. BA and TUS showed limited efficacy under the present experimental conditions, and BA in particular was associated with increased oxidative stress and inflammatory responses. Further research with optimized dosing, extended treatment durations, and combination strategies is warranted.",
+      "journal": "Lasers in surgery and medicine",
+      "issn": "1096-9101",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Okur S",
+        "Baykal B",
+        "Yanmaz LE",
+        "Gölgeli Bedir A",
+        "Okur DT",
+        "Şenocak MG",
+        "Turgut F",
+        "Yildirim S",
+        "Bolat İ",
+        "Apaydin Yildirim B",
+        "Özdemir Tozlu Ö"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Oct",
+      "year": "2026",
+      "doi": "10.1002/lsm.70164",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42296279/",
+      "topics": [
+        "Prevention",
+        "Mechanism",
+        "Surgery",
+        "Animal Study"
       ]
     },
     {
@@ -1582,46 +1622,6 @@
         "Prevention",
         "Surgery",
         "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "42296279",
-      "title": "Evaluation of the Efficacy of Photobiomodulation Therapy, Therapeutic Ultrasound, and Boric Acid in the Prevention of Intra-Abdominal Adhesions in an Experimental Rat Model: A Macroscopic, Histopathological, and Gene Expression Analysis.",
-      "abstract": "This study aimed to evaluate the efficacy of photobiomodulation therapy (PBMT), therapeutic ultrasound (TUS), boric acid (BA), and their combinations in preventing experimentally induced intra-abdominal adhesions in rats. Ninety-six male Wistar rats (14 weeks old) were randomly assigned to eight groups (Control, Laparotomy, Physiological Saline, BA, PBMT, TUS, BA + PBMT, and BA + TUS; n = 12/group). Adhesions were surgically induced. Treatments were applied once daily for 7 consecutive days as follows: BA (8 mg/kg, intraperitoneal), PBMT (904 nm, 3 J/cm2 applied to the incision site), and TUS (1 MHz, 0.5 W/cm2 applied to the incision site). On Day 8, rats were euthanized, and peritoneal fluid and adhesion tissue samples were collected for macroscopic scoring, histopathology, biochemical assays, and gene expression analyses. PBMT alone significantly reduced adhesion scores compared with the control (p < 0.05) and showed the most pronounced antifibrotic effect, while BA and TUS, alone or in combination, had limited impact. BA treatment increased malondialdehyde (MDA) levels (p < 0.05), indicating higher oxidative stress, whereas PBMT enhanced antioxidant enzyme activities, including superoxide dismutase (SOD) and catalase (CAT) (p < 0.05). Gene expression analysis revealed that PBMT modulated cytokines linked to inflammation, particularly tumor necrosis factor-α (TNF-α) and transforming growth factor-β1 (TGF-β1). PBMT demonstrated significant potential in reducing intra-abdominal adhesions by alleviating inflammation, controlling oxidative stress, and promoting tissue repair. BA and TUS showed limited efficacy under the present experimental conditions, and BA in particular was associated with increased oxidative stress and inflammatory responses. Further research with optimized dosing, extended treatment durations, and combination strategies is warranted.",
-      "journal": "Lasers in surgery and medicine",
-      "issn": "1096-9101",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Okur S",
-        "Baykal B",
-        "Yanmaz LE",
-        "Gölgeli Bedir A",
-        "Okur DT",
-        "Şenocak MG",
-        "Turgut F",
-        "Yildirim S",
-        "Bolat İ",
-        "Apaydin Yildirim B",
-        "Özdemir Tozlu Ö"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publicationDate": "2026 Jun 15",
-      "year": "2026",
-      "doi": "10.1002/lsm.70164",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42296279/",
-      "topics": [
-        "Prevention",
-        "Mechanism",
-        "Surgery",
-        "Animal Study"
       ]
     },
     {
