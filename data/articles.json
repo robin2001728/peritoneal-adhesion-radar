@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T00:23:02+00:00",
+  "updatedAt": "2026-09-18T00:09:05+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -188,6 +188,115 @@
         "Biomaterials",
         "Mechanism",
         "Surgery"
+      ]
+    },
+    {
+      "pmid": "42748887",
+      "title": "Stepwise surface engineering of polypropylene mesh with metal-phenolic-polysaccharide synergistically promoting abdominal wall repair.",
+      "abstract": "Polypropylene (PP) mesh is widely used in abdominal wall repair, yet its clinical application remains challenged by postoperative peritoneal adhesion, prosthetic infection, and insufficient tissue integration. To address these limitations simultaneously, we developed a multifunctional PP mesh (P-TACuPLC) through a stepwise surface engineering strategy: tannic acid (TA) and copper ions (Cu2+) were first co-deposited onto PP via metal-phenolic coordination, followed by sequential grafting of ε-polylysine (ε-PL) and oxidized carboxymethyl cellulose (OCMC). Successful multilayer construction was confirmed by ATR-FTIR, XPS, SEM/EDS, and water contact angle measurements, while tensile testing verified that mechanical integrity was preserved. In vitro studies demonstrated that P-TACuPLC achieved antibacterial rates exceeding 90% against both E. coli and S. aureus., and maintained cell viability above 90%. In a rat peritoneal defect model, P-TACuPLC markedly reduced adhesion area and tenacity scores relative to bare PP mesh, and significantly suppressed systemic inflammatory cytokines (TNF-α and IL-6). Furthermore, the sustained release of Cu2+ synergistically upregulates the expression of VEGF and CD31, promoting neovascularization. On day 30, VEGF expression is appropriately downregulated, whereas CD31 maintains a high expression level, which is indicative of ordered tissue remodeling and neoperitoneum formation. Mechanistically, the OCMC surface layer functions as both a physical barrier and a hydration shield to prevent protein adsorption, while progressive hydrolysis of the Schiff base linkage permits subsequent tissue integration. This work presents a rationally designed, multifunctional hernia mesh that concurrently achieves anti-adhesion, anti-infective, and pro-regenerative performance, offering a promising strategy for safer abdominal wall repair.",
+      "journal": "Biomaterials advances",
+      "issn": "2772-9508",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Hu W",
+        "Jiang N",
+        "Li Q",
+        "Lu Q",
+        "Tang P",
+        "Tang Z",
+        "Zhang T"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Sep 14",
+      "year": "2026",
+      "doi": "10.1016/j.bioadv.2026.215181",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42748887/",
+      "topics": [
+        "Prevention",
+        "Animal Study",
+        "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "42752722",
+      "title": "Evaluation of polymeric films and streptokinase for prevention of postoperative intra-abdominal adhesion in rabbits.",
+      "abstract": "To evaluate the effectiveness of polymer-based strategies for preventing intra-abdominal adhesions after small colon enterotomy and enterorrhaphy in a rabbit experimental model. Twenty-four female New Zealand White rabbits were randomly allocated into four groups (n = 6): film composed of a blend of sodium carboxymethylcellulose and polyvinyl alcohol (NaCMC-PVA); NaCMC-PVA-streptokinase (STP) film; intra-abdominal STP infusion; and no treatment. Hematological parameters were assessed preoperatively and at three and seven days postoperatively. Macroscopic evaluation of intra-abdominal adhesions and histopathological analysis of the enterorrhaphy site were performed on postoperative day 7. Results were compared within and between experimental groups. Treated groups exhibited fewer hematological alterations compared with the control group. No statistically significant differences were observed among groups regarding adhesion severity or histopathological scores (p> 0.05). The NaCMC-PVA film showed the lowest absolute incidence of adhesions and did not impair intestinal remesothelialization. Based on the biological findings from this study, the NaCMC-PVA film exhibited acceptable handling characteristics and biological compatibility. These findings suggest its potential as a mechanical barrier for preventing abdominal adhesion. However, further studies with larger sample sizes and longer follow-up periods are required to confirm its effectiveness.",
+      "journal": "Acta cirurgica brasileira",
+      "issn": "1678-2674",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Teixeira LG",
+        "Brito HCD",
+        "Teixeira BN",
+        "Barata JS",
+        "Adams RDR",
+        "Anai LA",
+        "Martinato F",
+        "Matsui A",
+        "Thiré RMDSM",
+        "Santana ÁE"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Evaluation Study"
+      ],
+      "publicationDate": "2026",
+      "year": "2026",
+      "doi": "10.1590/acb415226",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42752722/",
+      "topics": [
+        "Prevention",
+        "Biomaterials",
+        "Animal Study"
+      ]
+    },
+    {
+      "pmid": "42545521",
+      "title": "Preclinical trial results of main pancreatic duct endoluminal radiofrequency ablation to reduce postoperative pancreatic fistula.",
+      "abstract": "Postoperative pancreatic fistula (POPF) is a major cause of morbidity after pancreatoduodenectomy, particularly in patients with high-risk pancreatic remnants. Preventive strategies based solely on surgical technique have yielded inconsistent results, and thus, there has been growing interest in strategies aiming to modify the biological behavior of the pancreatic remnant. This preclinical study evaluated the biological and histopathological effects of preoperative endoluminal radiofrequency ablation (ERFA) of the main pancreatic duct (MPD) performed 4 weeks before pancreatic transection in a porcine model. Animals underwent laparoscopic MPD occlusion followed by pancreatic transection at 4 weeks and necropsy 15 days thereafter. Feasibility, safety, histological atrophy, and macroscopic findings associated with POPF risk were assessed. As a secondary objective, outcomes were compared with those who underwent MPD occlusion using cyanoacrylate glue. Preoperative ERFA was technically feasible and safe. At 4 weeks, ERFA induced marked and homogeneous acinar atrophy that was significantly greater than that observed after glue occlusion (p = 0.018), indicating effective biological conditioning of the pancreatic remnant. At necropsy, pseudocyst formation and intra-abdominal adhesions, known surrogate markers of pancreatic fistula in pigs, were significantly more frequent in the glue group and absent in ERFA-treated animals. Serum amylase levels, postoperative weight gain, complication rates, and preservation of endocrine architecture were comparable between groups. Ductal ablation of the MPD via ERFA induced stable, progressive exocrine pancreatic atrophy, effectively preconditioning the gland prior to pancreatic transection. Experimental evidence suggests that its biological effects stabilize approximately 4 weeks after treatment. Compared to cyanoacrylate occlusion, ERFA achieved more homogeneous early biological effects and fewer fistula-related macroscopic complications. These findings support the further investigation of preoperative pancreatic conditioning as a potential adjunct strategy for POPF risk reduction, although clinical studies are needed to clarify its role alongside established reconstructive approaches.",
+      "journal": "Surgical endoscopy",
+      "issn": "1432-2218",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Vellalta G",
+        "Marcucci F",
+        "Sánchez-Velázquez P",
+        "Berjano E",
+        "Andaluz A",
+        "Burdio F",
+        "Ielpo B"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Sep",
+      "year": "2026",
+      "doi": "10.1007/s00464-026-13238-x",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42545521/",
+      "topics": [
+        "Prevention",
+        "Surgery",
+        "Clinical Study"
       ]
     },
     {
@@ -714,41 +823,6 @@
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42592990/",
       "topics": [
         "Animal Study",
-        "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "42545521",
-      "title": "Preclinical trial results of main pancreatic duct endoluminal radiofrequency ablation to reduce postoperative pancreatic fistula.",
-      "abstract": "Postoperative pancreatic fistula (POPF) is a major cause of morbidity after pancreatoduodenectomy, particularly in patients with high-risk pancreatic remnants. Preventive strategies based solely on surgical technique have yielded inconsistent results, and thus, there has been growing interest in strategies aiming to modify the biological behavior of the pancreatic remnant. This preclinical study evaluated the biological and histopathological effects of preoperative endoluminal radiofrequency ablation (ERFA) of the main pancreatic duct (MPD) performed 4 weeks before pancreatic transection in a porcine model. Animals underwent laparoscopic MPD occlusion followed by pancreatic transection at 4 weeks and necropsy 15 days thereafter. Feasibility, safety, histological atrophy, and macroscopic findings associated with POPF risk were assessed. As a secondary objective, outcomes were compared with those who underwent MPD occlusion using cyanoacrylate glue. Preoperative ERFA was technically feasible and safe. At 4 weeks, ERFA induced marked and homogeneous acinar atrophy that was significantly greater than that observed after glue occlusion (p = 0.018), indicating effective biological conditioning of the pancreatic remnant. At necropsy, pseudocyst formation and intra-abdominal adhesions, known surrogate markers of pancreatic fistula in pigs, were significantly more frequent in the glue group and absent in ERFA-treated animals. Serum amylase levels, postoperative weight gain, complication rates, and preservation of endocrine architecture were comparable between groups. Ductal ablation of the MPD via ERFA induced stable, progressive exocrine pancreatic atrophy, effectively preconditioning the gland prior to pancreatic transection. Experimental evidence suggests that its biological effects stabilize approximately 4 weeks after treatment. Compared to cyanoacrylate occlusion, ERFA achieved more homogeneous early biological effects and fewer fistula-related macroscopic complications. These findings support the further investigation of preoperative pancreatic conditioning as a potential adjunct strategy for POPF risk reduction, although clinical studies are needed to clarify its role alongside established reconstructive approaches.",
-      "journal": "Surgical endoscopy",
-      "issn": "1432-2218",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Vellalta G",
-        "Marcucci F",
-        "Sánchez-Velázquez P",
-        "Berjano E",
-        "Andaluz A",
-        "Burdio F",
-        "Ielpo B"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publicationDate": "2026 Aug 03",
-      "year": "2026",
-      "doi": "10.1007/s00464-026-13238-x",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42545521/",
-      "topics": [
-        "Prevention",
-        "Surgery",
         "Clinical Study"
       ]
     },
