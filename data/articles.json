@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T00:33:43+00:00",
+  "updatedAt": "2026-09-27T00:29:14+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -191,6 +191,42 @@
       ]
     },
     {
+      "pmid": "42794407",
+      "title": "Anti-Adhesion Effects and Potential Mechanisms of Polyglutamic Acid-Polylysine Crosslinked Hydrogels in a Rat Peritoneal Adhesion Model.",
+      "abstract": "Peritoneal adhesions are a common complication following abdominal surgery. Their formation is associated with factors such as inflammatory responses, imbalance in the fibrinolytic system, and proliferation of fibrous tissue. Currently available anti-adhesion products on the market are primarily physical barrier membranes, which have limited functionality, can only serve as passive barriers, and have suboptimal handling and residence times. To address this issue, this study utilized 1-ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride/N-hydroxysuccinimide (EDC/NHS) chemical crosslinking to create polyglutamic acid-polylysine (PGA-PL) hydrogels and tested their anti-adhesion and reparative effects in a cecum-abdominal wall adhesion model in Sprague-Dawley (SD) rats. Experimental results demonstrated that treatment with PGA-PL hydrogels significantly reduced the occurrence of adhesions, effectively decreased inflammatory cell infiltration, neovascularization, and collagen deposition, while exhibiting excellent biocompatibility. Additionally, it markedly reduced the expression of pro-inflammatory factors, transforming growth factor-β1 (TGF-β1), and α-smooth muscle actin (α-SMA) in both serum and local tissue, increased the levels of plasminogen activators, and promoted the proliferation of peritoneal mesothelial cells. PGA-PL hydrogel is a safe and effective anti-adhesion material; its efficacy not only relies on serving as a physical barrier but also actively modulates local inflammatory responses, fibrotic processes, and fibrinolytic balance, while promoting mesothelial repair.",
+      "journal": "Gels (Basel, Switzerland)",
+      "issn": "2310-2861",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Wu S",
+        "Zhao Z",
+        "Jia D",
+        "Li H",
+        "Huang Y",
+        "Han Q"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Sep 21",
+      "year": "2026",
+      "doi": "10.3390/gels12090857",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42794407/",
+      "topics": [
+        "Prevention",
+        "Biomaterials",
+        "Mechanism",
+        "Surgery",
+        "Animal Study"
+      ]
+    },
+    {
       "pmid": "42748887",
       "title": "Stepwise surface engineering of polypropylene mesh with metal-phenolic-polysaccharide synergistically promoting abdominal wall repair.",
       "abstract": "Polypropylene (PP) mesh is widely used in abdominal wall repair, yet its clinical application remains challenged by postoperative peritoneal adhesion, prosthetic infection, and insufficient tissue integration. To address these limitations simultaneously, we developed a multifunctional PP mesh (P-TACuPLC) through a stepwise surface engineering strategy: tannic acid (TA) and copper ions (Cu2+) were first co-deposited onto PP via metal-phenolic coordination, followed by sequential grafting of ε-polylysine (ε-PL) and oxidized carboxymethyl cellulose (OCMC). Successful multilayer construction was confirmed by ATR-FTIR, XPS, SEM/EDS, and water contact angle measurements, while tensile testing verified that mechanical integrity was preserved. In vitro studies demonstrated that P-TACuPLC achieved antibacterial rates exceeding 90% against both E. coli and S. aureus., and maintained cell viability above 90%. In a rat peritoneal defect model, P-TACuPLC markedly reduced adhesion area and tenacity scores relative to bare PP mesh, and significantly suppressed systemic inflammatory cytokines (TNF-α and IL-6). Furthermore, the sustained release of Cu2+ synergistically upregulates the expression of VEGF and CD31, promoting neovascularization. On day 30, VEGF expression is appropriately downregulated, whereas CD31 maintains a high expression level, which is indicative of ordered tissue remodeling and neoperitoneum formation. Mechanistically, the OCMC surface layer functions as both a physical barrier and a hydration shield to prevent protein adsorption, while progressive hydrolysis of the Schiff base linkage permits subsequent tissue integration. This work presents a rationally designed, multifunctional hernia mesh that concurrently achieves anti-adhesion, anti-infective, and pro-regenerative performance, offering a promising strategy for safer abdominal wall repair.",
@@ -262,6 +298,40 @@
         "Prevention",
         "Biomaterials",
         "Animal Study"
+      ]
+    },
+    {
+      "pmid": "42792756",
+      "title": "Macrophage-Rich Peritoneal Compartments and CCR2-Dependent Hematopoietic Recruitment Are Differentially Associated with Adhesion Formation After Abdominal Surgery.",
+      "abstract": "Background: Postoperative peritoneal adhesions arise from a dysregulated wound-healing response in which macrophages may have context-dependent effects. We investigated the contribution of macrophage-rich peritoneal and mesenteric compartments, the origin of macrophage-like cells in ischemic lesions, and the association between CCR2-dependent recruitment and postoperative inflammatory and reparative gene expression. Methods: Using a murine ischemic-button model, we assessed the effects of clodronate liposome treatment, bone marrow chimerism, and global CCR2 deficiency. Adhesion formation, F4/80+ cell accumulation, donor-marker expression, and selected inflammatory and wound-healing-associated transcripts were analyzed at predefined postoperative time points. Results: Clodronate liposome treatment was associated with reduced adhesion formation and substantial depletion of F4/80+ cells in peritoneal lavage and mesenteric tissue. However, F4/80+ cell numbers within ischemic buttons at postoperative day 3 were not significantly reduced, indicating that the depletion experiment does not establish selective depletion of all lesional macrophages. Bone marrow chimera experiments identified donor-marker-positive, F4/80+ cells within ischemic buttons, supporting recruitment of hematopoietic cells with a macrophage-like phenotype. CCR2 deficiency reduced F4/80+ cell accumulation in ischemic buttons and was associated with increased adhesion scores and altered expression of inflammatory and wound-healing-associated genes. These findings identify differential associations of clodronate-sensitive macrophage-rich compartments and CCR2-dependent hematopoietic recruitment with postoperative adhesion formation. Conclusions: Depletion of macrophage-rich peritoneal and mesenteric compartments was associated with reduced adhesion formation, whereas global CCR2 deficiency was associated with fewer lesional F4/80+ cells and greater adhesion severity. Because clodronate depletion, F4/80 staining, bone marrow chimerism, and global CCR2 deficiency do not provide cell-specific or fate-mapped resolution, these data do not establish distinct resident versus infiltrating macrophage functions or a reparative phenotype of CCR2-dependent cells. Cell-specific and temporally resolved validation is required to define the contributions and temporal relationships of individual macrophage subsets.",
+      "journal": "Biomedicines",
+      "issn": "2227-9059",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Woestemeier A",
+        "Lysson M",
+        "Braun L",
+        "Jafari A",
+        "Lingohr P",
+        "Wehner S",
+        "Kalff JC",
+        "Hong GS"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Sep 08",
+      "year": "2026",
+      "doi": "10.3390/biomedicines14092014",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42792756/",
+      "topics": [
+        "Surgery"
       ]
     },
     {
@@ -4236,49 +4306,6 @@
       "topics": [
         "Surgery",
         "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "40148297",
-      "title": "Treatment with Punica granatum var. pleniflora Inhibits Postoperative Adhesion Formation in a Rat Uterine Horn Adhesion Model.",
-      "abstract": "Despite recent advances in surgical procedures, postoperative peritoneal adhesions are common following major abdominopelvic surgery. Here, the therapeutic potential of Punica granatum var. pleniflora (PGP) on postoperative peritoneal adhesions has been explored in a rat uterine horn adhesion model. Eighteen Albino Wistar female rats were divided into three groups: control group, sham, and treatment group receiving 400 mg/kg/day PGP orally for ten days. An identical surgical technique was employed to induce adhesion of the uterine horn in both the control and treatment groups. At the end of the experiments, all rats were re-operated for evaluation of adhesion. The macroscopic evaluation and fibrotic bands scaling were conducted and inflammation and fibrosis were assessed and graded, microscopically. Additionally, the effect of PGP on inflammation and fibrosis was assessed via PCR, ELISA, and histopathology. PGP could significantly reduce the peritoneal adhesion score (treatment group vs. control group; p<0.001). Histopathological analysis indicated that PGP prevented adhesion formation by suppressing inflammation and fibrosis. Moreover, inflammatory and fibrosis biomarkers were decreased following PGP treatment. Furthermore, rats in the treatment group had significantly lower oxidative stress markers in adhesion tissues when compared to the control group. Oral PGP was associated with reduced peritoneal adhesion formation in rats, postoperatively. This therapy might be an effective and safe strategy for preventing intraperitoneal adhesion after abdominopelvic surgeries.",
-      "journal": "Current pharmaceutical design",
-      "issn": "1873-4286",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Moetamani-Ahmadi M",
-        "Nazari SE",
-        "Asgharzadeh F",
-        "Zafari N",
-        "Velayati M",
-        "Akbarzade H",
-        "Alaei M",
-        "Negahbanzaferanloo Z",
-        "Lagzian E",
-        "Gataa IS",
-        "Hassanian SM",
-        "Ferns GA",
-        "Khazaei M",
-        "Avan A"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publicationDate": "2026",
-      "year": "2026",
-      "doi": "10.2174/0113816128337474250311074502",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/40148297/",
-      "topics": [
-        "Prevention",
-        "Mechanism",
-        "Surgery",
-        "Animal Study"
       ]
     }
   ]
