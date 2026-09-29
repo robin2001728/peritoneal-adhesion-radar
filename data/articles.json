@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T00:36:03+00:00",
+  "updatedAt": "2026-09-29T01:50:01+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -188,6 +188,41 @@
         "Biomaterials",
         "Mechanism",
         "Surgery"
+      ]
+    },
+    {
+      "pmid": "42803122",
+      "title": "Emergency General Surgery Outcomes: A Reliable Predictor of Hospital-Level Performance.",
+      "abstract": "BackgroundEfforts to explain the causes of variation in emergency general surgery (EGS) outcomes have focused on surgeon-level factors such as technical proficiency and individual caseload. The present work examined the association of institutional structure and hospital-wide quality with outcomes of EGS operations.Study designAdult EGS admissions (large bowel resection, small bowel resection, repair of perforated ulcer, lysis of peritoneal adhesions, and laparotomy) were identified in the 2022 Nationwide Readmission Database. Hierarchical mixed-effects models were developed to assess center-level rates of the major adverse events (MAEs) for each EGS procedure. Low-Performing Hospitals (LPH) were defined as centers demonstrating the highest decile of MAE risk. Multivariable regression models examined associations between EGS outcomes and center quality, as measured by hospital-level rates of acute myocardial infarction (AMI) mortality.ResultsOf an estimated 139,543 patients undergoing EGS, 12,314 (8.8%) were admitted to an LPH. Treatment at an LPH was linked to 2.44-fold greater odds of MAE (95% Cl 2.25-2.63). In both LPH and non-LPH, the MAE rates for individual operations were strongly correlated with those of other EGS procedures. Furthermore, the mortality rate for AMI revealed significantly positive correlation with EGS MAE across all centers (r = 0.24, P < .05).ConclusionConsistent underperformance across operations at LPH emphasizes the influence of broader institutional factors in addition to procedure-specific expertise on outcomes. The strong correlation between the rates of EGS MAE and AMI mortality may point to the presence of structural factors that persist across service lines and serve as suitable targets for quality improvement.",
+      "journal": "The American surgeon",
+      "issn": "1555-9823",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Yalzadeh D",
+        "Vadlakonda A",
+        "Tabibian K",
+        "Sakowitz S",
+        "Mehta D",
+        "Coaston TN",
+        "Balian J",
+        "Benharash P"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Sep 28",
+      "year": "2026",
+      "doi": "10.1177/00031348261491332",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42803122/",
+      "topics": [
+        "Surgery",
+        "Clinical Study"
       ]
     },
     {
@@ -4273,38 +4308,6 @@
         "Biomaterials",
         "Surgery",
         "Animal Study",
-        "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "41114556",
-      "title": "Retroperitoneal Approach for Total Colectomy in Minimally Invasive Treatment of Synchronous Multiple Colon Cancer.",
-      "abstract": "The retroperitoneal approach is an innovative, minimally invasive technique that may benefit patients with colorectal cancer who have significant comorbidities such as cardiovascular disease, obesity, or extensive intra-abdominal adhesions. We present a novel retroperitoneal approach for the minimally invasive surgical treatment of synchronous multiple colon cancers. An interfascial dissection through the retroperitoneal space was performed on the left side in the medial direction. The left ureter and gonadal vessels served as the primary landmarks. The inferior mesenteric vessels were identified, clipped, and cut. The horizontal portion of the duodenum served as the cranial landmark for dissection. Dissection continued medially through the embryonic layers to identify the roots of the ileocolic artery and vein. The vessels were exposed to the surrounding tissue, clipped, and cut. Laparoscopic mobilization of the entire colon was performed. The operation lasted 510 minutes, with the retroperitoneal step requiring 205 minutes. Total blood loss was 200 mL. Postoperative pain intensity was low, and recovery was uneventful. The patient was discharged on postoperative day 7. The retroperitoneal approach appears to be a feasible and minimally invasive option for total colectomy in selected patients with multiple synchronous colon cancers. Further studies are warranted to assess the safety, reproducibility, and long-term oncologic outcomes. See New Technology Report Video .",
-      "journal": "Diseases of the colon and rectum",
-      "issn": "1530-0358",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Efetov SK",
-        "Rychkova AK",
-        "Krasnov YP"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Video-Audio Media",
-        "Case Reports"
-      ],
-      "publicationDate": "2026 Jan 01",
-      "year": "2026",
-      "doi": "10.1097/DCR.0000000000003982",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41114556/",
-      "topics": [
-        "Surgery",
         "Clinical Study"
       ]
     }
