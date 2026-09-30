@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T01:50:01+00:00",
+  "updatedAt": "2026-09-30T01:14:40+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -72,6 +72,46 @@
       "doi": "10.1080/01443615.2026.2697492",
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42472477/",
       "topics": [
+        "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "42331172",
+      "title": "A collagen-functionalized biomimetic patch leveraging macromolecular piezoelectricity and anti-adhesive properties for abdominal wall defect repair.",
+      "abstract": "Abdominal wall defects represent a common clinical challenge in surgical practice, and mesh repair remains the standard treatment. However, current synthetic materials often fail to replicate the mechanical properties of native tissue or actively promote functional regeneration. To address this, we developed a functional composite patch integrating a piezoelectric collagen matrix with an anisotropic polycaprolactone (PCL) scaffold for abdominal wall defect repair. The PCL scaffold, fabricated via electrostatic field-assisted direct writing, exhibits anisotropic mechanical properties with a transverse-to-longitudinal tensile modulus ratio of 1.62, closely matching that of native abdominal wall tissue (1.60). Collagen, as the key biological macromolecule, serves a dual function. Under mechanical loading, collagen generates high current and low voltage through its ionic piezoelectric effect, and in vitro cell assays confirmed that this signal promotes fibroblast proliferation and migration. Additionally, the dense surface structure of collagen acts as a physical barrier, reducing postoperative intra-abdominal adhesions in a rat model. In vivo evaluations further demonstrated that the patch promotes collagen deposition, attenuates inflammatory responses, and stimulates angiogenesis and myofibroblast activation. This collagen-based patch integrates mechanical anisotropy, piezoelectric bioactivity, and anti-adhesion functionality, offering a promising strategy for abdominal wall defect repair with potential for clinical translation.",
+      "journal": "International journal of biological macromolecules",
+      "issn": "1879-0003",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Zhai W",
+        "Guo W",
+        "Wang A",
+        "Huang B",
+        "Tian Y",
+        "Zhang H",
+        "Zhu X",
+        "Song W",
+        "Ren L"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Oct",
+      "year": "2026",
+      "doi": "10.1016/j.ijbiomac.2026.153060",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42331172/",
+      "topics": [
+        "Prevention",
+        "Biomaterials",
+        "Mechanism",
+        "Surgery",
+        "Animal Study",
         "Clinical Study"
       ]
     },
@@ -1694,46 +1734,6 @@
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42368641/",
       "topics": [
         "Surgery",
-        "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "42331172",
-      "title": "A collagen-functionalized biomimetic patch leveraging macromolecular piezoelectricity and anti-adhesive properties for abdominal wall defect repair.",
-      "abstract": "Abdominal wall defects represent a common clinical challenge in surgical practice, and mesh repair remains the standard treatment. However, current synthetic materials often fail to replicate the mechanical properties of native tissue or actively promote functional regeneration. To address this, we developed a functional composite patch integrating a piezoelectric collagen matrix with an anisotropic polycaprolactone (PCL) scaffold for abdominal wall defect repair. The PCL scaffold, fabricated via electrostatic field-assisted direct writing, exhibits anisotropic mechanical properties with a transverse-to-longitudinal tensile modulus ratio of 1.62, closely matching that of native abdominal wall tissue (1.60). Collagen, as the key biological macromolecule, serves a dual function. Under mechanical loading, collagen generates high current and low voltage through its ionic piezoelectric effect, and in vitro cell assays confirmed that this signal promotes fibroblast proliferation and migration. Additionally, the dense surface structure of collagen acts as a physical barrier, reducing postoperative intra-abdominal adhesions in a rat model. In vivo evaluations further demonstrated that the patch promotes collagen deposition, attenuates inflammatory responses, and stimulates angiogenesis and myofibroblast activation. This collagen-based patch integrates mechanical anisotropy, piezoelectric bioactivity, and anti-adhesion functionality, offering a promising strategy for abdominal wall defect repair with potential for clinical translation.",
-      "journal": "International journal of biological macromolecules",
-      "issn": "1879-0003",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Zhai W",
-        "Guo W",
-        "Wang A",
-        "Huang B",
-        "Tian Y",
-        "Zhang H",
-        "Zhu X",
-        "Song W",
-        "Ren L"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publicationDate": "2026 Jun 22",
-      "year": "2026",
-      "doi": "10.1016/j.ijbiomac.2026.153060",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42331172/",
-      "topics": [
-        "Prevention",
-        "Biomaterials",
-        "Mechanism",
-        "Surgery",
-        "Animal Study",
         "Clinical Study"
       ]
     },
