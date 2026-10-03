@@ -1,9 +1,44 @@
 {
-  "updatedAt": "2026-10-02T01:36:56+00:00",
+  "updatedAt": "2026-10-03T01:06:16+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
   "articles": [
+    {
+      "pmid": "42748887",
+      "title": "Stepwise surface engineering of polypropylene mesh with metal-phenolic-polysaccharide synergistically promoting abdominal wall repair.",
+      "abstract": "Polypropylene (PP) mesh is widely used in abdominal wall repair, yet its clinical application remains challenged by postoperative peritoneal adhesion, prosthetic infection, and insufficient tissue integration. To address these limitations simultaneously, we developed a multifunctional PP mesh (P-TACuPLC) through a stepwise surface engineering strategy: tannic acid (TA) and copper ions (Cu2+) were first co-deposited onto PP via metal-phenolic coordination, followed by sequential grafting of ε-polylysine (ε-PL) and oxidized carboxymethyl cellulose (OCMC). Successful multilayer construction was confirmed by ATR-FTIR, XPS, SEM/EDS, and water contact angle measurements, while tensile testing verified that mechanical integrity was preserved. In vitro studies demonstrated that P-TACuPLC achieved antibacterial rates exceeding 90% against both E. coli and S. aureus., and maintained cell viability above 90%. In a rat peritoneal defect model, P-TACuPLC markedly reduced adhesion area and tenacity scores relative to bare PP mesh, and significantly suppressed systemic inflammatory cytokines (TNF-α and IL-6). Furthermore, the sustained release of Cu2+ synergistically upregulates the expression of VEGF and CD31, promoting neovascularization. On day 30, VEGF expression is appropriately downregulated, whereas CD31 maintains a high expression level, which is indicative of ordered tissue remodeling and neoperitoneum formation. Mechanistically, the OCMC surface layer functions as both a physical barrier and a hydration shield to prevent protein adsorption, while progressive hydrolysis of the Schiff base linkage permits subsequent tissue integration. This work presents a rationally designed, multifunctional hernia mesh that concurrently achieves anti-adhesion, anti-infective, and pro-regenerative performance, offering a promising strategy for safer abdominal wall repair.",
+      "journal": "Biomaterials advances",
+      "issn": "2772-9508",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Hu W",
+        "Jiang N",
+        "Li Q",
+        "Lu Q",
+        "Tang P",
+        "Tang Z",
+        "Zhang T"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2027 Jan",
+      "year": "2027",
+      "doi": "10.1016/j.bioadv.2026.215181",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42748887/",
+      "topics": [
+        "Prevention",
+        "Animal Study",
+        "Clinical Study"
+      ]
+    },
     {
       "pmid": "42430828",
       "title": "Zwitterionic polymer nanocomposite hydrogels with immunoregulation for effectively preventing postoperative abdominal adhesions.",
@@ -299,41 +334,6 @@
         "Mechanism",
         "Surgery",
         "Animal Study"
-      ]
-    },
-    {
-      "pmid": "42748887",
-      "title": "Stepwise surface engineering of polypropylene mesh with metal-phenolic-polysaccharide synergistically promoting abdominal wall repair.",
-      "abstract": "Polypropylene (PP) mesh is widely used in abdominal wall repair, yet its clinical application remains challenged by postoperative peritoneal adhesion, prosthetic infection, and insufficient tissue integration. To address these limitations simultaneously, we developed a multifunctional PP mesh (P-TACuPLC) through a stepwise surface engineering strategy: tannic acid (TA) and copper ions (Cu2+) were first co-deposited onto PP via metal-phenolic coordination, followed by sequential grafting of ε-polylysine (ε-PL) and oxidized carboxymethyl cellulose (OCMC). Successful multilayer construction was confirmed by ATR-FTIR, XPS, SEM/EDS, and water contact angle measurements, while tensile testing verified that mechanical integrity was preserved. In vitro studies demonstrated that P-TACuPLC achieved antibacterial rates exceeding 90% against both E. coli and S. aureus., and maintained cell viability above 90%. In a rat peritoneal defect model, P-TACuPLC markedly reduced adhesion area and tenacity scores relative to bare PP mesh, and significantly suppressed systemic inflammatory cytokines (TNF-α and IL-6). Furthermore, the sustained release of Cu2+ synergistically upregulates the expression of VEGF and CD31, promoting neovascularization. On day 30, VEGF expression is appropriately downregulated, whereas CD31 maintains a high expression level, which is indicative of ordered tissue remodeling and neoperitoneum formation. Mechanistically, the OCMC surface layer functions as both a physical barrier and a hydration shield to prevent protein adsorption, while progressive hydrolysis of the Schiff base linkage permits subsequent tissue integration. This work presents a rationally designed, multifunctional hernia mesh that concurrently achieves anti-adhesion, anti-infective, and pro-regenerative performance, offering a promising strategy for safer abdominal wall repair.",
-      "journal": "Biomaterials advances",
-      "issn": "2772-9508",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Hu W",
-        "Jiang N",
-        "Li Q",
-        "Lu Q",
-        "Tang P",
-        "Tang Z",
-        "Zhang T"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publicationDate": "2026 Sep 14",
-      "year": "2026",
-      "doi": "10.1016/j.bioadv.2026.215181",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42748887/",
-      "topics": [
-        "Prevention",
-        "Animal Study",
-        "Clinical Study"
       ]
     },
     {
