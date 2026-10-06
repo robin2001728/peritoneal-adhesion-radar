@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T00:49:00+00:00",
+  "updatedAt": "2026-10-06T02:13:03+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -107,6 +107,46 @@
       "doi": "10.1080/01443615.2026.2697492",
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42472477/",
       "topics": [
+        "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "42830442",
+      "title": "Four-Month Evaluation of PVA-Coated Polypropylene Meshes After Laparoscopic Intraperitoneal Implantation in an Exploratory Porcine Abdominal-Wall Defect Model.",
+      "abstract": "Postoperative intra-abdominal adhesion remains a major limitation of intraperitoneal polypropylene (PP) mesh. We evaluated three poly(vinyl alcohol) (PVA)-coated PP meshes-PVA-PP, rapamycin-loaded liposome-decorated PVA-PP (RPM@LPS/PVA-PP), and the corresponding NaHCO3-containing formulation [RPM@LPS(NaHCO3)/PVA-PP]-in a four-month exploratory laparoscopic Bama miniature-pig study. Two pigs received all four formulations at anatomically separated, randomized abdominal-wall sites, yielding 12 implantation sites in total and three site-level observations per formulation. Gross adhesion, abdominal-wall tissue-mesh mechanics, histology, collagen composition, immunohistochemistry, and multiplex immunofluorescence were assessed. Unmodified PP produced dense visceral attachment at all three implantation sites (mean site-level adhesion score, 4.00), whereas the mean scores for PVA-PP, RPM@LPS/PVA-PP, and RPM@LPS(NaHCO3)/PVA-PP were 0.50, 0.33, and 0.17, respectively. Adhesion area showed the same descriptive ordering. Mean abdominal-wall tissue-mesh lap-shear and peel strengths were also lowest with RPM@LPS(NaHCO3)/PVA-PP (0.0091 MPa and 0.1766 N mm-1, respectively) compared with PP (0.0500 MPa and 0.7823 N mm-1), indicating reduced host-wall integration rather than direct mechanical confirmation of weaker visceral adhesion. Modified interfaces showed less dense fibrous tissue, lower total and Type I collagen, and a higher Type III collagen fraction. The mean Type I/Type III collagen ratio decreased from 15.38 for PP to 2.27 for RPM@LPS(NaHCO3)/PVA-PP. Lower IL-6-, TNF-α-, α-SMA-, CD31-, CD68-, and iNOS-associated signals, together with a higher CD206-positive/CD68-positive area ratio, accompanied these changes. These exploratory two-animal findings show a descriptive association between the use of PVA-coated PP meshes and reduced chronic visceral adhesion, while identifying host-wall integration as a necessary safety consideration.",
+      "journal": "Journal of biomedical materials research. Part B, Applied biomaterials",
+      "issn": "1552-4981",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Li R",
+        "Wei D",
+        "Pan X",
+        "Chen A",
+        "Liu T",
+        "Jing F",
+        "Tan X",
+        "Chen Y",
+        "Su T",
+        "Li J",
+        "Zhu L",
+        "Zhang Z",
+        "Zhang T"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Oct",
+      "year": "2026",
+      "doi": "10.1002/jbm.b.70162",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42830442/",
+      "topics": [
+        "Surgery",
         "Clinical Study"
       ]
     },
@@ -4272,40 +4312,6 @@
       "topics": [
         "Prevention",
         "Mechanism",
-        "Surgery",
-        "Animal Study",
-        "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "41354373",
-      "title": "Photo-crosslinked carboxymethyl cellulose/collagen hydrogel-infused mesh for preventing postoperative pelvic adhesions in a rat model.",
-      "abstract": "Postoperative adhesion formation remains a critical challenge in abdominal and pelvic surgeries involving mesh implantation. In this study, we developed an anti-adhesion hydrogel by photo-crosslinking methacrylated carboxymethyl cellulose (CMCMA) with maleated collagen (ColME), which was infused into surgical meshes for anti-adhesion. The CMCMA/ColME hydrogel exhibited shear-thinning behavior, high water content, and tunable mechanical properties, as well as good cytocompatibility. In a rat cecal abrasion model, the hydrogel reduced intra-abdominal adhesion scores to 0 compared to untreated group 3 ± 2.07 (p < 0.05). When applied to surgical polypropylene mesh in a rat pelvic implantation model, the hydrogel-infused mesh demonstrated significantly lower adhesion scores (mean score 0.17 ± 0.41 vs. 4 ± 0.76, p < 0.001) and minimal tissue inflammatory. Histological and immunohistochemical analyses revealed diminished collagen deposition and macrophage infiltration around the hydrogel-infused mesh. These findings indicate that the CMCMA/ColME hydrogel provides an effective barrier to prevent postoperative adhesions, with high biocompatibility and potential clinical applicability in abdominal and pelvic repair procedures.",
-      "journal": "International journal of biological macromolecules",
-      "issn": "1879-0003",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Chang WC",
-        "Chang CC",
-        "Chung RJ",
-        "Tsai WB"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publicationDate": "2026 Jan",
-      "year": "2026",
-      "doi": "10.1016/j.ijbiomac.2025.149413",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41354373/",
-      "topics": [
-        "Prevention",
-        "Biomaterials",
         "Surgery",
         "Animal Study",
         "Clinical Study"
