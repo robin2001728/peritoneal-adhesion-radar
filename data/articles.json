@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T01:27:26+00:00",
+  "updatedAt": "2026-10-08T01:50:42+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -108,6 +108,38 @@
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42472477/",
       "topics": [
         "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "42841898",
+      "title": "Comparison of intra-abdominal adhesions formation following implantation of synthetic, biosynthetic, and biologic meshes in a rat model.",
+      "abstract": "Intra-abdominal adhesions remain a significant challenge in incisional hernia repair, often resulting in complications such as bowel obstruction and chronic pain. Although various prosthetic meshes have been developed, their comparative adhesion profiles have not been fully elucidated. This experimental study aimed to compare the severity of intra-abdominal adhesions and the associated histopathological responses induced by synthetic, biosynthetic, biological, and chemically treated meshes in a standardized rat model. Fifty Wistar albino rats were randomly assigned to five groups (n=10 each): control, polypropylene mesh (Prolene®), polypropylene mesh impregnated with tissue adhesive (Tisseel®), dual mesh (Gore® DualMesh®), and biological mesh (Permacol®). A standardized 2×2 cm full-thickness abdominal wall defect was created in each animal, followed by intraperitoneal mesh implantation. On post-operative day 30, macroscopic adhesions were assessed using the Modified Diamond Scale. Histopathological evaluation included grading of fibrosis, inflammation, vascular proliferation, and giant cell reaction. Statistical analysis was performed using the Kruskal-Wallis test and post hoc multiple comparison analyses. The Prolene mesh group demonstrated the highest adhesion severity (mean Modified Diamond score: 2.80±1.23), which was significantly greater than that observed in the biological mesh (p=0.010), dual mesh (p=0.002), and tissue adhesive-impregnated Prolene groups (p=0.033). Fibrosis and inflammation were also most pronounced in the Prolene and dual mesh groups, whereas the biological mesh group exhibited milder responses (fibrosis p=0.028; inflammation p=0.033 compared to Prolene). Vascular proliferation and giant cell counts were significantly lower in the biological mesh group (p=0.004 and p<0.001, respectively). Biological and dual meshes, as well as tissue adhesivetreated meshes, were associated with significantly reduced adhesion formation and milder histopathological responses compared to untreated polypropylene mesh. Although no material completely prevented adhesion formation, low-porosity meshes and anti-adhesive strategies appear promising for reducing adhesion-related morbidity in intraperitoneal hernia repair. Further studies are warranted to confirm these findings and optimize mesh selection.",
+      "journal": "Ulusal travma ve acil cerrahi dergisi = Turkish journal of trauma & emergency surgery : TJTES",
+      "issn": "1307-7945",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Oray Ş",
+        "Çakmak A"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Comparative Study"
+      ],
+      "publicationDate": "2026 Oct",
+      "year": "2026",
+      "doi": "10.14744/tjtes.2026.87933",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42841898/",
+      "topics": [
+        "Prevention",
+        "Mechanism",
+        "Surgery",
+        "Animal Study"
       ]
     },
     {
@@ -4273,47 +4305,6 @@
       "topics": [
         "Mechanism",
         "Surgery",
-        "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "41401675",
-      "title": "Impact of Pirfenidone Administration Routes on Colon Anastomosis and Healing in Rats.",
-      "abstract": "Anastomotic strictures are a prevalent complication in colorectal surgery. This study aimed to investigate the antifibrotic effects of pirfenidone on colorectal anastomotic stenosis, abdominal wall wound healing, and adhesion formation in a rat model by comparing various routes of administration (intraperitoneal, oral, and rectal). Forty female Wistar Albino rats were randomly allocated to four groups: control, intraperitoneal pirfenidone administration (IAP), oral pirfenidone administration, and rectal pirfenidone administration. Colonic anastomosis was performed followed by pirfenidone administration for 14 d. This study evaluated burst pressure, histopathological parameters, immunohistochemical analyses, and molecular analyses of transforming growth factor-β, vascular endothelial growth factor-A, and fibroblast growth factor-2 expression. Burst pressure increased significantly across all treatment groups, with IAP and rectal pirfenidone administration demonstrating a three-fold increase compared with the control. Histopathological analysis revealed enhanced inflammatory cell infiltration, fibroblastic activity, collagen deposition, and neoangiogenesis in the treatment groups. Transforming growth factor-βexpression increased in all treatment groups, whereas vascular endothelial growth factor-A and fibroblast growth factor-2 expressions decreased. Intra-abdominal adhesions decreased across all treatment groups, with IAP exhibiting the most substantial reduction. Anastomosis width increased in all treatment groups, with oral pirfenidone administration demonstrating the widest anastomosis. Pirfenidone exhibited a significant antifibrotic effect by preventing colorectal anastomotic stenosis, reducing intra-abdominal adhesions, and promoting optimal wound healing. Oral administration resulted in the widest anastomotic lumen, suggesting its potential as the preferred route for clinical applications. Further research is necessary to elucidate the long-term impact of pirfenidone on anastomotic healing and optimize its therapeutic potential.",
-      "journal": "The Journal of surgical research",
-      "issn": "1095-8673",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Duran A",
-        "Çay F",
-        "Hacıoğlu N",
-        "Tokay E",
-        "Köçkar F",
-        "Altun E",
-        "Şahin AG",
-        "Pülat H",
-        "Duran AÇ"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Comparative Study",
-        "Research Support, Non-U.S. Gov't"
-      ],
-      "publicationDate": "2026 Jan",
-      "year": "2026",
-      "doi": "10.1016/j.jss.2025.11.050",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41401675/",
-      "topics": [
-        "Prevention",
-        "Mechanism",
-        "Surgery",
-        "Animal Study",
         "Clinical Study"
       ]
     }
