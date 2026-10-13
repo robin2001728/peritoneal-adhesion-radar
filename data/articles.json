@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T01:14:19+00:00",
+  "updatedAt": "2026-10-13T02:59:28+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -107,6 +107,40 @@
       "doi": "10.1080/01443615.2026.2697492",
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42472477/",
       "topics": [
+        "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "42861479",
+      "title": "Clinical and Sonographic Features of Neonatal Ovarian Cysts With Autoamputation.",
+      "abstract": "Autoamputation is a rare but severe complication of neonatal ovarian cysts. This case series describes the clinical, sonographic, and pathological characteristics of neonatal ovarian cysts that progressed to autoamputation, compared with those that did not, based on a retrospective review of 19 cysts. We aim to help clinicians suspect autoamputation when managing complex neonatal ovarian cysts. Medical records of 18 neonates (19 ovarian cysts) treated at two medical centers between January 2012 and December 2023 were reviewed. All cysts appeared complex on postnatal ultrasonography. We documented prenatal and postnatal sonographic features (cyst size, solid components, septations, fluid-debris levels, calcification), timing of examinations, intraoperative findings (adhesions, autoamputation), and pathology results. Descriptive statistics and exploratory comparisons between autoamputation (n = 9 cysts) and non-autoamputation (n = 10 cysts) groups were performed, without claims of predictive modeling. Of the 19 complex ovarian cysts, 9 (47.3%) were confirmed autoamputated at surgery. The autoamputation group showed a longer median interval from first complex features to surgery (68 vs. 21.5 days) and an older age at last postnatal ultrasound (11 vs. 1 days). Intra-abdominal adhesions were observed in 66.7% of autoamputation cases versus 10% of non-autoamputation cases. Follicles were absent in all autoamputated cysts on pathology but present in 90% of non-autoamputated cysts. Sonographic findings evolved over time: fluid-debris levels became the predominant feature with increasing duration, while calcification appeared late (22.2% in the autoamputation group). Autoamputation of neonatal ovarian cysts was associated with a longer interval from first complex features to surgery, absence of follicles on pathology, and frequent intra-abdominal adhesions. Sonographic features evolved over time, with fluid-debris levels becoming common and calcification appearing late but with poor sonographic sensitivity. These observations may help clinicians better understand the evolution of complex neonatal ovarian cysts associated with autoamputation; however, the diagnostic and predictive value of these findings requires further validation.",
+      "journal": "Journal of clinical ultrasound : JCU",
+      "issn": "1097-0096",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Yuanlong F",
+        "Parlak A",
+        "Dan C",
+        "Rui D",
+        "Yan Z",
+        "Wuping G",
+        "Shangjie X"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Oct 12",
+      "year": "2026",
+      "doi": "10.1002/jcu.70389",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42861479/",
+      "topics": [
+        "Surgery",
         "Clinical Study"
       ]
     },
@@ -4267,44 +4301,6 @@
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41485855/",
       "topics": [
         "Prevention",
-        "Surgery",
-        "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "41447843",
-      "title": "Unveiling the active component of HuoXueTongFu formula: Emodin attenuates postoperative intra-abdominal adhesion by inhibiting HIF-1α-mediated glycolytic reprogramming.",
-      "abstract": "Postoperative intra-abdominal adhesion (IA), driven by hypoxia, remains a global surgical challenge due to the lack of effective therapeutic interventions. Although the herbal HuoXueTongFu Formula (HXTF) has positive effects on adhesion formation, its primary bioactive constituent and the underlying mechanism have not been fully elucidated. This study aimed to identify the main bioactive constituents of HXTF, elucidate its therapeutic mechanism against IA, and provide a foundation for clinical application. Time-course RNA sequencing with Mfuzz analysis was employed to determine the hypoxic duration-dependent transcriptional modules. Molecular docking and dynamics simulations were used to identify the major constituent of HXTF that bound to HIF-1α. Then, magnetic beads pull-down, co-immunoprecipitation, immunofluorescence, extracellular acidification rate (ECAR) measurements, and lactate content analysis were performed to explore the critical roles of emodin (a bioactive constituent of HXTF) on hypoxia-induced HMrSV5 (human peritoneal mesothelial) cells. With IA rodent models, adhesion scoring, H&E with Masson staining, and western blotting were applied to validate the therapeutic effect of emodin on IA. Mfuzz clustering analysis revealed time-dependent glycolytic reprogramming in hypoxic HMrSV5 cells, with HIF-1α activation peaking at 6 hours. Molecular docking and dynamics simulations identified that emodin exhibited the highest and stable binding affinity to HIF-1α. This effect was mediated by emodin's inhibition of HIF-1α nuclear translocation and disruption of its dimerization with ARNT, as evidenced by magnetic beads pull-down, co-immunoprecipitation, and immunofluorescence assays. ECAR measurements and lactate content analysis in vitro showed that emodin effectively downregulated HIF-1α-mediated transcriptional activation of glycolysis gene expression (e.g., GLUT3 and PFKFB3) and decreased lactate content. Moreover, emodin alleviated the intra-abdominal adhesion formation in vivo by reducing the fibrous band formation and collagen deposition, which was achieved by suppression of the HIF-1α-mediated glycolytic reprogramming. Emodin could reduce IA formation by inhibiting HIF-1α-mediated glycolytic reprogramming. This effect was achieved through direct binding with HIF-1α, which subsequently inhibited its nuclear translocation and disrupted its dimerization with ARNT, thereby downregulating HIF-1α-mediated transcriptional activation of glycolytic gene expression (e.g., GLUT3 and PFKFB3) and reducing lactate content. These findings suggest that emodin may be a promising therapeutic candidate to attenuate IA.",
-      "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
-      "issn": "1618-095X",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Chen Y",
-        "Miao J",
-        "Yang L",
-        "Fang Y",
-        "Lian Y",
-        "Li G",
-        "Kong Z",
-        "Zhang L",
-        "Zeng L",
-        "Bian Y"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publicationDate": "2026 Jan",
-      "year": "2026",
-      "doi": "10.1016/j.phymed.2025.157719",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41447843/",
-      "topics": [
-        "Mechanism",
         "Surgery",
         "Clinical Study"
       ]
