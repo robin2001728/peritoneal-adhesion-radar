@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T00:18:38+00:00",
+  "updatedAt": "2026-10-17T00:21:58+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -369,6 +369,51 @@
         "Biomaterials",
         "Mechanism",
         "Surgery"
+      ]
+    },
+    {
+      "pmid": "42883959",
+      "title": "Multimodal Evaluation of the Anti-Adhesion Effects of Heparin-Loaded PLGA/HA Nanofiber Membranes in an Intraperitoneal Adhesion Model in Rats.",
+      "abstract": "This study aimed to produce and characterize nanofiber membranes (PLGA/HA@LMWH) containing Poly(lactic-co-glycolic acid)/Hyaluronic Acid (PLGA/HA) immobilized with low-molecular-weight heparin (LMWH), and to investigate their physical and chemical effects in preventing intraabdominal adhesions in a rat model using multidisciplinary methods. Forty female Wistar Albino rats were divided into four groups (n = 10). Cecal abrasions were induced in three groups: treated with PLGA/HA membrane, PLGA/HA@LMWH membrane, and 0.9% NaCl (SS). The fourth group underwent laparotomy only. On day 21, rats were sacrificed and evaluated macroscopically, histopathologically, immunohistochemically, and biochemically. Macroscopic adhesion, inflammation, fibrosis, neovascularization, collagen scores, and TGF-β1 expression were found to be high in the SS and PLGA/HA groups, while a significant decrease (p < 0.05-0.01) was detected in all of these values in the PLGA/HA@LMWH group. NF-κB activation was significantly decreased in the PLGA/HA and especially the PLGA/HA@LMWH groups compared to the SS group (p < 0.05). In addition, apoptosis was suppressed in the PLGA/HA@LMWH group, with increased Bcl-2 and decreased cleaved caspase-3. The PLGA/HA@LMWH membrane reduced peritoneal adhesions by suppressing inflammation, fibrosis, neovascularization, and collagen deposition, lowering TGF-β1 expression and NF-κB and p-NF-κB levels, and suppressing apoptosis. However, large-scale studies are needed for clinical use.",
+      "journal": "International journal of molecular sciences",
+      "issn": "1422-0067",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Karatas T",
+        "Gokturk N",
+        "Karadas Gedik K",
+        "Karabulut B",
+        "Bilge Tasdemir D",
+        "Turkoz MA",
+        "Ulu A",
+        "Turkoz Y",
+        "Timurkaan N",
+        "Dogan T",
+        "Kaya A",
+        "Selcuk EB",
+        "Karatas M",
+        "Budak M",
+        "Ates B"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Sep 29",
+      "year": "2026",
+      "doi": "10.3390/ijms27198715",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42883959/",
+      "topics": [
+        "Prevention",
+        "Biomaterials",
+        "Mechanism",
+        "Animal Study",
+        "Clinical Study"
       ]
     },
     {
@@ -4270,37 +4315,6 @@
       "doi": "10.70352/scrj.cr.25-0653",
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41778170/",
       "topics": [
-        "Surgery",
-        "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "41485855",
-      "title": "Uterine closure after cesarean delivery: surgical technique, biological rationale, and clinical implications.",
-      "abstract": "Normal uterine function depends on cyclical regeneration and the capacity to sustain pregnancy. A cesarean incision represents an injury to this remarkable organ. Although the uterus possesses exceptional healing potential, cesarean delivery increases the risk of secondary infertility, pelvic pain, uterine rupture, and abnormal placentation in subsequent pregnancies. The two most important determinants of successful hysterotomy healing after cesarean delivery are the location of the incision and the surgical technique used for closure. The anatomic site of entry-whether the corpus, lower uterine segment, or cervix-defines the tissue composition, vascularity, and contractility at the wound margins, which in turn influence how the scar remodels and withstands subsequent pregnancies. Surgical technique is also important. A robust body of experimental and clinical evidence demonstrates that restoring anatomic integrity by reapproximating uterine layers while excluding the endometrium produces stronger scars and reduces late complications. The rationale for excluding the endometrium is to prevent displacement of endometrial tissue into the myometrium and to avoid mucosal tearing against a foreign body (i.e. suture material), both of which predispose to defective healing. When the endometrium is incorporated, healing is often impaired, leading to niches or isthmoceles, adenomyosis, and endometriosis at the scar site. Over time, these defects have been recognized as contributors to abnormal bleeding, pelvic pain, infertility, uterine rupture, and placenta accreta spectrum disorders. Despite this evidence, single-layer closures that incorporate endometrium became widely adopted because of their speed and simplicity, while their long-term sequels were initially underappreciated. This has prompted renewed scrutiny of closure techniques, including comparisons of single-layer vs double-layer closure, locking vs nonlocking sutures, type of sutures, and the direction of suture. Collectively, the data show that optimal closure respects uterine anatomy, restores the natural alignment of tissues, and achieves hemostasis without compromising perfusion or strangulating tissues. Building on these principles, we herein describe a refined 3-layer closure. The first layer approximates decidua and junctional myometrium while excluding surface endometrium to prevent tissue entrapment and bacterial contamination. The second layer restores anatomic wall integrity by reapproximating the bulk of the myometrium, thereby reinforcing strength and distributing tension across the scar. The third layer reapproximates superficial myometrium and serosa, smoothing the uterine surface and reducing adhesions. This technique is not simply a return to traditional double-layer methods or an extension of single-layer practice, but rather a refinement that integrates lessons from visceral surgery and contemporary obstetric data. Its rationale is to restore anatomy, secure hemostasis without ischemia, and preserve long-term uterine function. While short-term safety appears comparable across closure methods, evidence increasingly indicates that long-term reproductive outcomes depend on how closure respects tissue biology. We argue that appropriate repair is more important than a fast repair: meticulous restoration of uterine anatomy should take precedence over operative speed. The enduring success of a hysterotomy repair depends on the surgical technique employed, as it directly affects women's future reproductive health.",
-      "journal": "American journal of obstetrics and gynecology",
-      "issn": "1097-6868",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Bujold E",
-        "Romero R"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publicationDate": "2026 Jan",
-      "year": "2026",
-      "doi": "10.1016/j.ajog.2025.10.007",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41485855/",
-      "topics": [
-        "Prevention",
         "Surgery",
         "Clinical Study"
       ]
