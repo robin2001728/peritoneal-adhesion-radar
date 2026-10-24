@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T00:35:10+00:00",
+  "updatedAt": "2026-10-24T00:33:16+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -4215,6 +4215,48 @@
       ]
     },
     {
+      "pmid": "42908568",
+      "title": "Thoracoscopic Esophagectomy for Metachronous Esophageal Cancer after Heller-Dor Surgery for Achalasia with Marked Esophageal Dilatation: A Case Report.",
+      "abstract": "Achalasia is associated with an increased risk of esophageal squamous cell carcinoma even after definitive surgical treatment. Heller-Dor surgery is an established surgical treatment for achalasia; however, marked esophageal dilatation may persist despite successful symptom control and pose technical challenges during subsequent esophagectomy. A 73-year-old man with a history of Heller-Dor surgery for achalasia and prior endoscopic submucosal dissection (ESD) for esophageal squamous cell carcinoma developed a metachronous lesion at a different esophageal site. Histopathological examination after ESD demonstrated deep submucosal and vascular invasion, warranting additional curative treatment. Preoperative imaging showed predominant upper thoracic esophageal dilatation with a maximum diameter of 56 mm, whereas gastric deformity was minimal. The patient underwent prone-position video-assisted thoracoscopic subtotal esophagectomy with 3-field lymphadenectomy and retrosternal gastric conduit reconstruction. Intraoperatively, venous engorgement required meticulous dissection, while marked upper thoracic esophageal dilatation restricted the operative workspace around the left recurrent laryngeal nerve. An internal organ retractor provided stable esophageal traction with flexible repositioning of the traction point, facilitating adequate exposure. Despite intra-abdominal adhesions from the previous surgery, gastric conduit reconstruction was successfully completed as anticipated from the preoperative assessment of gastric anatomy. Final histopathological examination revealed no residual carcinoma or lymph node metastasis. The postoperative course was uneventful, and the patient remained recurrence-free at 2 years. Long-term endoscopic surveillance remains important after surgical treatment for achalasia. In patients requiring subsequent esophagectomy, preoperative assessment of the degree and distribution of esophageal dilatation may help anticipate technical difficulty, while appropriate repositionable traction may facilitate operative exposure. Careful assessment of gastric anatomy may also help determine the feasibility of gastric conduit reconstruction after Heller-Dor surgery.",
+      "journal": "Surgical case reports",
+      "issn": "2198-7793",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "An B",
+        "Abe T",
+        "Oe Y",
+        "Ban H",
+        "Imagami T",
+        "Sogawa A",
+        "Takao N",
+        "Matsunaga T",
+        "Mizumoto A",
+        "Takemura S",
+        "Hirata A",
+        "Kawaguchi T",
+        "Miyake T",
+        "Togawa T"
+      ],
+      "publicationTypes": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "publicationDate": "2026",
+      "year": "2026",
+      "doi": "10.70352/scrj.cr.26-0566",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42908568/",
+      "topics": [
+        "Surgery",
+        "Clinical Study"
+      ]
+    },
+    {
       "pmid": "42480988",
       "title": "Is there any effect of lycopene's preventing peritoneal adhesion formation in rats: an experimental study.",
       "abstract": "Effects of lycopene in prevention of intra-abdominal adhesion formation in a rat model. Twenty-eight rats were divided into four groups consisting of 7 rats each. Group 1 (only adhesion), Group 2 (adhesion + corn oil), Group 3 (adhesion + 5 mg/kg lycopene), Group 4 (adhesion + 20 mg/kg lycopene). Adhesion score, histopathology, vascular endothelial growth factor (VEGF) H-score, malondialdehyde (MDA), total antioxidant capacity, and VEGF values were measured. There were significantly higher extent, severity, degree, and total adhesion scores in the control and corn-oil group than in the low lycopene and high lycopene group. VEGF H-scores were significantly lower in lycopene-given groups, regardless of dose. When the low lycopene and high lycopene groups were compared in terms of anti-VEGF H-score, no significant difference was observed. Malondialdehyde levels were statistically significantly lower in the control and high lycopene group. Biochemical parameters, histopathological examination, and adhesion scoring revealed that lycopene significantly reduced adhesion formation.",
@@ -4279,44 +4321,6 @@
       "topics": [
         "Prevention",
         "Surgery"
-      ]
-    },
-    {
-      "pmid": "41778170",
-      "title": "Laparoscopic Resection for Rectal Cancer in a Centenarian: A Case Report Highlighting the Importance of Functional Independence over Chronological Age.",
-      "abstract": "Laparoscopic resection for rectal cancer in a centenarian is extraordinarily rare, with only a few cases of elective curative surgery reported worldwide. As the global population ages, the number of centenarians with malignancies is increasing; however, surgical intervention in this age group remains controversial due to frailty and limited physiological reserve. We present the case of a 100-year-old female with Stage IIIB rectal cancer who successfully underwent elective laparoscopic low anterior resection. Comprehensive preoperative geriatric assessments-comprising the Geriatric-8 (G8), instrumental activities of daily living (IADL), and EuroQol-5 dimensions (EQ-5D and EQ-VAS)-demonstrated excellent functional independence and physiological fitness. Despite severe intra-abdominal adhesions from a prior laparotomy, meticulous laparoscopic adhesiolysis and tumor-specific mesorectal excision were achieved without complications. Twelve lymph nodes were retrieved, with one positive node, and all resection margins were negative. The patient recovered uneventfully, retained postoperative independence, and was discharged on POD 12. This case highlights that functional and biological fitness-rather than chronological age-should guide surgical decision-making in the oldest-old population. It also underscores the feasibility and safety of minimally invasive curative surgery for selected centenarians when supported by detailed geriatric evaluation and multidisciplinary planning.",
-      "journal": "Surgical case reports",
-      "issn": "2198-7793",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Tokinaga A",
-        "Teraishi F",
-        "Onoda N",
-        "Omoto K",
-        "Takahashi R",
-        "Okabayashi H",
-        "Utsumi M",
-        "Miyaso H",
-        "Otsuka S",
-        "Inagaki M"
-      ],
-      "publicationTypes": [
-        "Case Reports",
-        "Journal Article"
-      ],
-      "publicationDate": "2026",
-      "year": "2026",
-      "doi": "10.70352/scrj.cr.25-0653",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41778170/",
-      "topics": [
-        "Surgery",
-        "Clinical Study"
       ]
     }
   ]
