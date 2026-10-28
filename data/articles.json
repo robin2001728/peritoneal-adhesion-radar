@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T01:25:16+00:00",
+  "updatedAt": "2026-10-28T01:13:20+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -107,6 +107,43 @@
       "doi": "10.1080/01443615.2026.2697492",
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42472477/",
       "topics": [
+        "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "42941610",
+      "title": "Implementation of a Robotic Colorectal Surgery Program: Early Outcomes from a Tertiary Referral Center.",
+      "abstract": "Background: Robotic-assisted colorectal surgery is increasingly adopted; however, evidence regarding outcomes during the early implementation phase remains limited. This study aimed to evaluate the feasibility and short-term outcomes of a newly established robotic colorectal surgery program at a tertiary referral center. Methods: All consecutive patients undergoing robotic colorectal resection between November 2019 and February 2026 were prospectively recorded and retrospectively analyzed. Perioperative outcomes, conversion rates, postoperative complications, in-hospital mortality, and histopathological results were assessed. Results: A total of 177 patients were included, with a progressive increase in surgical volume over time. Most procedures were performed for oncological indications (159, 90%), while 18 (10%) were performed for benign diseases. The most frequent procedures were right hemicolectomy (45%), left hemicolectomy (32%), and low anterior rectal resection (23%). Mean operative time was 331.1 ± 75.0 min. Conversion to open surgery occurred in 15 patients (8.5%), mainly due to extensive intra-abdominal adhesions, particularly during the early phase of the program. Postoperative complications occurred in 20 patients (11%), while 3 patients (2%) died during hospitalization. Major complications (Clavien-Dindo ≥ III) occurred in 7%, and anastomotic leakage in 3%. Mean hospital stay was 10.1 ± 7.6 days. R0 resection was reported in all cases, with adequate lymph-node retrieval for staging. Conclusions: In this single-center, non-comparative series, robotic colorectal surgery was feasible during program implementation, with acceptable short-term perioperative outcomes. Comparative studies are needed to determine its relative performance compared with laparoscopy.",
+      "journal": "Journal of clinical medicine",
+      "issn": "2077-0383",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Cicioni G",
+        "Iannone I",
+        "Crocetti D",
+        "Miccini M",
+        "Biacchi D",
+        "Spalice E",
+        "Lamazza A",
+        "Marchese M",
+        "Fiori E",
+        "Sapienza P"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Oct 19",
+      "year": "2026",
+      "doi": "10.3390/jcm15208097",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42941610/",
+      "topics": [
+        "Surgery",
         "Clinical Study"
       ]
     },
@@ -4291,36 +4328,6 @@
       "topics": [
         "Prevention",
         "Animal Study"
-      ]
-    },
-    {
-      "pmid": "42419951",
-      "title": "Acute and chronic pain of the scar following caesarean section, visceral pain, and the possible benefits of physiotherapy.",
-      "abstract": "Caesarean section (CS) is one of the most common obstetric surgeries, and the number of CS births has been increasing worldwide. Acute wound pain following a caesarean section can affect the postnatal recovery process, has an impact on the mother's mobility, on the mother-child bonding process, on the quality of breastfeeding, and increases the risk of developing postnatal depression. Chronic pain following CS is related to pain in the scar area (neuropathic pain) and to postoperative intra-abdominal adhesions (visceral pain). Chronic scar and abdominal pain following a caesarean delivery adversely affects a woman's routine daily activities, her psychological state, and motor functions. According to available studies, persistent chronic post-operative pain in the scar area is reported by 10% of women 12 months after caesarean section delivery. Intra-abdominal adhesions are the most common long-term complication associated with caesarean sections and their occurrence is reported in the literature as 24-46% after the first caesarean section and up to 59% after repeated caesarean sections. Currently, there are no unified standards for physiotherapeutic treatment of scars and management of adhesions following a caesarean section delivery. Although scar therapy is generally considered to be effective (aesthetic effect on scar remodeling, reduction in pain intensity, increased elasticity and flexibility of the scar), there is little scientific data in the literature to support this claim. Only a few studies have been published that demonstrate the benefit of physiotherapy in affecting the occurrence of symptoms related to the development of early postoperative adhesions, and studies that deal with approaches leading to the prevention of postoperative adhesions. With regard to the increasing trend of CS births worldwide and in the Czech Republic, and the related rising incidence of acute and chronic post-birth complications caused by CS scarring, it is necessary to create a standardized physiotherapy program focused on the recovery of mothers after a CS birth, including scar care procedures according to evidence-based medicine.",
-      "journal": "Ceska gynekologie",
-      "issn": "1210-7832",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Bajerová M",
-        "Hruban L"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publicationDate": "2026",
-      "year": "2026",
-      "doi": "10.48095/cccg2026232",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42419951/",
-      "topics": [
-        "Prevention",
-        "Surgery"
       ]
     }
   ]
