@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T01:44:33+00:00",
+  "updatedAt": "2026-10-30T01:53:27+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -107,6 +107,44 @@
       "doi": "10.1080/01443615.2026.2697492",
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42472477/",
       "topics": [
+        "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "42950833",
+      "title": "Robotic Living Donor Hepatectomy After Previous Abdominal Surgery: Feasibility in a Carefully Selected Cohort.",
+      "abstract": "BackgroundPrevious abdominal surgery (PAS) complicates open and laparoscopic living donor hepatectomy through intra-abdominal adhesions. Whether a robotic-intended strategy is feasible in donors with prior operations has not been described. A single-center experience in carefully selected donors is described.MethodsAll living donor hepatectomies at a single US center (August 2019 to December 2024) were reviewed. The primary intention-to-treat cohort comprised all 31 robotic-intended cases (13 PAS, 18 No-PAS), and the 28 cases intended for fully robotic completion served as a sensitivity analysis. PAS was classified as upper or lower abdominal. Exploratory comparisons appear as effect estimates with 95% confidence intervals.ResultsRobotic-intended hepatectomy was completed in all 13 PAS donors, 5 with prior upper abdominal surgery. Neither bile leak nor liver failure developed in a PAS donor, and adhesions accounted for no conversion. Blood loss, operative time, and hospital stay did not differ significantly, yet the confidence intervals stayed wide (hospital stay difference 1 day (95% CI -0.5 to 3)), so similarity cannot be established. Ileus affected 6 of 13 PAS donors and clustered in the upper abdominal subgroup, 4 of 5 (80.0%; 95% CI 28.4 to 99.5%); across all 12 events, 11 were Clavien-Dindo grade I.DiscussionAt an experienced center, a robotic-intended strategy proved feasible across varied previous operations. The donors described here were selected, so safety or equivalence cannot be established. Lower abdominal PAS may be managed routinely, whereas upper abdominal PAS calls for selective use in experienced programs together with prospective study.",
+      "journal": "The American surgeon",
+      "issn": "1555-9823",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Hallesy J",
+        "Park AM",
+        "Imai D",
+        "Sambommatsu Y",
+        "Kumaran V",
+        "Saeed M",
+        "Khan AA",
+        "Sharma A",
+        "Cotterell AH",
+        "Bruno DA",
+        "Lee SD"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Oct 28",
+      "year": "2026",
+      "doi": "10.1177/00031348261504333",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42950833/",
+      "topics": [
+        "Surgery",
         "Clinical Study"
       ]
     },
@@ -4291,43 +4329,6 @@
       "topics": [
         "Surgery",
         "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "42480988",
-      "title": "Is there any effect of lycopene's preventing peritoneal adhesion formation in rats: an experimental study.",
-      "abstract": "Effects of lycopene in prevention of intra-abdominal adhesion formation in a rat model. Twenty-eight rats were divided into four groups consisting of 7 rats each. Group 1 (only adhesion), Group 2 (adhesion + corn oil), Group 3 (adhesion + 5 mg/kg lycopene), Group 4 (adhesion + 20 mg/kg lycopene). Adhesion score, histopathology, vascular endothelial growth factor (VEGF) H-score, malondialdehyde (MDA), total antioxidant capacity, and VEGF values were measured. There were significantly higher extent, severity, degree, and total adhesion scores in the control and corn-oil group than in the low lycopene and high lycopene group. VEGF H-scores were significantly lower in lycopene-given groups, regardless of dose. When the low lycopene and high lycopene groups were compared in terms of anti-VEGF H-score, no significant difference was observed. Malondialdehyde levels were statistically significantly lower in the control and high lycopene group. Biochemical parameters, histopathological examination, and adhesion scoring revealed that lycopene significantly reduced adhesion formation.",
-      "journal": "Cirugia y cirujanos",
-      "issn": "2444-054X",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Bilgi A",
-        "Terek MC",
-        "Yiğittürk G",
-        "Taşkıran D",
-        "İlgen O",
-        "Hortu İ",
-        "Yilmaz B",
-        "Kart C",
-        "Avcı F",
-        "Kulhan M"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publicationDate": "2026",
-      "year": "2026",
-      "doi": "10.24875/CIRU.24000434",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42480988/",
-      "topics": [
-        "Prevention",
-        "Animal Study"
       ]
     }
   ]
