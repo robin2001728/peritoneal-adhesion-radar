@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T01:31:35+00:00",
+  "updatedAt": "2026-11-01T01:01:14+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -107,6 +107,43 @@
       "doi": "10.1080/01443615.2026.2697492",
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42472477/",
       "topics": [
+        "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "42962755",
+      "title": "Reoperation Rates and Pain-Related Outcomes Following Hysterectomy in Pathologically Confirmed Endometriosis: Impact of Oophorectomy Status.",
+      "abstract": "To evaluate how oophorectomy during a hysterectomy for endometriosis impacts reoperation rates and pain-related healthcare services in a cohort of histopathologically confirmed endometriosis cases. In this population-based retrospective cohort study, we included 990 cases of pathologically confirmed endometriosis in people aged 19-50 years who underwent hysterectomy between 2001 and 2016. The primary outcome was reoperation, and secondary outcomes included physician visits as well as filling prescriptions for opioids, oral contraceptive pills (OCP), and endometriosis medications within the 3-12 months after surgery. Kaplan-Meier curves and Cox proportional hazards were used. Compared to hysterectomy with ovarian conservation, hysterectomy with oophorectomy was associated with lower rates of reoperations (19.2% for hysterectomy with ovarian conservation vs 13.2% for hysterectomy with unilateral salpingo-oophorectomy and 4.9% for hysterectomy with bilateral salpingo-oophorectomy; aHR= 0.56, 95%CI= (0.36-0.88) and aHR= 0.20, 95%CI= (0.12-0.35), respectively). Pelvic peritoneal adhesions, recurrence of endometriosis, and endometrioma were the most common reasons for reoperations. No differences were observed between ovarian conservation versus bilateral oophorectomy in terms of physician visits, as well as opioid, OCP, and endometriosis medication dispensations within three to 12 months after surgery. HRT was filled in only 67.2% of those who entered premature surgical menopause CONCLUSION: Undergoing hysterectomy with bilateral salpingo-oophorectomy resulted in a lower rate of reoperation in this cohort of pathologically confirmed endometriosis patients. However, the number of physician visits for endometriosis or pelvic pain, or the rate of pain medication prescriptions, did not suggest an improvement for those who underwent hysterectomy with bilateral salpingo-oophorectomy.",
+      "journal": "Journal of obstetrics and gynaecology Canada : JOGC = Journal d'obstetrique et gynecologie du Canada : JOGC",
+      "issn": "2665-9867",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Salmanpour A",
+        "Kaur P",
+        "Long AJ",
+        "Lukey A",
+        "McAlpine JN",
+        "McRae K",
+        "Allaire C",
+        "Kwon JS",
+        "Yong PJ",
+        "Hanley GE"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Oct 30",
+      "year": "2026",
+      "doi": "10.1016/j.jogc.2026.103562",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42962755/",
+      "topics": [
+        "Surgery",
         "Clinical Study"
       ]
     },
@@ -4284,48 +4321,6 @@
       "year": "2026",
       "doi": "10.3390/children13010072",
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41597080/",
-      "topics": [
-        "Surgery",
-        "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "42908568",
-      "title": "Thoracoscopic Esophagectomy for Metachronous Esophageal Cancer after Heller-Dor Surgery for Achalasia with Marked Esophageal Dilatation: A Case Report.",
-      "abstract": "Achalasia is associated with an increased risk of esophageal squamous cell carcinoma even after definitive surgical treatment. Heller-Dor surgery is an established surgical treatment for achalasia; however, marked esophageal dilatation may persist despite successful symptom control and pose technical challenges during subsequent esophagectomy. A 73-year-old man with a history of Heller-Dor surgery for achalasia and prior endoscopic submucosal dissection (ESD) for esophageal squamous cell carcinoma developed a metachronous lesion at a different esophageal site. Histopathological examination after ESD demonstrated deep submucosal and vascular invasion, warranting additional curative treatment. Preoperative imaging showed predominant upper thoracic esophageal dilatation with a maximum diameter of 56 mm, whereas gastric deformity was minimal. The patient underwent prone-position video-assisted thoracoscopic subtotal esophagectomy with 3-field lymphadenectomy and retrosternal gastric conduit reconstruction. Intraoperatively, venous engorgement required meticulous dissection, while marked upper thoracic esophageal dilatation restricted the operative workspace around the left recurrent laryngeal nerve. An internal organ retractor provided stable esophageal traction with flexible repositioning of the traction point, facilitating adequate exposure. Despite intra-abdominal adhesions from the previous surgery, gastric conduit reconstruction was successfully completed as anticipated from the preoperative assessment of gastric anatomy. Final histopathological examination revealed no residual carcinoma or lymph node metastasis. The postoperative course was uneventful, and the patient remained recurrence-free at 2 years. Long-term endoscopic surveillance remains important after surgical treatment for achalasia. In patients requiring subsequent esophagectomy, preoperative assessment of the degree and distribution of esophageal dilatation may help anticipate technical difficulty, while appropriate repositionable traction may facilitate operative exposure. Careful assessment of gastric anatomy may also help determine the feasibility of gastric conduit reconstruction after Heller-Dor surgery.",
-      "journal": "Surgical case reports",
-      "issn": "2198-7793",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "An B",
-        "Abe T",
-        "Oe Y",
-        "Ban H",
-        "Imagami T",
-        "Sogawa A",
-        "Takao N",
-        "Matsunaga T",
-        "Mizumoto A",
-        "Takemura S",
-        "Hirata A",
-        "Kawaguchi T",
-        "Miyake T",
-        "Togawa T"
-      ],
-      "publicationTypes": [
-        "Case Reports",
-        "Journal Article"
-      ],
-      "publicationDate": "2026",
-      "year": "2026",
-      "doi": "10.70352/scrj.cr.26-0566",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42908568/",
       "topics": [
         "Surgery",
         "Clinical Study"
