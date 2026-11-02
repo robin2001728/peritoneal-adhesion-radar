@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T01:01:14+00:00",
+  "updatedAt": "2026-11-02T01:28:00+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -107,6 +107,41 @@
       "doi": "10.1080/01443615.2026.2697492",
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42472477/",
       "topics": [
+        "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "42966885",
+      "title": "Cesarean Delivery After Multiple Prior Intraperitoneal Surgeries: A Case Report in a Patient With Crohn Disease.",
+      "abstract": "BACKGROUND The mode of delivery in women with inflammatory bowel disease (IBD), including Crohn disease, requires individualized multidisciplinary assessment. Prior abdominal surgery increases the risk of intra-abdominal adhesions and operative complications. The extraperitoneal French Ambulatory Cesarean Section (FAUCS) technique may help avoid peritoneal entry in selected patients with complex surgical histories. This report describes the feasibility and short-term perioperative outcome of FAUCS in a patient with multiple prior intraperitoneal surgeries. Crohn disease is presented as a relevant comorbidity rather than the primary operative indication. CASE REPORT We report the case of a 25-year-old woman with Crohn disease and a history of 5 prior intraperitoneal surgical procedures, including bilateral hemicolectomy, colostomy formation, appendectomy, and adhesiolysis. The pregnancy was achieved through in vitro fertilization and remained uncomplicated, with Crohn disease in sustained clinical remission. No preoperative imaging was performed; the likelihood of adhesions was inferred from multiple laparotomies and previous adhesiolysis. Due to anticipated extensive intra-abdominal adhesions, elective cesarean delivery using the extraperitoneal FAUCS technique was performed under an enhanced recovery after cesarean (ERAC) pathway. A healthy male neonate was delivered at 37 weeks of gestation, weighing 2550 g (Apgar score 10 at 5 minutes). Postoperative recovery was uncomplicated, with early oral intake, mobilization, minimal analgesic requirements, and no postoperative complications. CONCLUSIONS This case documents the feasibility and perioperative outcomes of extraperitoneal FAUCS in a rare scenario involving multiple prior intraperitoneal surgeries and Crohn disease in remission. It is intended to support clinician awareness and case-based learning rather than establish safety or efficacy claims.",
+      "journal": "The American journal of case reports",
+      "issn": "1941-5923",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Wolder D",
+        "Michalska A",
+        "Zakrzewska J",
+        "Kowalski J",
+        "Świercz G",
+        "Hendler I",
+        "Velemir L"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Case Reports"
+      ],
+      "publicationDate": "2026 Nov 01",
+      "year": "2026",
+      "doi": "10.12659/AJCR.953591",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42966885/",
+      "topics": [
+        "Surgery",
         "Clinical Study"
       ]
     },
@@ -4288,39 +4323,6 @@
       "year": "2026",
       "doi": "10.7717/peerj.20551",
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41531816/",
-      "topics": [
-        "Surgery",
-        "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "41597080",
-      "title": "Laparoscopic Ventriculoperitoneal Shunt Insertion Without a Peel-Away Sheath in Children: A Comparison with Conventional Open Surgery.",
-      "abstract": "Background/Objectives: Hydrocephalus is primarily treated with open ventriculoperitoneal shunt (VPS) insertion, but laparoscopy-assisted VPS insertion has emerged as an alternative. This study compared outcomes and complications of laparoscopic versus open VPS insertion without a peel-away sheath in pediatric patients. Methods: A retrospective review was conducted on 121 VPS insertions (2012-2025) at a tertiary pediatric center in Korea. Patients were categorized into laparoscopic (n = 42) and open (n = 79) groups. The laparoscopic technique utilized only standard reusable instruments, without a peel-away sheath. Demographics, surgical parameters, postoperative recovery, and unplanned revision rates were analyzed. A Cox proportional hazards regression model was used to evaluate catheter survival, adjusting for baseline characteristics that differed significantly between the groups. Five-year shunt survival was assessed using Kaplan-Meier survival analysis. Results: The laparoscopic group had more revision cases and previous abdominal surgeries; additionally, intra-abdominal adhesions were more common (52.4% vs. 3.8%), and adhesiolysis was more often performed (9.5% vs. 1.3%). However, no differences were found in total operative time, distal catheter insertion time, or perioperative complications. After adjusting for demographic differences between the groups, Cox regression analysis demonstrated no significant difference in catheter survival. Both short-term (12 months) and long-term (5 years) shunt survival rates were comparable between the groups. Conclusions: Laparoscopic VPS insertion without a peel-away sheath is feasible and safe in pediatric patients, including those with complex surgical histories. It offers favorable recovery and adhesion management outcomes without compromising shunt durability, supporting its use as a practical alternative in resource-limited settings.",
-      "journal": "Children (Basel, Switzerland)",
-      "issn": "2227-9067",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Ryu M",
-        "Kang A",
-        "Kim SH",
-        "Chung JH",
-        "Hong H",
-        "Sung SK"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publicationDate": "2026 Jan 02",
-      "year": "2026",
-      "doi": "10.3390/children13010072",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41597080/",
       "topics": [
         "Surgery",
         "Clinical Study"
