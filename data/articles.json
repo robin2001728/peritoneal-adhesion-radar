@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T02:18:10+00:00",
+  "updatedAt": "2026-11-06T02:16:58+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -250,6 +250,39 @@
       "doi": "10.1177/00031348261504333",
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42950833/",
       "topics": [
+        "Surgery",
+        "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "42985037",
+      "title": "Appendiceal agenesis in a 3-year-old boy presenting with suspected acute appendicitis: a case report.",
+      "abstract": "Appendiceal agenesis is a rare congenital gastrointestinal anomaly, usually discovered unexpectedly during surgery for suspected acute appendicitis. It cannot be diagnosed pre-operatively by clinical, laboratory or imaging findings, and final confirmation requires thorough surgical inspection of the ileocecal region. We report a 3-year-old boy with 38-hour intermittent abdominal pain, bilious vomiting and fever suggestive of acute appendicitis. Pre-operative CT failed to visualize the appendix but showed pericecal inflammation and enlarged mesenteric lymph nodes. Laparoscopy combined with limited open laparotomy confirmed Collins Type-III appendiceal agenesis (complete absence of the appendix with an intact caecum), accompanied by localized peritonitis and intra-abdominal adhesions. Mesenteric lymph node biopsy revealed reactive lymphadenopathy, excluding granulomatous or neoplastic lesions. The child had an uneventful postoperative recovery and was discharged in satisfactory condition. This case highlights that appendiceal agenesis should be included in the differential diagnosis when the appendix cannot be located intra-operatively, and surgeons should adhere to standardized exploration protocols before establishing this diagnosis.",
+      "journal": "Frontiers in pediatrics",
+      "issn": "2296-2360",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Yang X",
+        "Wang L",
+        "Zhang D",
+        "Yang X"
+      ],
+      "publicationTypes": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "publicationDate": "2026",
+      "year": "2026",
+      "doi": "10.3389/fped.2026.2012352",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42985037/",
+      "topics": [
+        "Mechanism",
         "Surgery",
         "Clinical Study"
       ]
@@ -4289,42 +4322,6 @@
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41242090/",
       "topics": [
         "Mechanism",
-        "Surgery",
-        "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "41531816",
-      "title": "Comparative analysis of transvaginal and transabdominal sliding sign for predicting intra-abdominal adhesions prior to repeat cesarean section: a single center study.",
-      "abstract": "Caesarean section plays a crucial role in ensuring the health of both mother and newborn, especially when complications arise or are anticipated. However, the increasing global prevalence of caesarean section brings along significant postoperative challenges, notably pelvic adhesions, which can impact subsequent pregnancies and surgeries. Non-invasive preoperative assessment methods, such as ultrasonography, offer promise in enhancing surgical planning and patient outcomes. This study aims to evaluate the accuracy of transabdominal and transvaginal sliding sign in detecting intraabdominal adhesions in third-trimester pregnant women with a history of caesarean section. This diagnostic study recruited 35 third-trimester pregnant women with a history of cesarean section undergoing scheduled repeat cesarean at a tertiary referral hospital. All participants underwent both via transvaginal (TV) and transabdominal (TA) ultrasound before surgery. The presence of a positive or negative sliding sign was recorded for each modality. Intra-abdominal adhesions were confirmed intraoperatively and used as the gold standard. Diagnostic accuracy was calculated for each modality. Comparative analysis was conducted across patient characteristics and outcomes. All 35 patients underwent both TA and TV ultrasound evaluations (within-subject design). The majority of participants were aged between 31 and 40 years (68.6%), were multigravida (65.7%), and had undergone two caesarean sections (51.4%). The sliding sign was negative in 18 (51.4%) and 17 (48.6%) patients using TA and TV approaches, respectively. Both modalities showed high sensitivity (93.75%) and specificity (84.21%) in detecting adhesions. There was no statistically significant difference between TA and TV sliding signs in relation to age or obstetric status. Comparative analysis of both modalities showed equivalent diagnostic performance. Both transabdominal and transvaginal sliding sign evaluations demonstrate high accuracy in detecting intra-abdominal adhesions in women undergoing repeat cesarean section. The within-subject comparison suggests either modality may be reliably used depending on clinical and logistic factors.",
-      "journal": "PeerJ",
-      "issn": "2167-8359",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Lestari PM",
-        "Dewi E IK",
-        "Martadiansyah A",
-        "Theodorus T",
-        "Bernolian N",
-        "Mirani P",
-        "Sutrisno MAF",
-        "Stevanny B"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Comparative Study"
-      ],
-      "publicationDate": "2026",
-      "year": "2026",
-      "doi": "10.7717/peerj.20551",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41531816/",
-      "topics": [
         "Surgery",
         "Clinical Study"
       ]
