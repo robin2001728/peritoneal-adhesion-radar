@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T04:03:06+00:00",
+  "updatedAt": "2026-11-11T01:52:28+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -107,6 +107,38 @@
       "doi": "10.1080/01443615.2026.2697492",
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42472477/",
       "topics": [
+        "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "43005753",
+      "title": "Intraoperative diagnosis of infected patent urachus causing bowel obstruction in a child - first known case report.",
+      "abstract": "Urachal abnormalities can affect children and adults. They typically present as a sinus tract, cyst, or fully patent urachus with drainage and possibly infection and pain. However, they rarely cause intra-abdominal pathology due to their extra-peritoneal location. A 2-month-old male child presented to a rural hospital in Bangladesh with purulent umbilical drainage. He was diagnosed with an infected patent urachus and was treated conservatively. However, he had abdominal distension and infrequent bowel movements, which persisted and even worsened after the clinical signs of infection at his umbilicus resolved. X-ray and ultrasound were consistent with intra-abdominal inflammation and a possible bowel obstruction, but a definitive diagnosis was not made until an exploratory laparotomy. The patient underwent lysis of adhesions between the urachus and distal small bowel, and his symptoms of bowel obstruction resolved. The patient was discharged post-operatively in good condition. Urachal abnormalities have rarely been associated with bowel obstructions in adults, and almost never in children. The only report of pediatric bowel obstruction caused by a patent urachus was diagnosed by a CT scan. This case demonstrates the need for clinicians to consider the diagnosis of mechanical bowel obstruction due to urachal abnormalities, as many hospitals in low- and middle-income countries do not have ready access to advanced imaging. Urachal abnormalities are rare in children, and when they occur, their effects are typically extra-peritoneal. However, the even rarer possibility in which a pediatric urachal infection causes associated intraperitoneal adhesions and bowel obstruction must not be forgotten in cases where the etiology of bowel obstruction is unclear.",
+      "journal": "International journal of surgery case reports",
+      "issn": "2210-2612",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Egle JP",
+        "Bipasha NY",
+        "Oosterkamp AE"
+      ],
+      "publicationTypes": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Nov",
+      "year": "2026",
+      "doi": "10.1097/RC9.0000000000001037",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43005753/",
+      "topics": [
+        "Mechanism",
+        "Surgery",
         "Clinical Study"
       ]
     },
@@ -3324,7 +3356,8 @@
       ],
       "publicationTypes": [
         "Journal Article",
-        "Multicenter Study"
+        "Multicenter Study",
+        "Research Support, Non-U.S. Gov't"
       ],
       "publicationDate": "2026",
       "year": "2026",
@@ -4284,43 +4317,6 @@
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41561569/",
       "topics": [
         "Prevention",
-        "Mechanism",
-        "Surgery",
-        "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "41242090",
-      "title": "Autoimmune encephalitis following bevacizumab therapy in ovarian carcinoma: A case report and review.",
-      "abstract": "Autoimmune encephalitis (AE) is increasingly recognized in clinical practice, yet drug-related encephalitic syndromes remain a diagnostic challenge. Immune checkpoint inhibitors (ICIs) are well-established triggers, whereas vascular endothelial growth factor (VEGF) inhibitors such as Bevacizumab are only rarely implicated, with evidence confined to case reports. Awareness of this association is essential as targeted therapies gain prominence in metastatic cancer care. We describe a 58-year-old woman with hypothyroidism and advanced ovarian carcinoma, who had previously undergone surgery and adjuvant chemotherapy in 2022 and metastasectomy for bowel involvement in 2024. She was in remission under Bevacizumab-chemotherapy combination therapy when, following reoperation for peritoneal adhesions in February 2025, she developed two episodes of transient loss of consciousness. During the attacks, fluctuating blood pressure, visual phenomena, and transient foreign-language speech were observed. MRI initially revealed left occipital leptomeningeal enhancement, and EEG showed lateralized epileptiform discharges and non-convulsive status epilepticus was considered. Although initial events were interpreted as seizure-related changes, follow-up imaging on day 15 revealed persistent abnormalities with new cortical and thalamic FLAIR hyperintensities. Neurological examination demonstrated drowsy consciousness, right homonymous hemianopia, motor aphasia, dystonic posturing of the right hand, and sensory integration deficits. Cerebrospinal fluid cytology, paraneoplastic, and autoimmune antibody panels were negative. Pulse intravenous methylprednisolone was initiated, leading to significant clinical improvement and partial radiologic regression, although word-finding difficulties persisted at last follow-up. This case illustrates an atypical, steroid-responsive encephalitic syndrome temporally associated with Bevacizumab. Unlike the well-characterized bilateral parieto-occipital patterns of PRES, our patient demonstrated unilateral leptomeningeal and cortical-thalamic involvement. The case underscores the importance of repeated neuroimaging, systematic exclusion of alternative etiologies, and timely immunotherapy in suspected drug-related encephalitis. Accumulation of further cases will be essential to clarify incidence, mechanisms, and optimal management of Bevacizumab-associated encephalitis.",
-      "journal": "Journal of neuroimmunology",
-      "issn": "1872-8421",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Gölge BF",
-        "Sarıkaya C",
-        "Bingöl CA",
-        "Aktekin B",
-        "Karabudak R",
-        "Ekinci G",
-        "Çelik S"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Case Reports",
-        "Review"
-      ],
-      "publicationDate": "2026 Jan 15",
-      "year": "2026",
-      "doi": "10.1016/j.jneuroim.2025.578804",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41242090/",
-      "topics": [
         "Mechanism",
         "Surgery",
         "Clinical Study"
