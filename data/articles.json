@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T01:52:28+00:00",
+  "updatedAt": "2026-11-12T02:52:34+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -107,6 +107,44 @@
       "doi": "10.1080/01443615.2026.2697492",
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42472477/",
       "topics": [
+        "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "43009335",
+      "title": "On-Demand Fabrication of Nanofiber Mats with a Handheld Electrospinning Device for Flexible Postoperative Adhesion Barriers.",
+      "abstract": "Postoperative adhesions remain a major clinical challenge because currently available barrier materials often show limited conformability, insufficient mechanical robustness, and suboptimal performance under moist physiological conditions. Here, we investigated an on-demand strategy for the intraoperative fabrication of antiadhesion barriers using polyurethane dispersion (PUD) and poly(ethylene oxide) (PEO) nanofiber (NF) mats fabricated by a handheld electrospinning device. The physicochemical properties, mechanical performance, degradation behavior, and cytocompatibility of the fabricated NF mats were characterized in vitro. PUD NF mat had superior wet-state mechanical stability, slower degradation, and stronger inhibition of fibroblast migration. Meanwhile, both materials showed favorable cytocompatibility. Antiadhesion efficacy was evaluated in a rat peritoneal ischemic button model, with assessment of gross adhesion formation, histological findings, and immunohistochemical and immunofluorescence markers of α-smooth muscle actin (α-SMA), Ki67, and transforming growth factor-β1 (TGF-β1). In situ electrospun NF mats reduced postoperative adhesion formation relative to controls. PUD showed the greatest reduction in adhesion incidence, tenacity, and histological fibrosis. PUD NF mats demonstrated antiadhesion efficacy comparable to that of Mediclore. The rapid PEO dissolution limited sustained barrier function despite partial macroscopic benefit. A handheld electrospinning device as a portable platform designed for on-demand antiadhesion barrier fabrication was successfully developed. PUD NF mats were identified as a promising candidate for preventing postoperative adhesions.",
+      "journal": "ACS biomaterials science & engineering",
+      "issn": "2373-9878",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Kim SH",
+        "Kim YM",
+        "Park Y",
+        "Yang M",
+        "Jeong S",
+        "Kim DG",
+        "Jeong YI",
+        "Park JK",
+        "Park JH"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Nov 10",
+      "year": "2026",
+      "doi": "10.1021/acsbiomaterials.6c01178",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43009335/",
+      "topics": [
+        "Prevention",
+        "Mechanism",
+        "Animal Study",
         "Clinical Study"
       ]
     },
@@ -4285,39 +4323,6 @@
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41717148/",
       "topics": [
         "Prevention",
-        "Surgery",
-        "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "41561569",
-      "title": "False Alarm: When Dropped Gallstones Mimic Malignant Recurrence. A Case Report and Literature Review.",
-      "abstract": "Dropped gallstones are a known complication of laparoscopic cholecystectomy, occurring in up to 40% of cases. While often considered benign, they can lead to complications like abscess formation and peritoneal adhesions. In cancer patients, dropped gallstones may mimic disease recurrence, leading to unnecessary diagnostic procedures and patient distress. We report the case of a 63-year-old woman with a history of leiomyosarcoma, previously treated with surgical resection. She subsequently underwent laparoscopic cholecystectomy for acute cholecystitis. Ten months later, she presented with nonspecific upper abdominal symptoms, and imaging indicated peritoneal nodularity suspicious for malignancy. A CT-guided biopsy was inconclusive, prompting diagnostic laparoscopy revealing multiple dropped gallstones with granulomatous inflammation but no evidence of malignancy. The patient remained symptoms free after retrieval, with no further radiological abnormalities on follow-up imaging. This case highlights the diagnostic challenges posed by dropped gallstones, particularly in oncology patients where they can be mistaken for peritoneal metastases. Surgeons should be meticulous to retrieve all gallstones during laparoscopic cholecystectomy, and radiologists should include dropped gallstones in the differential diagnosis of new intra-abdominal lesions in postsurgical patients. Awareness of this phenomenon can prevent unnecessary interventions and patient anxiety.",
-      "journal": "Case reports in obstetrics and gynecology",
-      "issn": "2090-6684",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Obeidi N",
-        "Egan M",
-        "Kelly ME",
-        "Abu Saadeh F"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publicationDate": "2026",
-      "year": "2026",
-      "doi": "10.1155/crog/5565976",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41561569/",
-      "topics": [
-        "Prevention",
-        "Mechanism",
         "Surgery",
         "Clinical Study"
       ]
