@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T01:47:59+00:00",
+  "updatedAt": "2026-11-16T01:54:37+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -107,6 +107,44 @@
       "doi": "10.1080/01443615.2026.2697492",
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42472477/",
       "topics": [
+        "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "43033490",
+      "title": "A smart adhesive self-healing Janus hydrogel for preventing postoperative peritoneal adhesion through inhibiting inflammatory responses, repairing intestinal wall integrity, and balancing fibrinolytic system.",
+      "abstract": "Postoperative peritoneal adhesion represents a significant clinical challenge in abdominal surgery, widely regarded as a major cause of morbidity, often leading to multiple complications. The main challenges with anti-adhesion materials include material dislocation and non-specific tissue adhesion. To address these issues, hydrogels with asymmetric (Janus) adhesion characteristics are crucial. However, the Janus hydrogels currently employed for preventing tissue adhesion are predominantly available in the form of hydrogel patches or photo-crosslinked hydrogels, which present limitations in their intraoperative application from the perspective of surgical practice. To address these practical engineering limitations, we constructed a self-healing unilateral adhesive QHA-ALG@GG Janus hydrogel in this work. Benefiting from the rationally designed bilayer asymmetric structure, the Schiff-base crosslinked adhesive layer enables stable in situ fixation on damaged peritoneal tissues to avoid material displacement, while the ion-crosslinked gellan gum anti-adhesive layer provides effective physical isolation, jointly ensuring durable retention of the hydrogel at lesion sites. Supported by this structural superiority, the localized and sustained hydrogel intervention effectively modulates the postoperative peritoneal microenvironment. This hydrogel effectively prevents peritoneal adhesion by modulating the fibrinolysis balance through anti-inflammatory activity, restoration of intestinal wall integrity, and regulation of plasminogen activator inhibitor-1 (PAI-1) and tissue plasminogen activator (t-PA) levels. The Janus hydrogel establishes a \"push-and-pull\" equilibrium by promoting organized mesothelial and fibroblast contraction through TGF-β1-mediated cytoskeletal maturation, while simultaneously suppressing IL-6/NF-κB-induced inflammatory infiltration, thereby accounting for its good anti-adhesive properties. The structural design endows the hydrogel with synergistic physical barrier and biological regulatory functions, achieving robust postoperative peritoneal adhesion prevention.",
+      "journal": "Biomaterials",
+      "issn": "1878-5905",
+      "journalMetrics": {
+        "partition": "JCR Q1 / CAS 1区",
+        "scoreLabel": "Impact Factor",
+        "score": "12.8",
+        "source": "JCR",
+        "year": "2024"
+      },
+      "authors": [
+        "Cai Z",
+        "Wei Y",
+        "Lu P",
+        "Guan B",
+        "Xu J",
+        "Yu S",
+        "Hou H",
+        "Liu D"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Nov 10",
+      "year": "2026",
+      "doi": "10.1016/j.biomaterials.2026.124767",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43033490/",
+      "topics": [
+        "Prevention",
+        "Biomaterials",
+        "Mechanism",
+        "Surgery",
         "Clinical Study"
       ]
     },
@@ -4291,40 +4329,6 @@
         "Mechanism",
         "Surgery",
         "Animal Study"
-      ]
-    },
-    {
-      "pmid": "41717148",
-      "title": "Ruptured Ovarian Endometrioma During Pregnancy: A Case Report and Review Highlighting Clinically Occult Risk Factors.",
-      "abstract": "The rupture of an ovarian endometrioma during pregnancy is a rare cause of acute abdominal pain, and its underlying risk factors are incompletely understood. We report a case of ovarian endometrioma rupture during pregnancy complicated by dense intra-abdominal adhesions and review previously reported cases to clarify potential risk factors. Twenty cases, including our case, were analyzed. Among cases with available data, 78.5% involved cysts measuring ≥6 cm, consistent with previous reports identifying large cyst size as a major risk factor. Adhesions were reported in seven cases, although most studies did not explicitly comment on their presence or absence. Regarding gestational age, 50% of cases occurred during the third trimester, and all cases presenting at ≥32 weeks of gestation were delivered by cesarean section. Beyond visible risk factors, such as cyst size and gestational age, clinically occult factors, including intra-abdominal adhesions, may also contribute to rupture risk. Careful early assessment and documentation of ovarian endometriomas may support clinical decision-making; however, the preventive role of pre-pregnancy surgical intervention warrants further investigation.",
-      "journal": "Cureus",
-      "issn": "2168-8184",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Miyazaki Y",
-        "Takada S",
-        "Yamazaki R",
-        "Hirabuki S",
-        "Sasaki H"
-      ],
-      "publicationTypes": [
-        "Case Reports",
-        "Journal Article"
-      ],
-      "publicationDate": "2026 Jan",
-      "year": "2026",
-      "doi": "10.7759/cureus.101871",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41717148/",
-      "topics": [
-        "Prevention",
-        "Surgery",
-        "Clinical Study"
       ]
     }
   ]
