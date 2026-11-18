@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T04:25:43+00:00",
+  "updatedAt": "2026-11-18T03:39:25+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -107,6 +107,45 @@
       "doi": "10.1080/01443615.2026.2697492",
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42472477/",
       "topics": [
+        "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "43040911",
+      "title": "Biofluid-Triggered Ferrocene-Hyaluronic Acid Hydrogel with Programmed Rigid-to-Flexible Transition for Synergistic Hemostasis and Postoperative Adhesion Prevention.",
+      "abstract": "Postoperative abdominal adhesions remain a common clinical challenge, often requiring reintervention due to the limitations of current preventive methods. In this study, we developed a ferrocene-conjugated hyaluronic acid (HA) copolymer (FH) that functions as a biofluid-triggered hemostatic patch with intrinsic anti-adhesion properties. Through systematic optimization of HA molecular weight and ferrocene grafting ratio, the FH (L1) formulation, prepared from 90 kDa HA with a 6.2% grafting ratio, was identified as the optimal candidate. Upon contact with biofluids, FH (L1) rapidly self-assembles into a mechanically robust hydrogel that seamlessly conforms to wound surfaces, achieving immediate suture-free hemostasis. The gel subsequently undergoes a programmed rigid-to-flexible transition during degradation, while its spatiotemporally controlled interfacial properties, characterized by balanced hydrophilic and hydrophobic domains, enable adequate tissue adhesion at the wound interface and resist non-specific protein deposition on the cavity-facing surface, thereby contributing to reduced postoperative adhesion formation. In vivo studies confirmed that FH (L1) promotes liver regeneration without eliciting foreign body reactions, benefiting from its excellent biocompatibility and appropriate degradation profile. This HA-based platform, integrating rapid hemostasis, timed barrier degradation, and good biosafety, represents a promising strategy for managing surgical hemorrhage and reducing the risk of postoperative adhesions.",
+      "journal": "Advanced healthcare materials",
+      "issn": "2192-2659",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Wang S",
+        "Li R",
+        "Zhang R",
+        "Ren X",
+        "Wang R",
+        "Du Y",
+        "Liu J",
+        "Yan X",
+        "Ye T",
+        "Wang S"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Nov 16",
+      "year": "2026",
+      "doi": "10.1002/adhm.71986",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43040911/",
+      "topics": [
+        "Prevention",
+        "Biomaterials",
+        "Surgery",
         "Clinical Study"
       ]
     },
@@ -1092,6 +1131,44 @@
       "topics": [
         "Surgery",
         "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "43039912",
+      "title": "Targeting HCK in M1 macrophages alleviates postoperative abdominal adhesions by suppressing NF-κB/IL6 axis-driven mesothelial-to-mesenchymal transition.",
+      "abstract": "Postoperative abdominal adhesions (PAAs) are the result of excessive or prolonged inflammation. M1 macrophages are the primary producers of proinflammatory cytokines; however, their direct contribution to PAAs and the underlying mechanism remain unclear. The results of our previous study and public database analysis revealed that peritoneal injury induced M1 macrophage infiltration with specific hematopoietic cell kinase (HCK) upregulation. In vivo HCK inhibition reduced M1 macrophage accumulation in peritoneal injury. Accordingly, in vitro, HCK inhibitors and HCK knockout suppressed M1 macrophage polarization by downregulating the NF-κB pathway. Transwell and FITC-gelatin degradation assay confirmed that HCK deficiency abolished macrophage migration and invasion by disrupting podosome assembly. Furthermore, the causal role of M1 macrophages in PAAs was confirmed by abdominal macrophage depletion and adoptive transfer. M1 macrophage HCK orchestrated the IL6-driven proadhesive mesothelial-to-mesenchymal transition (MMT) via the NF-κB pathway. Finally, perioperative HCK inhibition was verified to alleviate PAA formation through the suppression of MMT-derived myofibroblast transition. Overall, we demonstrated that targeting HCK in M1 macrophages alleviates postoperative abdominal adhesions by suppressing NF-κB/IL6 axis-driven MMT, providing a new target and available strategy for the prevention of PAAs.",
+      "journal": "Cell death & disease",
+      "issn": "2041-4889",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Li E",
+        "Shen T",
+        "Li G",
+        "Ren Y",
+        "Zhang J",
+        "Zhao P",
+        "Deng K",
+        "Sun Y",
+        "Lian J",
+        "Jiang Z",
+        "Li X"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Aug 21",
+      "year": "2026",
+      "doi": "10.1038/s41419-026-09206-x",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43039912/",
+      "topics": [
+        "Prevention",
+        "Mechanism"
       ]
     },
     {
@@ -4263,72 +4340,6 @@
       "topics": [
         "Mechanism",
         "Surgery"
-      ]
-    },
-    {
-      "pmid": "41580714",
-      "title": "Diagnostic accuracy of the sonographic sliding sign for predicting pelvic organ adhesions in gynecologic endoscopic surgery.",
-      "abstract": "Pelvic adhesions are a common consequence of prior abdominal surgery, endometriosis, malignancy, or infection, often leading to infertility, chronic pelvic pain, and surgical complications. Reliable preoperative prediction of these adhesions can guide surgical planning and minimize risks. The sonographic \"sliding sign\" has shown promise in detecting intra-abdominal adhesions, yet its routine use remains limited. This study aims to evaluate the diagnostic accuracy of both transvaginal and transabdominal ultrasonographic assessments of the sliding sign in predicting intra-abdominal adhesions prior to gynecologic endoscopic surgery. This retrospective cohort study included 262 women who underwent gynecologic endoscopic surgery at a tertiary care center in 2024. Patients with body mass index (BMI) > 35 were excluded. Both transabdominal and transvaginal ultrasonographic evaluations of the sliding sign were performed preoperatively by a single experienced physician, while operative outcomes were recorded by a blinded observer. Adhesion status, operative time, hospital stay, and surgical complications were analyzed. Statistical methods included Chi-square, Fisher's Exact test, Mann-Whitney U test, and receiver operating characteristic (ROC) curve analysis. Intra-abdominal adhesions were confirmed in 56 patients (21.4%). Absence of the sliding sign was significantly associated with the presence of adhesions (p < 0.001). Transvaginal sonography yielded a sensitivity of 77%, specificity of 100%, and area under curve (AUC) of 0.884. Transabdominal sonography demonstrated higher accuracy, with a sensitivity of 96%, specificity of 100%, and AUC of 0.982. The combination of both methods matched the diagnostic performance of transabdominal ultrasound alone. Adhesions were significantly associated with previous abdominal surgery (p < 0.001), endometriosis (p = 0.01), hypotrophic or keloid scars (p < 0.001), obliteration of the Douglas pouch (p < 0.001), longer hospital stay (p = 0.006), and increased rates of hemorrhage (p = 0.003) and bladder injury (p = 0.03). Preoperative ultrasonographic evaluation of the sliding sign is a highly accurate, non-invasive, and practical tool for predicting intra-abdominal adhesions. Both transabdominal and transvaginal sonography offers superior sensitivity and should be considered in routine preoperative assessments. Integration of this method into standard preoperative protocols may help reduce complications, optimize surgical planning, and improve patient outcomes in gynecologic endoscopic procedures.",
-      "journal": "BMC surgery",
-      "issn": "1471-2482",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Balıkoğlu M",
-        "Tanyeri U",
-        "Kıncı MF",
-        "Bozgeyik MB",
-        "Akpak YK"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publicationDate": "2026 Jan 24",
-      "year": "2026",
-      "doi": "10.1186/s12893-026-03523-w",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41580714/",
-      "topics": [
-        "Surgery",
-        "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "40467485",
-      "title": "Cyanoacrylate is still an Effective Surgical Strategy for Homeostasis: A Rodent Model of Liver Trauma and Evaluation of Early Wound Healing.",
-      "abstract": "The potential hemostatic effects of cyanoacrylate are well-known, but the histopathological effects on application sites are not clearly established. This study aims to understand the histopathological and biochemical parameters of cyanoacrylate application during the early periods of liver traumas. For this purpose, Wistar albino rats weighing 250-300 g were divided into five groups, and liver lacerations on liver lobes were created in study groups. During the study, hematocrit levels during the pre-operative phase and before sacrification, duration of bleeding, post-operative adhesions of intraabdominal compartments, levels of biochemical markers such as hydroxyproline, collagen, matrix metalloproteinase, and histopathological evaluation of liver regeneration were taken into consideration. Results revealed fibrin sealant and cyanoacrylate managed to achieve better hemostasis compared to mechanical compression and regenerated cellulose. Peritoneal Adhesion Scores of regenerated cellulose and cyanoacrylate were higher compared to mechanical compression and fibrin sealant. Histopathologically, all groups had similar levels of fibrosis, only slightly lesser in the mechanical compression group. Biochemical evaluations showed regenerated cellulose and cyanoacrylate had elevated levels of hydroxyproline, collagen I and III. In conclusion, our study demonstrated that cyanoacrylate was as effective as other tissue sealants in achieving hemostasis, and did not increase fibrosis in the early stages of liver regeneration.",
-      "journal": "The Tohoku journal of experimental medicine",
-      "issn": "1349-3329",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Orhan A",
-        "Demiryas S",
-        "Hatipoğlu E",
-        "Yanar K",
-        "Kepil N",
-        "Pekmezci S"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publicationDate": "2026 Jan 22",
-      "year": "2026",
-      "doi": "10.1620/tjem.2025.J067",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/40467485/",
-      "topics": [
-        "Mechanism",
-        "Surgery",
-        "Animal Study"
       ]
     }
   ]
