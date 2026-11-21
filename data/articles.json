@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T03:01:40+00:00",
+  "updatedAt": "2026-11-21T03:07:59+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -107,6 +107,39 @@
       "doi": "10.1080/01443615.2026.2697492",
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42472477/",
       "topics": [
+        "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "43045146",
+      "title": "'Honestly, I can't even remember the last time someone taught me how to stitch': a qualitative training needs assessment for caesarean delivery providers in Tanzania.",
+      "abstract": "As access to caesarean delivery (CD) has expanded in Tanzania, surgical complications also increasingly contribute to maternal morbidity and mortality, which may in part be explained by limited structured training. This study aimed to identify training needs of CD providers in Tanzania to inform the development of a tailored surgical curriculum. We conducted a qualitative study using a thematic analysis framework. CD providers, including medical officers (MOs), assistant medical officers (AMOs) and an obstetrics and gynaecology (Ob/Gyn) specialist, at four public health facilities in Dar es Salaam, Tanzania, were recruited. Semi-structured interviews were conducted between November and December 2024. Interviews were transcribed, translated from Swahili to English and analysed thematically by two investigators. Themes, subthemes and representative quotations were reported. 13 CD providers were interviewed, including 7 female (54%) and 6 male (46%) participants. Median age was 50 years (IQR 18 years), and median length of practice was 6 years (IQR 15 years). Eight (62%) were MOs, four (31%) were AMOs and one (8%) was an Ob/Gyn specialist. Prevalence-adjusted bias-adjusted kappa was 0.99, reflecting high inter-rater reliability. Participants cited infrastructure and workforce limitations as key training and practice barriers. They emphasised a need for education around foundational and specialised surgical techniques to manage common intraoperative complications, such as postpartum haemorrhage, bladder and bowel injury and uterine extensions, in addition to other challenging clinical scenarios, such as obstructive labour, malpresentation, multiple gestations and intraperitoneal adhesions. Participants expressed interest in a short, intensive educational programme incorporating simulation, virtual learning, observership and mentorship. Enhanced training in basic and specialised CD surgical techniques is needed to improve quality of CD services in Tanzania. Our findings will inform the development of a context-specific CD curriculum leveraging accessible technology and a train-the-trainer model for broader skills dissemination across the country.",
+      "journal": "BMJ global health",
+      "issn": "2059-7908",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Kikula A",
+        "Kaur K",
+        "Mkonyi MA",
+        "Jang M",
+        "Mui V"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Nov 17",
+      "year": "2026",
+      "doi": "10.1136/bmjgh-2025-021466",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43045146/",
+      "topics": [
+        "Prevention",
+        "Surgery",
         "Clinical Study"
       ]
     },
@@ -4305,41 +4338,6 @@
       "topics": [
         "Prevention",
         "Clinical Study"
-      ]
-    },
-    {
-      "pmid": "41773116",
-      "title": "Rare Struma Ovarii Variant of Incidental Ovarian Dermoid Cyst in a Cadaveric Donor: A Case Report.",
-      "abstract": "Post-operative adhesion is a common complication of abdominopelvic surgical procedures, including a hysterectomy. However, little is known about post-surgical tissue growths, atypical of fibrous adhesions. This case study evaluates a hysterectomized 80-year-old female anatomical donor who revealed intra-abdominal adhesions and bilateral abnormal tissue adnexal masses upon dissection and seeks to evaluate the causes of these abnormalities and potential consequences. Histologic analysis of the bilateral masses determined atrophied ovarian stromal tissue with a mature teratoma composed of respiratory epithelium and thyroid glandular tissue, consistent with struma ovarii, found in the left mass. Additional pathological findings included a proximally elongated rectum measuring 21.5 cm, a visible adhesion attaching a portion of sigmoid colon to the pelvic cavity wall, a section of sigmoid megacolon, and bilateral, smooth adipose herniations through the left and right superficial inguinal rings measuring 3.6 cm (left hernia) and 4.7 cm (right hernia). While intra-abdominal adhesions represent a major cause of post-operative complications following a hysterectomy, additional research is required on cases of teratoma complications by extensive pelvic fibrosis and the potential for active thyroid tissue in teratomas, causing death related to hypertension. The results of this case study contribute to the understanding of post-hysterectomy complications and incidental findings, aiming to do so through gross examination and histopathological analysis to better elucidate the etiology.",
-      "journal": "Cureus",
-      "issn": "2168-8184",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Jernstadt L",
-        "Blanchard NG",
-        "Farnum J",
-        "McMillan W",
-        "Kowalski P",
-        "Geske NL",
-        "Bradley LJ"
-      ],
-      "publicationTypes": [
-        "Case Reports",
-        "Journal Article"
-      ],
-      "publicationDate": "2026 Jan",
-      "year": "2026",
-      "doi": "10.7759/cureus.102640",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41773116/",
-      "topics": [
-        "Mechanism",
-        "Surgery"
       ]
     }
   ]
