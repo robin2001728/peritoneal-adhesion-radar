@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T04:51:25+00:00",
+  "updatedAt": "2026-11-26T04:05:32+00:00",
   "source": "PubMed",
   "language": "English",
   "query": "(\n  \"peritoneal adhesion\"[Title/Abstract] OR \"peritoneal adhesions\"[Title/Abstract]\n  OR \"peritoneal adhesion formation\"[Title/Abstract]\n  OR \"intraperitoneal adhesion\"[Title/Abstract] OR \"intraperitoneal adhesions\"[Title/Abstract]\n  OR \"abdominal adhesion\"[Title/Abstract] OR \"abdominal adhesions\"[Title/Abstract]\n  OR \"intra-abdominal adhesion\"[Title/Abstract] OR \"intra-abdominal adhesions\"[Title/Abstract]\n  OR \"intraabdominal adhesion\"[Title/Abstract] OR \"intraabdominal adhesions\"[Title/Abstract]\n  OR \"postoperative abdominal adhesion\"[Title/Abstract] OR \"postoperative abdominal adhesions\"[Title/Abstract]\n  OR \"postoperative peritoneal adhesion\"[Title/Abstract] OR \"postoperative peritoneal adhesions\"[Title/Abstract]\n  OR (\"Tissue Adhesions\"[MeSH Major Topic] AND \"Peritoneum\"[MeSH Major Topic])\n) AND english[Language]",
@@ -107,6 +107,43 @@
       "doi": "10.1080/01443615.2026.2697492",
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42472477/",
       "topics": [
+        "Clinical Study"
+      ]
+    },
+    {
+      "pmid": "43082405",
+      "title": "NIR-Activatable Implant Nanocoating: Spatiotemporally Controlled Drug Release, Photothermal Bactericidal Activity, and Peritoneal Adhesion Suppression.",
+      "abstract": "Bacteria readily colonize the surfaces of biomedical implant materials and form biofilms, leading to uncontrollable infections, which remain a critical clinical challenge to be resolved. Existing antibacterial coating strategies predominantly rely on unitary bactericidal mechanisms and rarely satisfy the simultaneous demand for antiadhesion capability, limiting their clinical applicability. Herein, we present a dual-functional PMCA coating that synergistically couples near-infrared (NIR) light-triggered on-demand drug release with durable antiadhesion performance. Mesoporous polydopamine nanoparticles (MPDAs) served as both carriers for chlorhexidine (CHX) and inherent photothermal transducers. CHX-loaded MPDAs were encapsulated with aldehyde functionalized hyaluronic acid (AHA) to construct core-shell nanoparticles, which were further anchored onto aminated polypropylene substrates. This design integrates bactericidal and antiadhesion functions into a single system. Under NIR irradiation, it can trigger drug release through the photothermal effect to achieve bacterial killing, while the outermost AHA layer provides durable resistance against intestinal adhesions via hydration and physical barrier effects. The inner MPDA serves as a CHX reservoir, enabling NIR-triggered drug release for bacterial killing. The outer AHA layer confers durable antiadhesion performance through physical barrier effects and hydration. This strategy synergistically combines photothermal-triggered drug release with hydration layer barrier effects, simultaneously addressing bacterial infection and postoperative intestinal adhesions, and offers a valuable reference for the development of biomedical implant materials.",
+      "journal": "ACS applied materials & interfaces",
+      "issn": "1944-8252",
+      "journalMetrics": {
+        "partition": "",
+        "scoreLabel": "",
+        "score": "",
+        "source": "",
+        "year": ""
+      },
+      "authors": [
+        "Nan S",
+        "Liu Y",
+        "Feng J",
+        "Li H",
+        "Xie X",
+        "Li C",
+        "Hou G",
+        "Zhao YQ"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publicationDate": "2026 Nov 25",
+      "year": "2026",
+      "doi": "10.1021/acsami.6c17833",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43082405/",
+      "topics": [
+        "Prevention",
+        "Biomaterials",
+        "Mechanism",
         "Clinical Study"
       ]
     },
@@ -4301,43 +4338,6 @@
         "Prevention",
         "Biomaterials",
         "Mechanism"
-      ]
-    },
-    {
-      "pmid": "40905541",
-      "title": "Efficacy of Prophylactic Agents in Preventing Adhesive Small Bowel Obstruction: A Systematic Review and Meta-Analysis.",
-      "abstract": "We identified 12 randomized controlled trials and 14 observational studies that were used for meta-analyses. Guardix, but not Seprafilm was associated with reduction in small bowel obstruction. Intraperitoneal agents were not associated with an increased rate of adverse events.",
-      "journal": "Journal of the American College of Surgeons",
-      "issn": "1879-1190",
-      "journalMetrics": {
-        "partition": "",
-        "scoreLabel": "",
-        "score": "",
-        "source": "",
-        "year": ""
-      },
-      "authors": [
-        "Huy TC",
-        "Bercz AP",
-        "Bailey AM",
-        "Christensen RR",
-        "Eng IK",
-        "Girgis MD",
-        "Carmichael SP",
-        "Ko CY",
-        "Maggard-Gibbons M",
-        "Russell TA"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publicationDate": "2026 Feb 01",
-      "year": "2026",
-      "doi": "10.1097/XCS.0000000000001613",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/40905541/",
-      "topics": [
-        "Prevention",
-        "Clinical Study"
       ]
     }
   ]
